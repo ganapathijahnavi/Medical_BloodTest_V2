@@ -1,146 +1,501 @@
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.8 mg/dL, BUN 14 mg/dL, eGFR 118 mL/min/1.73m², Uric Acid 4.2 mg/dL","output":"Interpretation: Normal renal function. Clinical significance: Kidneys are filtering well with no metabolic waste retention. Future risks: Minimal unless dehydration or hypertension develops. Lifestyle & follow-up: Maintain hydration, limit excessive salt and protein, repeat routine screening yearly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.4 mg/dL, BUN 28 mg/dL, eGFR 65 mL/min/1.73m², Uric Acid 7.8 mg/dL","output":"Interpretation: Mild kidney dysfunction with elevated uric acid. Clinical significance: Possible early CKD stage 2 with hyperuricemia. Future risks: Gout attacks, progression to CKD stage 3. Lifestyle & follow-up: Hydrate well, reduce red meat and alcohol, monitor BP, repeat kidney panel in 3 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.1 mg/dL, BUN 42 mg/dL, eGFR 34 mL/min/1.73m², Uric Acid 8.4 mg/dL","output":"Interpretation: Moderately reduced kidney function. Clinical significance: Suggestive of CKD stage 3b. Future risks: Hypertension, anemia, metabolic acidosis. Lifestyle & follow-up: Reduce sodium, limit protein intake, nephrologist consultation recommended."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.6 mg/dL, BUN 10 mg/dL, eGFR 130 mL/min/1.73m², Uric Acid 3.8 mg/dL","output":"Interpretation: Normal renal parameters. Clinical significance: Excellent kidney filtration capacity. Future risks: Low. Lifestyle & follow-up: Stay hydrated, avoid excessive NSAID use, follow general kidney-friendly lifestyle."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.9 mg/dL, BUN 39 mg/dL, eGFR 40 mL/min/1.73m², Uric Acid 9.1 mg/dL","output":"Interpretation: Significant kidney impairment with high uric acid. Clinical significance: CKD stage 3 with hyperuricemia likely. Future risks: Kidney stone formation, cardiovascular complications. Lifestyle & follow-up: Low-purine diet, control diabetes/BP, nephrology follow-up essential."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.2 mg/dL, BUN 22 mg/dL, eGFR 80 mL/min/1.73m², Uric Acid 6.1 mg/dL","output":"Interpretation: Mildly reduced eGFR but overall stable renal profile. Clinical significance: Could indicate early decline in renal function. Future risks: Hypertension-related kidney strain. Lifestyle & follow-up: Limit salt, maintain exercise, recheck in 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 3.2 mg/dL, BUN 76 mg/dL, eGFR 18 mL/min/1.73m², Uric Acid 10.0 mg/dL","output":"Interpretation: Severe renal impairment. Clinical significance: CKD stage 4–5 likely. Future risks: Kidney failure requiring dialysis, electrolyte abnormalities. Lifestyle & follow-up: Urgent nephrology referral, strict low-sodium/low-protein diet, avoid nephrotoxic drugs."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 18 mg/dL, eGFR 95 mL/min/1.73m², Uric Acid 5.5 mg/dL","output":"Interpretation: Normal kidney profile. Clinical significance: Efficient filtration with no signs of renal stress. Future risks: Low unless metabolic conditions develop. Lifestyle & follow-up: Balanced diet, hydration, annual kidney profile."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.6 mg/dL, BUN 33 mg/dL, eGFR 55 mL/min/1.73m², Uric Acid 7.2 mg/dL","output":"Interpretation: Mild to moderate reduction in kidney function. Clinical significance: Early CKD stage 3A. Future risks: Further decline if diabetes/BP uncontrolled. Lifestyle & follow-up: Reduce salt, aim for 30 minutes of activity daily, monitor kidney tests every 4 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.7 mg/dL, BUN 12 mg/dL, eGFR 125 mL/min/1.73m², Uric Acid 4.0 mg/dL","output":"Interpretation: Normal renal profile. Clinical significance: Healthy glomerular filtration rate. Future risks: Minimal. Lifestyle & follow-up: Maintain hydration and a kidney-friendly balanced diet."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.7 mg/dL, BUN 60 mg/dL, eGFR 25 mL/min/1.73m², Uric Acid 8.9 mg/dL","output":"Interpretation: Advanced renal dysfunction. Clinical significance: CKD stage 4. Future risks: Anemia, bone disease, dialysis requirement. Lifestyle & follow-up: Strict medical supervision, fluid balance monitoring, kidney specialist consultation."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.3 mg/dL, BUN 25 mg/dL, eGFR 72 mL/min/1.73m², Uric Acid 6.8 mg/dL","output":"Interpretation: Mild decline in kidney filtration. Clinical significance: Early kidney stress possibly from dehydration or high protein intake. Future risks: CKD progression. Lifestyle & follow-up: Increase water intake, reduce red meat, recheck panel in 2–3 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.5 mg/dL, BUN 40 mg/dL, eGFR 50 mL/min/1.73m², Uric Acid 5.2 mg/dL","output":"Interpretation: Moderate reduction in kidney function. Clinical significance: Suggestive of CKD stage 3. Future risks: Fluid retention, anemia, hypertension. Lifestyle & follow-up: Switch to low-sodium meals, avoid high protein, regular nephrology visits."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.9 mg/dL, BUN 15 mg/dL, eGFR 110 mL/min/1.73m², Uric Acid 3.5 mg/dL","output":"Interpretation: Normal kidney function. Clinical significance: No renal abnormalities noted. Future risks: Low. Lifestyle & follow-up: Maintain activity, avoid sugar-sweetened drinks."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.1 mg/dL, BUN 21 mg/dL, eGFR 82 mL/min/1.73m², Uric Acid 7.6 mg/dL","output":"Interpretation: Good kidney function with high uric acid. Clinical significance: Hyperuricemia risk without renal compromise. Future risks: Gout and kidney stones. Lifestyle & follow-up: Hydrate well, limit purine foods, consider uric acid lowering therapy if symptomatic."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.3 mg/dL, BUN 55 mg/dL, eGFR 29 mL/min/1.73m², Uric Acid 9.4 mg/dL","output":"Interpretation: Significant kidney dysfunction with high uric acid. Clinical significance: CKD stage 4. Future risks: Heart complications, metabolic acidosis. Lifestyle & follow-up: Immediate nephrology referral, adopt low-protein renal diet."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 19 mg/dL, eGFR 90 mL/min/1.73m², Uric Acid 5.0 mg/dL","output":"Interpretation: Healthy renal status. Clinical significance: No signs of kidney impairment. Future risks: Minimal. Lifestyle & follow-up: Balanced diet and periodic review."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.8 mg/dL, BUN 30 mg/dL, eGFR 58 mL/min/1.73m², Uric Acid 8.3 mg/dL","output":"Interpretation: Mild CKD with elevated uric acid. Clinical significance: Early renal impairment. Future risks: Uric acid stones, CKD progression. Lifestyle & follow-up: Increase water intake, reduce salt/protein, follow-up in 3 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.9 mg/dL, BUN 66 mg/dL, eGFR 22 mL/min/1.73m², Uric Acid 11.1 mg/dL","output":"Interpretation: Severe kidney impairment. Clinical significance: CKD stage 4–5. Future risks: High risk for renal failure and electrolyte imbalance. Lifestyle & follow-up: Urgent specialist care, restrict potassium/phosphorus, prepare for renal replacement planning."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.85 mg/dL, BUN 16 mg/dL, eGFR 115 mL/min/1.73m², Uric Acid 4.7 mg/dL","output":"Interpretation: Normal renal parameters. Clinical significance: Healthy clearance of nitrogenous wastes. Future risks: Low. Lifestyle & follow-up: Hydration and balanced nutrition."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.4 mg/dL, BUN 27 mg/dL, eGFR 62 mL/min/1.73m², Uric Acid 6.9 mg/dL","output":"Interpretation: Mild renal decline. Clinical significance: Likely early CKD. Future risks: Edema, metabolic issues. Lifestyle & follow-up: Reduce salt, avoid NSAIDs, recheck every 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 14 mg/dL, eGFR 100 mL/min/1.73m², Uric Acid 4.4 mg/dL","output":"Interpretation: Good kidney function. Clinical significance: Normal urea and creatinine clearance. Future risks: Minimal. Lifestyle & follow-up: Maintain hydration, avoid excessive alcohol."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.4 mg/dL, BUN 52 mg/dL, eGFR 27 mL/min/1.73m², Uric Acid 9.0 mg/dL","output":"Interpretation: Advanced kidney impairment. Clinical significance: CKD stage 4. Future risks: Cardiovascular disease, severe anemia. Lifestyle & follow-up: Close medical supervision, dietary restrictions, nephrology care."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.95 mg/dL, BUN 17 mg/dL, eGFR 108 mL/min/1.73m², Uric Acid 3.9 mg/dL","output":"Interpretation: Normal kidney function. Clinical significance: No signs of renal compromise. Future risks: Low. Lifestyle & follow-up: Maintain nutritious diet."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.7 mg/dL, BUN 32 mg/dL, eGFR 52 mL/min/1.73m², Uric Acid 7.5 mg/dL","output":"Interpretation: Mildly reduced kidney filtration. Clinical significance: CKD stage 3. Future risks: Hypertension, mineral imbalance. Lifestyle & follow-up: Reduce sodium, manage weight, schedule 3-month monitoring."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 3.5 mg/dL, BUN 82 mg/dL, eGFR 15 mL/min/1.73m², Uric Acid 12 mg/dL","output":"Interpretation: Critical kidney dysfunction. Clinical significance: CKD stage 5. Future risks: Urgent dialysis need, severe metabolic derangements. Lifestyle & follow-up: Immediate nephrology intervention."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.9 mg/dL, BUN 13 mg/dL, eGFR 110 mL/min/1.73m², Uric Acid 4.9 mg/dL","output":"Interpretation: Healthy kidney profile. Clinical significance: Efficient renal clearance. Future risks: Minimal. Lifestyle & follow-up: Normal hydration and balanced diet."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.55 mg/dL, BUN 24 mg/dL, eGFR 68 mL/min/1.73m², Uric Acid 8.0 mg/dL","output":"Interpretation: Mild kidney impairment with elevated uric acid. Clinical significance: Possible dehydration or early CKD. Future risks: Stone formation, gout. Lifestyle & follow-up: Increase fluids, avoid high-purine foods, repeat in 3 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.0 mg/dL, BUN 41 mg/dL, eGFR 36 mL/min/1.73m², Uric Acid 7.1 mg/dL","output":"Interpretation: Moderate kidney dysfunction. Clinical significance: CKD stage 3B. Future risks: Hypertension, anemia, electrolyte imbalance. Lifestyle & follow-up: Controlled diet, BP monitoring, nephrology follow-up advised."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.3 mg/dL, BUN 20 mg/dL, eGFR 78 mL/min/1.73m², Uric Acid 5.8 mg/dL","output":"Interpretation: Mild decrease in kidney filtration but within acceptable range. Clinical significance: May reflect early renal workload increase or mild dehydration. Future risks: CKD stage 2 if decline continues. Lifestyle & follow-up: Increase water intake, reduce salt and processed food, repeat test in 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.75 mg/dL, BUN 13 mg/dL, eGFR 122 mL/min/1.73m², Uric Acid 3.6 mg/dL","output":"Interpretation: Normal renal function. Clinical significance: Kidneys are performing efficiently. Future risks: Low. Lifestyle & follow-up: Maintain hydration, exercise regularly, avoid unnecessary medications."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.9 mg/dL, BUN 38 mg/dL, eGFR 45 mL/min/1.73m², Uric Acid 8.5 mg/dL","output":"Interpretation: Moderately impaired renal function with high uric acid. Clinical significance: Suggestive of CKD stage 3. Future risks: Kidney stones, hypertension, metabolic complications. Lifestyle & follow-up: Avoid purine-rich foods, manage BP, consult nephrologist."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.8 mg/dL, BUN 70 mg/dL, eGFR 21 mL/min/1.73m², Uric Acid 11.4 mg/dL","output":"Interpretation: Severe kidney impairment. Clinical significance: CKD stage 4–5. Future risks: Electrolyte imbalance, heart failure, dialysis requirement. Lifestyle & follow-up: Immediate nephrology care, low-protein diet, medication review to avoid nephrotoxins."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 19 mg/dL, eGFR 95 mL/min/1.73m², Uric Acid 6.0 mg/dL","output":"Interpretation: Normal kidney function with slightly high uric acid. Clinical significance: Possible early hyperuricemia. Future risks: Gout or stone formation. Lifestyle & follow-up: Hydrate well, reduce red meat, check uric acid in 3–6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.6 mg/dL, BUN 28 mg/dL, eGFR 60 mL/min/1.73m², Uric Acid 7.7 mg/dL","output":"Interpretation: Mild renal impairment. Clinical significance: Possibly early CKD or dehydration. Future risks: Gradual decline in filtration. Lifestyle & follow-up: Increase fluid intake, reduce salt and protein, repeat tests quarterly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.9 mg/dL, BUN 11 mg/dL, eGFR 115 mL/min/1.73m², Uric Acid 4.1 mg/dL","output":"Interpretation: Normal renal profile. Clinical significance: Good filtration capacity. Future risks: Minimal. Lifestyle & follow-up: Maintain hydration, follow routine health habits."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.2 mg/dL, BUN 44 mg/dL, eGFR 31 mL/min/1.73m², Uric Acid 9.3 mg/dL","output":"Interpretation: Advanced kidney dysfunction. Clinical significance: CKD stage 3B–4. Future risks: Bone disease, anemia, cardiovascular strain. Lifestyle & follow-up: Nephrology review, low-sodium diet, avoid NSAIDs, frequent monitoring."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.7 mg/dL, BUN 10 mg/dL, eGFR 135 mL/min/1.73m², Uric Acid 3.3 mg/dL","output":"Interpretation: Excellent renal function. Clinical significance: No evidence of renal impairment. Future risks: Very low. Lifestyle & follow-up: Continue healthy eating and hydration."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.5 mg/dL, BUN 36 mg/dL, eGFR 52 mL/min/1.73m², Uric Acid 8.9 mg/dL","output":"Interpretation: Moderate renal impairment with hyperuricemia. Clinical significance: Suggestive of early CKD progression. Future risks: Kidney stones, CKD stage advancement. Lifestyle & follow-up: Reduce animal protein, avoid alcohol, manage BP & sugar levels."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.1 mg/dL, BUN 19 mg/dL, eGFR 82 mL/min/1.73m², Uric Acid 4.8 mg/dL","output":"Interpretation: Normal renal filtration. Clinical significance: Stable kidney function. Future risks: Minimal. Lifestyle & follow-up: Regular hydration and healthy diet."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.6 mg/dL, BUN 63 mg/dL, eGFR 24 mL/min/1.73m², Uric Acid 10.1 mg/dL","output":"Interpretation: Severe renal dysfunction. Clinical significance: CKD stage 4. Future risks: Metabolic acidosis, anemia, dialysis requirement. Lifestyle & follow-up: Nephrologist consultation, fluid restriction if advised, strict diet control."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.8 mg/dL, BUN 29 mg/dL, eGFR 55 mL/min/1.73m², Uric Acid 6.7 mg/dL","output":"Interpretation: Mild kidney impairment. Clinical significance: Could indicate early CKD or dehydration. Future risks: Renal decline over years. Lifestyle & follow-up: Stay hydrated, avoid high protein, monitor kidney panel regularly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.8 mg/dL, BUN 14 mg/dL, eGFR 120 mL/min/1.73m², Uric Acid 4.3 mg/dL","output":"Interpretation: Normal results. Clinical significance: Kidneys functioning well. Future risks: Very low. Lifestyle & follow-up: Maintain hydration and routine health checks."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.9 mg/dL, BUN 71 mg/dL, eGFR 18 mL/min/1.73m², Uric Acid 11.9 mg/dL","output":"Interpretation: Critical kidney impairment. Clinical significance: CKD stage 5. Future risks: Severe electrolyte imbalance, hospitalization, dialysis. Lifestyle & follow-up: Immediate nephrology care needed."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.25 mg/dL, BUN 22 mg/dL, eGFR 84 mL/min/1.73m², Uric Acid 6.2 mg/dL","output":"Interpretation: Normal renal function with slightly high uric acid. Clinical significance: Possible metabolic stress. Future risks: Gout, kidney stones. Lifestyle & follow-up: Reduce purines, hydrate well, repeat uric acid test."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.6 mg/dL, BUN 40 mg/dL, eGFR 50 mL/min/1.73m², Uric Acid 7.9 mg/dL","output":"Interpretation: Moderate decline in kidney function. Clinical significance: CKD stage 3. Future risks: Hypertension, bone/mineral issues. Lifestyle & follow-up: Adopt renal diet, avoid NSAIDs, regular nephrology follow-ups."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.95 mg/dL, BUN 18 mg/dL, eGFR 105 mL/min/1.73m², Uric Acid 4.2 mg/dL","output":"Interpretation: Excellent kidney health. Clinical significance: No evidence of renal issues. Future risks: Low. Lifestyle & follow-up: Maintain routine hydration."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.7 mg/dL, BUN 35 mg/dL, eGFR 48 mL/min/1.73m², Uric Acid 8.1 mg/dL","output":"Interpretation: Moderate renal strain. Clinical significance: Early-to-mid CKD. Future risks: Cardiovascular strain, progression of CKD. Lifestyle & follow-up: Limit salt, control sugar, avoid nephrotoxic medicines."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.82 mg/dL, BUN 15 mg/dL, eGFR 118 mL/min/1.73m², Uric Acid 3.7 mg/dL","output":"Interpretation: Normal kidney function. Clinical significance: No abnormalities. Future risks: Very low. Lifestyle & follow-up: Healthy diet and routine lab checks."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.1 mg/dL, BUN 47 mg/dL, eGFR 34 mL/min/1.73m², Uric Acid 9.8 mg/dL","output":"Interpretation: Significant kidney impairment. Clinical significance: CKD stage 3B–4. Future risks: Anemia, metabolic acidosis. Lifestyle & follow-up: Low-sodium diet, nephrology review, avoid alcohol and NSAIDs."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 22 mg/dL, eGFR 90 mL/min/1.73m², Uric Acid 5.9 mg/dL","output":"Interpretation: Normal renal filtration with mildly high uric acid. Clinical significance: Metabolic strain possible. Future risks: Stone formation. Lifestyle & follow-up: Hydration and dietary moderation advised."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 3.0 mg/dL, BUN 80 mg/dL, eGFR 16 mL/min/1.73m², Uric Acid 12.4 mg/dL","output":"Interpretation: Critical kidney failure range. Clinical significance: CKD stage 5. Future risks: Requires urgent renal replacement therapy. Lifestyle & follow-up: Immediate hospitalization and nephrology care."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.4 mg/dL, BUN 25 mg/dL, eGFR 70 mL/min/1.73m², Uric Acid 7.0 mg/dL","output":"Interpretation: Mild renal decline with elevated uric acid. Clinical significance: Early CKD risk. Future risks: Stone formation, hypertension. Lifestyle & follow-up: Increase fluids, reduce salt and meat, monitor kidney markers."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.88 mg/dL, BUN 12 mg/dL, eGFR 120 mL/min/1.73m², Uric Acid 4.0 mg/dL","output":"Interpretation: Healthy kidney function. Clinical significance: Good clearance of nitrogenous waste. Future risks: Low. Lifestyle & follow-up: Maintain hydration and healthy eating."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.4 mg/dL, BUN 54 mg/dL, eGFR 26 mL/min/1.73m², Uric Acid 8.8 mg/dL","output":"Interpretation: Severe kidney impairment. Clinical significance: CKD stage 4. Future risks: High risk of acidosis and anemia. Lifestyle & follow-up: Controlled diet, specialist care."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.3 mg/dL, BUN 21 mg/dL, eGFR 78 mL/min/1.73m², Uric Acid 6.4 mg/dL","output":"Interpretation: Mildly reduced kidney function. Clinical significance: Possible early decline due to metabolic stress. Future risks: CKD progression. Lifestyle & follow-up: Balanced diet, avoid high sodium, repeat test in 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.9 mg/dL, BUN 40 mg/dL, eGFR 44 mL/min/1.73m², Uric Acid 7.5 mg/dL","output":"Interpretation: Moderate renal impairment. Clinical significance: CKD stage 3. Future risks: Fluid imbalance, cardiovascular disease. Lifestyle & follow-up: Nephrology review, low-sodium diet, avoid smoking."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.3 mg/dL, BUN 20 mg/dL, eGFR 78 mL/min/1.73m², Uric Acid 5.8 mg/dL","output":"Interpretation: Mild decrease in kidney filtration but within acceptable range. Clinical significance: May reflect early renal workload increase or mild dehydration. Future risks: CKD stage 2 if decline continues. Lifestyle & follow-up: Increase water intake, reduce salt and processed food, repeat test in 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.75 mg/dL, BUN 13 mg/dL, eGFR 122 mL/min/1.73m², Uric Acid 3.6 mg/dL","output":"Interpretation: Normal renal function. Clinical significance: Kidneys are performing efficiently. Future risks: Low. Lifestyle & follow-up: Maintain hydration, exercise regularly, avoid unnecessary medications."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.9 mg/dL, BUN 38 mg/dL, eGFR 45 mL/min/1.73m², Uric Acid 8.5 mg/dL","output":"Interpretation: Moderately impaired renal function with high uric acid. Clinical significance: Suggestive of CKD stage 3. Future risks: Kidney stones, hypertension, metabolic complications. Lifestyle & follow-up: Avoid purine-rich foods, manage BP, consult nephrologist."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.8 mg/dL, BUN 70 mg/dL, eGFR 21 mL/min/1.73m², Uric Acid 11.4 mg/dL","output":"Interpretation: Severe kidney impairment. Clinical significance: CKD stage 4–5. Future risks: Electrolyte imbalance, heart failure, dialysis requirement. Lifestyle & follow-up: Immediate nephrology care, low-protein diet, medication review to avoid nephrotoxins."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 19 mg/dL, eGFR 95 mL/min/1.73m², Uric Acid 6.0 mg/dL","output":"Interpretation: Normal kidney function with slightly high uric acid. Clinical significance: Possible early hyperuricemia. Future risks: Gout or stone formation. Lifestyle & follow-up: Hydrate well, reduce red meat, check uric acid in 3–6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.6 mg/dL, BUN 28 mg/dL, eGFR 60 mL/min/1.73m², Uric Acid 7.7 mg/dL","output":"Interpretation: Mild renal impairment. Clinical significance: Possibly early CKD or dehydration. Future risks: Gradual decline in filtration. Lifestyle & follow-up: Increase fluid intake, reduce salt and protein, repeat tests quarterly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.9 mg/dL, BUN 11 mg/dL, eGFR 115 mL/min/1.73m², Uric Acid 4.1 mg/dL","output":"Interpretation: Normal renal profile. Clinical significance: Good filtration capacity. Future risks: Minimal. Lifestyle & follow-up: Maintain hydration, follow routine health habits."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.2 mg/dL, BUN 44 mg/dL, eGFR 31 mL/min/1.73m², Uric Acid 9.3 mg/dL","output":"Interpretation: Advanced kidney dysfunction. Clinical significance: CKD stage 3B–4. Future risks: Bone disease, anemia, cardiovascular strain. Lifestyle & follow-up: Nephrology review, low-sodium diet, avoid NSAIDs, frequent monitoring."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.7 mg/dL, BUN 10 mg/dL, eGFR 135 mL/min/1.73m², Uric Acid 3.3 mg/dL","output":"Interpretation: Excellent renal function. Clinical significance: No evidence of renal impairment. Future risks: Very low. Lifestyle & follow-up: Continue healthy eating and hydration."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.5 mg/dL, BUN 36 mg/dL, eGFR 52 mL/min/1.73m², Uric Acid 8.9 mg/dL","output":"Interpretation: Moderate renal impairment with hyperuricemia. Clinical significance: Suggestive of early CKD progression. Future risks: Kidney stones, CKD stage advancement. Lifestyle & follow-up: Reduce animal protein, avoid alcohol, manage BP & sugar levels."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.1 mg/dL, BUN 19 mg/dL, eGFR 82 mL/min/1.73m², Uric Acid 4.8 mg/dL","output":"Interpretation: Normal renal filtration. Clinical significance: Stable kidney function. Future risks: Minimal. Lifestyle & follow-up: Regular hydration and healthy diet."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.6 mg/dL, BUN 63 mg/dL, eGFR 24 mL/min/1.73m², Uric Acid 10.1 mg/dL","output":"Interpretation: Severe renal dysfunction. Clinical significance: CKD stage 4. Future risks: Metabolic acidosis, anemia, dialysis requirement. Lifestyle & follow-up: Nephrologist consultation, fluid restriction if advised, strict diet control."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.8 mg/dL, BUN 29 mg/dL, eGFR 55 mL/min/1.73m², Uric Acid 6.7 mg/dL","output":"Interpretation: Mild kidney impairment. Clinical significance: Could indicate early CKD or dehydration. Future risks: Renal decline over years. Lifestyle & follow-up: Stay hydrated, avoid high protein, monitor kidney panel regularly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.8 mg/dL, BUN 14 mg/dL, eGFR 120 mL/min/1.73m², Uric Acid 4.3 mg/dL","output":"Interpretation: Normal results. Clinical significance: Kidneys functioning well. Future risks: Very low. Lifestyle & follow-up: Maintain hydration and routine health checks."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.9 mg/dL, BUN 71 mg/dL, eGFR 18 mL/min/1.73m², Uric Acid 11.9 mg/dL","output":"Interpretation: Critical kidney impairment. Clinical significance: CKD stage 5. Future risks: Severe electrolyte imbalance, hospitalization, dialysis. Lifestyle & follow-up: Immediate nephrology care needed."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.25 mg/dL, BUN 22 mg/dL, eGFR 84 mL/min/1.73m², Uric Acid 6.2 mg/dL","output":"Interpretation: Normal renal function with slightly high uric acid. Clinical significance: Possible metabolic stress. Future risks: Gout, kidney stones. Lifestyle & follow-up: Reduce purines, hydrate well, repeat uric acid test."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.6 mg/dL, BUN 40 mg/dL, eGFR 50 mL/min/1.73m², Uric Acid 7.9 mg/dL","output":"Interpretation: Moderate decline in kidney function. Clinical significance: CKD stage 3. Future risks: Hypertension, bone/mineral issues. Lifestyle & follow-up: Adopt renal diet, avoid NSAIDs, regular nephrology follow-ups."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.95 mg/dL, BUN 18 mg/dL, eGFR 105 mL/min/1.73m², Uric Acid 4.2 mg/dL","output":"Interpretation: Excellent kidney health. Clinical significance: No evidence of renal issues. Future risks: Low. Lifestyle & follow-up: Maintain routine hydration."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.7 mg/dL, BUN 35 mg/dL, eGFR 48 mL/min/1.73m², Uric Acid 8.1 mg/dL","output":"Interpretation: Moderate renal strain. Clinical significance: Early-to-mid CKD. Future risks: Cardiovascular strain, progression of CKD. Lifestyle & follow-up: Limit salt, control sugar, avoid nephrotoxic medicines."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.82 mg/dL, BUN 15 mg/dL, eGFR 118 mL/min/1.73m², Uric Acid 3.7 mg/dL","output":"Interpretation: Normal kidney function. Clinical significance: No abnormalities. Future risks: Very low. Lifestyle & follow-up: Healthy diet and routine lab checks."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.1 mg/dL, BUN 47 mg/dL, eGFR 34 mL/min/1.73m², Uric Acid 9.8 mg/dL","output":"Interpretation: Significant kidney impairment. Clinical significance: CKD stage 3B–4. Future risks: Anemia, metabolic acidosis. Lifestyle & follow-up: Low-sodium diet, nephrology review, avoid alcohol and NSAIDs."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 22 mg/dL, eGFR 90 mL/min/1.73m², Uric Acid 5.9 mg/dL","output":"Interpretation: Normal renal filtration with mildly high uric acid. Clinical significance: Metabolic strain possible. Future risks: Stone formation. Lifestyle & follow-up: Hydration and dietary moderation advised."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 3.0 mg/dL, BUN 80 mg/dL, eGFR 16 mL/min/1.73m², Uric Acid 12.4 mg/dL","output":"Interpretation: Critical kidney failure range. Clinical significance: CKD stage 5. Future risks: Requires urgent renal replacement therapy. Lifestyle & follow-up: Immediate hospitalization and nephrology care."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.4 mg/dL, BUN 25 mg/dL, eGFR 70 mL/min/1.73m², Uric Acid 7.0 mg/dL","output":"Interpretation: Mild renal decline with elevated uric acid. Clinical significance: Early CKD risk. Future risks: Stone formation, hypertension. Lifestyle & follow-up: Increase fluids, reduce salt and meat, monitor kidney markers."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.88 mg/dL, BUN 12 mg/dL, eGFR 120 mL/min/1.73m², Uric Acid 4.0 mg/dL","output":"Interpretation: Healthy kidney function. Clinical significance: Good clearance of nitrogenous waste. Future risks: Low. Lifestyle & follow-up: Maintain hydration and healthy eating."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.4 mg/dL, BUN 54 mg/dL, eGFR 26 mL/min/1.73m², Uric Acid 8.8 mg/dL","output":"Interpretation: Severe kidney impairment. Clinical significance: CKD stage 4. Future risks: High risk of acidosis and anemia. Lifestyle & follow-up: Controlled diet, specialist care."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.3 mg/dL, BUN 21 mg/dL, eGFR 78 mL/min/1.73m², Uric Acid 6.4 mg/dL","output":"Interpretation: Mildly reduced kidney function. Clinical significance: Possible early decline due to metabolic stress. Future risks: CKD progression. Lifestyle & follow-up: Balanced diet, avoid high sodium, repeat test in 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.9 mg/dL, BUN 40 mg/dL, eGFR 44 mL/min/1.73m², Uric Acid 7.5 mg/dL","output":"Interpretation: Moderate renal impairment. Clinical significance: CKD stage 3. Future risks: Fluid imbalance, cardiovascular disease. Lifestyle & follow-up: Nephrology review, low-sodium diet, avoid smoking."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.6 mg/dL, BUN 9 mg/dL, eGFR 135 mL/min/1.73m², Uric Acid 3.1 mg/dL","output":"Interpretation: Kidney function is excellent and uric acid is normal. Clinical significance: Efficient filtration with no biochemical evidence of renal or uric acid disorder. Future risks: Very low risk of kidney disease if healthy habits are maintained. Lifestyle & follow-up: Continue good hydration, balanced diet, and routine annual checkups."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.2 mg/dL, BUN 23 mg/dL, eGFR 82 mL/min/1.73m², Uric Acid 6.8 mg/dL","output":"Interpretation: Near-normal kidney function with mildly elevated uric acid. Clinical significance: Possible early hyperuricemia, but filtration is still acceptable. Future risks: Increased chance of gout or uric acid stones if levels rise further. Lifestyle & follow-up: Reduce red meat and sugary drinks, hydrate well, and recheck uric acid and kidney panel in 3–6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.9 mg/dL, BUN 32 mg/dL, eGFR 46 mL/min/1.73m², Uric Acid 7.9 mg/dL","output":"Interpretation: Moderate reduction in kidney function with high uric acid. Clinical significance: Consistent with CKD stage 3 and hyperuricemia. Future risks: Progression to advanced CKD, gout, and increased cardiovascular risk. Lifestyle & follow-up: Adopt a renal-friendly, low-salt diet, avoid NSAIDs and excess protein, and follow up with a nephrologist regularly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.3 mg/dL, BUN 58 mg/dL, eGFR 29 mL/min/1.73m², Uric Acid 10.5 mg/dL","output":"Interpretation: Severe impairment of kidney function with marked hyperuricemia. Clinical significance: Suggestive of CKD stage 4, with impaired clearance of nitrogenous waste and uric acid. Future risks: Electrolyte disturbances, anemia, bone disease, and progression to kidney failure. Lifestyle & follow-up: Immediate nephrology care, strict low-salt and moderate-protein diet, and close monitoring for need of renal replacement therapy."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.95 mg/dL, BUN 16 mg/dL, eGFR 104 mL/min/1.73m², Uric Acid 5.0 mg/dL","output":"Interpretation: Normal kidney function and normal uric acid. Clinical significance: No current evidence of renal or uric acid metabolism problems. Future risks: Low, assuming no other major risk factors. Lifestyle & follow-up: Maintain a healthy lifestyle, stay hydrated, and repeat tests as part of routine health checks."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.4 mg/dL, BUN 30 mg/dL, eGFR 68 mL/min/1.73m², Uric Acid 7.2 mg/dL","output":"Interpretation: Mildly decreased kidney function with elevated uric acid. Clinical significance: Early CKD or increased renal workload with hyperuricemia. Future risks: Gradual decline in eGFR, risk of gout or kidney stones. Lifestyle & follow-up: Limit purine-rich foods, maintain BP and blood sugar control, and monitor kidney function every 6–12 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.7 mg/dL, BUN 72 mg/dL, eGFR 19 mL/min/1.73m², Uric Acid 11.7 mg/dL","output":"Interpretation: Critically reduced kidney function with severe hyperuricemia. Clinical significance: CKD stage 4–5 with high toxin burden. Future risks: Imminent kidney failure, fluid overload, and serious cardiac complications. Lifestyle & follow-up: Urgent nephrology management, possible dialysis planning, and strict adherence to renal diet and medications."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.85 mg/dL, BUN 12 mg/dL, eGFR 118 mL/min/1.73m², Uric Acid 4.2 mg/dL","output":"Interpretation: Healthy renal profile. Clinical significance: Good glomerular filtration and normal uric acid handling. Future risks: Minimal if risk factors are controlled. Lifestyle & follow-up: Continue balanced diet, regular exercise, and routine lab checks once a year."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.6 mg/dL, BUN 37 mg/dL, eGFR 55 mL/min/1.73m², Uric Acid 8.3 mg/dL","output":"Interpretation: Moderate decline in kidney function with increased uric acid. Clinical significance: Consistent with CKD stage 3 and metabolic strain. Future risks: Progression of CKD and increased risk of hypertension and gout. Lifestyle & follow-up: Moderate protein intake, low salt, avoid alcohol excess, and follow with a nephrologist and dietitian."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.1 mg/dL, BUN 18 mg/dL, eGFR 92 mL/min/1.73m², Uric Acid 6.1 mg/dL","output":"Interpretation: Normal kidney function with borderline high uric acid. Clinical significance: Kidney filtration is fine, but uric acid may be trending upward. Future risks: Risk of gout or stones if levels rise further. Lifestyle & follow-up: Increase water intake, reduce sugary drinks and organ meats, and recheck uric acid in a few months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.0 mg/dL, BUN 49 mg/dL, eGFR 40 mL/min/1.73m², Uric Acid 9.1 mg/dL","output":"Interpretation: Significant reduction in kidney filtration with hyperuricemia. Clinical significance: Suggestive of CKD stage 3B–4 with impaired waste excretion. Future risks: CKD progression, cardiovascular disease, and mineral-bone disorders. Lifestyle & follow-up: Tight blood pressure and diabetes control, low-sodium diet, and regular nephrology visits."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.78 mg/dL, BUN 10 mg/dL, eGFR 125 mL/min/1.73m², Uric Acid 3.9 mg/dL","output":"Interpretation: Excellent kidney function and normal uric acid. Clinical significance: No evidence of renal or uric acid pathology. Future risks: Low if overall health is maintained. Lifestyle & follow-up: Keep active, avoid excessive NSAID use, and continue routine health screening."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.3 mg/dL, BUN 27 mg/dL, eGFR 74 mL/min/1.73m², Uric Acid 7.5 mg/dL","output":"Interpretation: Mildly reduced kidney function with elevated uric acid. Clinical significance: Early CKD risk with hyperuricemia. Future risks: Gout, stones, and gradual eGFR decline. Lifestyle & follow-up: Adopt a low-purine, low-salt diet, aim for healthy weight, and monitor renal function periodically."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.5 mg/dL, BUN 61 mg/dL, eGFR 25 mL/min/1.73m², Uric Acid 10.8 mg/dL","output":"Interpretation: Advanced kidney disease with severe hyperuricemia. Clinical significance: CKD stage 4 with impaired clearance of waste products. Future risks: Fluid overload, anemia, fractures, and need for dialysis. Lifestyle & follow-up: Nephrology-directed care, renal diet, and strict adherence to medications and follow-up schedule."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.92 mg/dL, BUN 17 mg/dL, eGFR 108 mL/min/1.73m², Uric Acid 4.7 mg/dL","output":"Interpretation: Normal renal profile. Clinical significance: Kidney function and uric acid handling are within healthy limits. Future risks: Low risk of kidney disease at present. Lifestyle & follow-up: Maintain hydration, avoid unnecessary nephrotoxic drugs, and repeat labs as part of routine checkups."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.7 mg/dL, BUN 34 mg/dL, eGFR 52 mL/min/1.73m², Uric Acid 8.0 mg/dL","output":"Interpretation: Moderate reduction in kidney function with high uric acid. Clinical significance: Early-to-moderate CKD with hyperuricemia. Future risks: CKD progression and gout development. Lifestyle & follow-up: Limit animal protein, maintain BP under control, avoid smoking, and see a nephrologist regularly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.83 mg/dL, BUN 13 mg/dL, eGFR 120 mL/min/1.73m², Uric Acid 3.5 mg/dL","output":"Interpretation: Healthy kidney function. Clinical significance: Good filtration and normal uric acid excretion. Future risks: Minimal if other risk factors are controlled. Lifestyle & follow-up: Continue healthy diet, regular exercise, and annual wellness labs."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.2 mg/dL, BUN 55 mg/dL, eGFR 32 mL/min/1.73m², Uric Acid 9.6 mg/dL","output":"Interpretation: Marked kidney impairment with elevated uric acid. Clinical significance: CKD stage 3B–4, indicating substantial nephron loss. Future risks: Progression toward kidney failure, cardiovascular problems, and metabolic complications. Lifestyle & follow-up: Follow renal specialist advice, limit salt and high-purine foods, and monitor labs frequently."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.05 mg/dL, BUN 20 mg/dL, eGFR 94 mL/min/1.73m², Uric Acid 5.6 mg/dL","output":"Interpretation: Overall normal kidney function. Clinical significance: Filtration and uric acid are within acceptable limits. Future risks: Low, with routine care. Lifestyle & follow-up: Maintain hydration, moderate salt intake, and continue general preventive health measures."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 3.1 mg/dL, BUN 82 mg/dL, eGFR 15 mL/min/1.73m², Uric Acid 12.9 mg/dL","output":"Interpretation: Critical renal failure range with severe hyperuricemia. Clinical significance: CKD stage 5, very poor kidney clearance. Future risks: Life-threatening electrolyte imbalance, heart arrhythmias, and need for urgent dialysis. Lifestyle & follow-up: Emergency nephrology management, likely hospitalization, and strict fluid and dietary restrictions under medical guidance."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.25 mg/dL, BUN 24 mg/dL, eGFR 80 mL/min/1.73m², Uric Acid 6.4 mg/dL","output":"Interpretation: Near-normal kidney function with slightly elevated uric acid. Clinical significance: Mild metabolic burden but still acceptable filtration. Future risks: Gout or stones if uric acid rises further. Lifestyle & follow-up: Increase water intake, avoid excessive red meat and alcohol, and monitor uric acid regularly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.7 mg/dL, BUN 9 mg/dL, eGFR 132 mL/min/1.73m², Uric Acid 3.2 mg/dL","output":"Interpretation: Excellent renal profile. Clinical significance: Strong filtration capacity and normal uric acid metabolism. Future risks: Very low at present. Lifestyle & follow-up: Maintain current lifestyle and attend routine annual health evaluations."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.55 mg/dL, BUN 31 mg/dL, eGFR 60 mL/min/1.73m², Uric Acid 7.6 mg/dL","output":"Interpretation: Mild-to-moderate kidney function decline with elevated uric acid. Clinical significance: Early CKD picture with hyperuricemia. Future risks: Gradual loss of kidney function and risk of gouty arthritis. Lifestyle & follow-up: Adopt a low-salt, low-purine diet, manage BP, and recheck kidney function every 3–6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.9 mg/dL, BUN 14 mg/dL, eGFR 112 mL/min/1.73m², Uric Acid 4.4 mg/dL","output":"Interpretation: Normal kidney function and normal uric acid. Clinical significance: No current evidence of renal disease. Future risks: Minimal if no major comorbidities. Lifestyle & follow-up: Maintain healthy diet, regular physical activity, and avoid unnecessary nephrotoxic medications."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.0 mg/dL, BUN 45 mg/dL, eGFR 38 mL/min/1.73m², Uric Acid 8.8 mg/dL","output":"Interpretation: Significant kidney dysfunction with raised uric acid. Clinical significance: Consistent with moderate-to-advanced CKD and hyperuricemia. Future risks: Progression to advanced CKD, bone disease, and cardiovascular complications. Lifestyle & follow-up: Follow a renal diet, stop smoking if applicable, avoid NSAIDs, and see a nephrologist frequently."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.82 mg/dL, BUN 11 mg/dL, eGFR 122 mL/min/1.73m², Uric Acid 3.8 mg/dL","output":"Interpretation: Healthy kidney function. Clinical significance: No biochemical evidence of renal or uric acid abnormality. Future risks: Low risk under stable health conditions. Lifestyle & follow-up: Continue regular hydration, moderate salt intake, and routine screening."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.45 mg/dL, BUN 28 mg/dL, eGFR 66 mL/min/1.73m², Uric Acid 7.1 mg/dL","output":"Interpretation: Mild reduction in renal filtration with slightly high uric acid. Clinical significance: Possibly early CKD or transient strain. Future risks: Progressive decline if risk factors persist. Lifestyle & follow-up: Improve blood pressure, weight and sugar control, avoid high-purine foods, and repeat tests in 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.8 mg/dL, BUN 76 mg/dL, eGFR 20 mL/min/1.73m², Uric Acid 11.2 mg/dL","output":"Interpretation: Advanced renal failure range with marked hyperuricemia. Clinical significance: CKD stage 4–5 with major toxin accumulation. Future risks: Dialysis requirement, cardiovascular complications, and hospital admissions. Lifestyle & follow-up: Urgent specialist care, renal diet, and strict follow-up schedule."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 19 mg/dL, eGFR 96 mL/min/1.73m², Uric Acid 5.3 mg/dL","output":"Interpretation: Normal kidney function and uric acid level. Clinical significance: No renal dysfunction evident. Future risks: Low, provided comorbidities are controlled. Lifestyle & follow-up: Maintain healthy habits, stay hydrated, and repeat labs annually or as advised."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.8 mg/dL, BUN 39 mg/dL, eGFR 48 mL/min/1.73m², Uric Acid 8.2 mg/dL","output":"Interpretation: Moderate impairment of kidney function with high uric acid. Clinical significance: CKD stage 3 with hyperuricemia. Future risks: Gout, nephrolithiasis, further decline in eGFR. Lifestyle & follow-up: Limit salt and animal protein, avoid dehydration, and maintain regular nephrology follow-up."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.76 mg/dL, BUN 10 mg/dL, eGFR 128 mL/min/1.73m², Uric Acid 3.4 mg/dL","output":"Interpretation: Very good kidney function. Clinical significance: Normal clearance of waste and uric acid. Future risks: Minimal at present. Lifestyle & follow-up: Continue current lifestyle and get periodic health checkups."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.6 mg/dL, BUN 33 mg/dL, eGFR 58 mL/min/1.73m², Uric Acid 7.8 mg/dL","output":"Interpretation: Mild-to-moderate reduction in kidney filtration with elevated uric acid. Clinical significance: Early CKD with metabolic load. Future risks: Gradual CKD progression and risk of gout. Lifestyle & follow-up: Eat a low-salt, plant-forward diet, keep blood pressure in the normal range, and repeat renal panel every few months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.93 mg/dL, BUN 15 mg/dL, eGFR 110 mL/min/1.73m², Uric Acid 4.6 mg/dL","output":"Interpretation: Normal renal function. Clinical significance: Adequate clearance of nitrogenous waste and normal uric acid. Future risks: Low, assuming no major chronic illnesses. Lifestyle & follow-up: Maintain hydration, avoid long-term high-dose painkillers, and repeat labs periodically."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.1 mg/dL, BUN 51 mg/dL, eGFR 35 mL/min/1.73m², Uric Acid 9.4 mg/dL","output":"Interpretation: Significant kidney dysfunction with hyperuricemia. Clinical significance: Likely CKD stage 3B–4. Future risks: Kidney failure, heart disease, and metabolic complications. Lifestyle & follow-up: Strict renal diet, optimize BP and glucose, avoid nephrotoxic drugs, and see a nephrologist regularly."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 0.88 mg/dL, BUN 13 mg/dL, eGFR 116 mL/min/1.73m², Uric Acid 3.9 mg/dL","output":"Interpretation: Healthy kidney profile. Clinical significance: Normal filtration and uric acid handling. Future risks: Minimal if risk factors are controlled. Lifestyle & follow-up: Continue balanced nutrition, adequate fluids, and routine screening."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.35 mg/dL, BUN 26 mg/dL, eGFR 72 mL/min/1.73m², Uric Acid 6.9 mg/dL","output":"Interpretation: Mild decline in kidney function and borderline high uric acid. Clinical significance: Could represent early CKD or transient strain. Future risks: Further decline in eGFR if hypertension, diabetes, or high uric acid persist. Lifestyle & follow-up: Control blood pressure, weight, and blood sugar, avoid high-purine foods, and recheck kidney panel in 6 months."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 2.9 mg/dL, BUN 78 mg/dL, eGFR 18 mL/min/1.73m², Uric Acid 11.5 mg/dL","output":"Interpretation: Advanced kidney failure range with significant hyperuricemia. Clinical significance: CKD stage 4–5 requiring urgent specialist management. Future risks: Life-threatening fluid and electrolyte abnormalities and dialysis need. Lifestyle & follow-up: Immediate nephrology supervision, adherence to renal diet, and planning for renal replacement therapy."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.0 mg/dL, BUN 17 mg/dL, eGFR 98 mL/min/1.73m², Uric Acid 5.1 mg/dL","output":"Interpretation: Normal renal function and normal uric acid. Clinical significance: No current kidney pathology evident. Future risks: Low with good lifestyle control. Lifestyle & follow-up: Maintain healthy habits and repeat kidney tests as part of routine checkups."}
-{"instruction":"Interpret kidney function profile","input":"Creatinine 1.75 mg/dL, BUN 36 mg/dL, eGFR 50 mL/min/1.73m², Uric Acid 8.0 mg/dL","output":"Interpretation: Moderate kidney function reduction with elevated uric acid. Clinical significance: CKD stage 3 pattern with hyperuricemia. Future risks: Ongoing decline in kidney function and gout or stone risk. Lifestyle & follow-up: Restrict salt and purines, keep blood pressure and diabetes under tight control, and follow up regularly with nephrology."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.7 mg/dL, BUN 32 mg/dL, eGFR 54 mL/min/1.73m², Uric acid 7.8 mg/dL","output":"Interpretation: Mild kidney dysfunction with elevated uric acid.\nClinical significance: Likely early CKD stage 3A.\nFuture risks: Progression to CKD, gout attacks.\nLifestyle & follow-up: Increase hydration, limit red meat, repeat renal panel in 3 months."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 0.8 mg/dL, BUN 12 mg/dL, eGFR 102 mL/min/1.73m², Uric acid 4.2 mg/dL","output":"Interpretation: Kidney function is normal.\nClinical significance: No evidence of renal impairment.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain hydration and balanced diet."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 2.3 mg/dL, BUN 45 mg/dL, eGFR 36 mL/min/1.73m², Uric acid 6.9 mg/dL","output":"Interpretation: Moderate renal impairment.\nClinical significance: CKD stage 3B likely.\nFuture risks: Progression to stage 4 CKD, fluid retention, electrolyte imbalance.\nLifestyle & follow-up: Nephrology referral, salt restriction, monitor potassium."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 3.1 mg/dL, BUN 65 mg/dL, eGFR 22 mL/min/1.73m², Uric acid 8.4 mg/dL","output":"Interpretation: Severe renal dysfunction.\nClinical significance: CKD stage 4.\nFuture risks: Kidney failure, dialysis need.\nLifestyle & follow-up: Urgent nephrology care, low-protein renal diet."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 0.7 mg/dL, BUN 8 mg/dL, eGFR 110 mL/min/1.73m², Uric acid 3.8 mg/dL","output":"Interpretation: Optimal kidney function.\nClinical significance: Kidneys filtering well.\nFuture risks: None.\nLifestyle & follow-up: Routine yearly lab check recommended."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.3 mg/dL, BUN 28 mg/dL, eGFR 70 mL/min/1.73m², Uric acid 7.1 mg/dL","output":"Interpretation: Borderline kidney function with hyperuricemia.\nClinical significance: Early CKD or dehydration.\nFuture risks: Gout risk.\nLifestyle & follow-up: Increase water intake, reduce purines, repeat labs when hydrated."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.0 mg/dL, BUN 17 mg/dL, eGFR 92 mL/min/1.73m², Uric acid 5.8 mg/dL","output":"Interpretation: Normal renal profile.\nClinical significance: Healthy filtration.\nFuture risks: None.\nLifestyle & follow-up: Maintain regular activity and hydration."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.9 mg/dL, BUN 38 mg/dL, eGFR 50 mL/min/1.73m², Uric acid 9.0 mg/dL","output":"Interpretation: Reduced kidney function with high uric acid.\nClinical significance: CKD stage 3 with gout risk.\nFuture risks: Uric acid kidney stones.\nLifestyle & follow-up: Hydration, low-purine diet, nephrology referral."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 4.0 mg/dL, BUN 72 mg/dL, eGFR 16 mL/min/1.73m², Uric acid 8.8 mg/dL","output":"Interpretation: Advanced renal failure.\nClinical significance: CKD stage 5.\nFuture risks: Dialysis requirement soon.\nLifestyle & follow-up: Immediate nephrology consultation, renal diet."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.6 mg/dL, BUN 20 mg/dL, eGFR 68 mL/min/1.73m², Uric acid 5.2 mg/dL","output":"Interpretation: Mildly reduced renal reserve.\nClinical significance: Early CKD or dehydration.\nFuture risks: Slow decline in renal filtration.\nLifestyle & follow-up: Increase fluids, manage BP and sugars."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 2.8 mg/dL, BUN 60 mg/dL, eGFR 25 mL/min/1.73m², Uric acid 7.9 mg/dL","output":"Interpretation: Significant renal impairment.\nClinical significance: CKD stage 4.\nFuture risks: Anemia, electrolyte imbalance.\nLifestyle & follow-up: Nephrology referral, low-salt diet."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 0.9 mg/dL, BUN 14 mg/dL, eGFR 98 mL/min/1.73m², Uric acid 4.0 mg/dL","output":"Interpretation: Normal profile.\nClinical significance: Kidneys functioning well.\nFuture risks: None.\nLifestyle & follow-up: Maintain healthy hydration."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.4 mg/dL, BUN 34 mg/dL, eGFR 59 mL/min/1.73m², Uric acid 7.0 mg/dL","output":"Interpretation: Borderline kidney function.\nClinical significance: Early CKD possible.\nFuture risks: Hypertension-related decline.\nLifestyle & follow-up: Check BP, low-sodium diet."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 3.3 mg/dL, BUN 80 mg/dL, eGFR 18 mL/min/1.73m², Uric acid 10.2 mg/dL","output":"Interpretation: Severely impaired renal function.\nClinical significance: Pre-dialysis stage.\nFuture risks: Fluid overload, cardiac strain.\nLifestyle & follow-up: Emergency nephrology referral."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.2 mg/dL, BUN 29 mg/dL, eGFR 78 mL/min/1.73m², Uric acid 6.4 mg/dL","output":"Interpretation: Mild renal decline.\nClinical significance: Possibly dehydration.\nFuture risks: Kidney stone risk.\nLifestyle & follow-up: Increase water intake."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 0.6 mg/dL, BUN 11 mg/dL, eGFR 118 mL/min/1.73m², Uric acid 3.5 mg/dL","output":"Interpretation: Excellent kidney function.\nClinical significance: Strong filtration capacity.\nFuture risks: None.\nLifestyle & follow-up: Continue healthy habits."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 2.1 mg/dL, BUN 40 mg/dL, eGFR 42 mL/min/1.73m², Uric acid 5.9 mg/dL","output":"Interpretation: Moderate kidney impairment.\nClinical significance: CKD stage 3.\nFuture risks: Progression to stage 4.\nLifestyle & follow-up: Limit protein, monitor BP."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.0 mg/dL, BUN 19 mg/dL, eGFR 92 mL/min/1.73m², Uric acid 8.0 mg/dL","output":"Interpretation: Normal kidney function but elevated uric acid.\nClinical significance: Hyperuricemia without renal damage.\nFuture risks: Gout.\nLifestyle & follow-up: Reduce red meat, increase water."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 1.8 mg/dL, BUN 50 mg/dL, eGFR 48 mL/min/1.73m², Uric acid 9.2 mg/dL","output":"Interpretation: Renal decline with uric acid excess.\nClinical significance: CKD with impaired excretion.\nFuture risks: Kidney stones, gout.\nLifestyle & follow-up: Hydration, avoid alcohol, nephrology follow-up."}
-{"instruction":"Interpret kidney function panel","input":"Creatinine 4.9 mg/dL, BUN 95 mg/dL, eGFR 12 mL/min/1.73m², Uric acid 9.5 mg/dL","output":"Interpretation: End-stage kidney disease.\nClinical significance: Dialysis likely required.\nFuture risks: Fluid overload, acidosis.\nLifestyle & follow-up: Urgent hospital referral."}
-
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. Serum Creatinine: 1.6 mg/dL, Blood Urea: 52 mg/dL, eGFR: 55 mL/min/1.73m². History of hypertension.",
+  "output": "Interpretation:\nMildly reduced kidney function.\n\nClinical Significance:\nElevated creatinine and reduced eGFR suggest early chronic kidney disease.\n\nPossible Causes:\nLong-standing hypertension causing renal damage.\n\nPotential Risks:\nProgression to moderate chronic kidney disease.\n\nLifestyle & Follow-up:\nBlood pressure control, low-sodium diet, hydration, and periodic kidney monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 38 years. Serum Creatinine: 0.8 mg/dL, Blood Urea: 24 mg/dL, eGFR: 95 mL/min/1.73m². No known medical illness.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nAll renal parameters are within normal limits.\n\nPossible Causes:\nHealthy renal filtration.\n\nPotential Risks:\nLow risk for kidney disease at present.\n\nLifestyle & Follow-up:\nMaintain hydration, balanced diet, and routine health screening."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. Serum Creatinine: 2.1 mg/dL, Blood Urea: 68 mg/dL, eGFR: 35 mL/min/1.73m². Known diabetic for 15 years.",
+  "output": "Interpretation:\nModerate reduction in kidney function.\n\nClinical Significance:\nFindings are consistent with diabetic nephropathy.\n\nPossible Causes:\nLong-standing uncontrolled diabetes mellitus.\n\nPotential Risks:\nProgression to advanced chronic kidney disease.\n\nLifestyle & Follow-up:\nStrict glycemic control, renal-friendly diet, and nephrology follow-up recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 50 years. Serum Creatinine: 1.9 mg/dL, Blood Urea: 60 mg/dL, eGFR: 40 mL/min/1.73m². History of prolonged NSAID use.",
+  "output": "Interpretation:\nReduced renal filtration capacity.\n\nClinical Significance:\nAbnormal values suggest drug-induced renal impairment.\n\nPossible Causes:\nChronic NSAID consumption.\n\nPotential Risks:\nWorsening renal damage if exposure continues.\n\nLifestyle & Follow-up:\nAvoid nephrotoxic drugs, maintain hydration, and monitor renal parameters regularly."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. Serum Creatinine: 1.4 mg/dL, Blood Urea: 48 mg/dL, eGFR: 65 mL/min/1.73m². High-protein diet and gym supplements.",
+  "output": "Interpretation:\nBorderline elevated renal markers.\n\nClinical Significance:\nMild creatinine elevation may be functional rather than pathological.\n\nPossible Causes:\nHigh protein intake and muscle mass.\n\nPotential Risks:\nPotential renal stress if excessive protein intake continues.\n\nLifestyle & Follow-up:\nModerate protein intake, adequate hydration, and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. Serum Creatinine: 2.4 mg/dL, Blood Urea: 75 mg/dL, eGFR: 28 mL/min/1.73m². History of recurrent urinary infections.",
+  "output": "Interpretation:\nSignificant reduction in kidney function.\n\nClinical Significance:\nFindings suggest chronic kidney damage.\n\nPossible Causes:\nRecurrent urinary tract infections causing renal scarring.\n\nPotential Risks:\nProgression to severe chronic kidney disease.\n\nLifestyle & Follow-up:\nAdequate hydration, infection prevention, and nephrology consultation recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. Serum Creatinine: 1.2 mg/dL, Blood Urea: 42 mg/dL, eGFR: 75 mL/min/1.73m². Recently dehydrated due to illness.",
+  "output": "Interpretation:\nMild transient renal function alteration.\n\nClinical Significance:\nElevated urea suggests dehydration-related changes.\n\nPossible Causes:\nReduced fluid intake during illness.\n\nPotential Risks:\nTemporary renal stress.\n\nLifestyle & Follow-up:\nIncrease fluid intake and repeat kidney function tests after recovery."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. Serum Creatinine: 1.7 mg/dL, Blood Urea: 55 mg/dL, eGFR: 50 mL/min/1.73m². Family history of kidney disease.",
+  "output": "Interpretation:\nEarly-stage renal impairment.\n\nClinical Significance:\nAbnormal values may indicate inherited susceptibility.\n\nPossible Causes:\nGenetic predisposition to kidney disease.\n\nPotential Risks:\nProgressive renal decline.\n\nLifestyle & Follow-up:\nRegular monitoring, dietary moderation, and renal evaluation advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. Serum Creatinine: 3.0 mg/dL, Blood Urea: 90 mg/dL, eGFR: 22 mL/min/1.73m². Complaints of swelling in legs.",
+  "output": "Interpretation:\nSeverely reduced kidney function.\n\nClinical Significance:\nFindings suggest advanced chronic kidney disease.\n\nPossible Causes:\nLong-standing renal pathology.\n\nPotential Risks:\nFluid overload, electrolyte imbalance.\n\nLifestyle & Follow-up:\nStrict dietary control, fluid monitoring, and specialist follow-up required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. Serum Creatinine: 1.0 mg/dL, Blood Urea: 30 mg/dL, eGFR: 90 mL/min/1.73m². Recently postpartum.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nRenal parameters are within normal range.\n\nPossible Causes:\nPhysiological recovery after pregnancy.\n\nPotential Risks:\nLow renal risk.\n\nLifestyle & Follow-up:\nMaintain hydration and routine health checkups."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Serum Creatinine: 1.5 mg/dL, Blood Urea: 50 mg/dL, eGFR: 58 mL/min/1.73m². History of obesity and sedentary lifestyle.",
+  "output": "Interpretation:\nMild reduction in renal function.\n\nClinical Significance:\nFindings indicate early kidney stress.\n\nPossible Causes:\nObesity-related metabolic strain.\n\nPotential Risks:\nProgressive renal dysfunction.\n\nLifestyle & Follow-up:\nWeight management, regular physical activity, and renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 64 years. Serum Creatinine: 2.0 mg/dL, Blood Urea: 70 mg/dL, eGFR: 38 mL/min/1.73m². Long-term hypertension.",
+  "output": "Interpretation:\nModerate chronic kidney disease.\n\nClinical Significance:\nPersistent hypertension has likely impaired renal function.\n\nPossible Causes:\nHypertensive nephrosclerosis.\n\nPotential Risks:\nCardiovascular complications and renal progression.\n\nLifestyle & Follow-up:\nBlood pressure control, low-sodium diet, and regular renal assessment recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 40 years. Serum Creatinine: 1.1 mg/dL, Blood Urea: 35 mg/dL, eGFR: 85 mL/min/1.73m². Mild dehydration due to outdoor work.",
+  "output": "Interpretation:\nNear-normal renal function.\n\nClinical Significance:\nSlight urea elevation suggests dehydration rather than pathology.\n\nPossible Causes:\nInsufficient fluid intake.\n\nPotential Risks:\nTransient renal stress.\n\nLifestyle & Follow-up:\nIncrease hydration and repeat testing if symptoms persist."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. Serum Creatinine: 1.8 mg/dL, Blood Urea: 58 mg/dL, eGFR: 48 mL/min/1.73m². Autoimmune thyroid disorder.",
+  "output": "Interpretation:\nMild to moderate renal impairment.\n\nClinical Significance:\nAutoimmune conditions may contribute to renal involvement.\n\nPossible Causes:\nImmune-mediated kidney injury.\n\nPotential Risks:\nWorsening renal inflammation.\n\nLifestyle & Follow-up:\nRegular monitoring and management of autoimmune condition advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 67 years. Serum Creatinine: 2.8 mg/dL, Blood Urea: 85 mg/dL, eGFR: 25 mL/min/1.73m². Long-standing diabetes and hypertension.",
+  "output": "Interpretation:\nAdvanced reduction in kidney function.\n\nClinical Significance:\nCombined metabolic and vascular damage.\n\nPossible Causes:\nDiabetic and hypertensive nephropathy.\n\nPotential Risks:\nHigh risk of renal failure.\n\nLifestyle & Follow-up:\nStrict metabolic control, renal diet, and specialist follow-up essential."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. Serum Creatinine: 0.9 mg/dL, Blood Urea: 26 mg/dL, eGFR: 98 mL/min/1.73m². Vegetarian diet.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nRenal parameters are optimal.\n\nPossible Causes:\nBalanced nutrition and healthy lifestyle.\n\nPotential Risks:\nLow risk for kidney disease.\n\nLifestyle & Follow-up:\nContinue healthy dietary habits and routine checkups."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. Serum Creatinine: 1.9 mg/dL, Blood Urea: 65 mg/dL, eGFR: 42 mL/min/1.73m². History of smoking and alcohol use.",
+  "output": "Interpretation:\nModerate renal impairment.\n\nClinical Significance:\nLifestyle factors contribute to renal stress.\n\nPossible Causes:\nChronic toxin exposure.\n\nPotential Risks:\nProgressive kidney decline.\n\nLifestyle & Follow-up:\nSmoking cessation, alcohol moderation, and renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 61 years. Serum Creatinine: 2.2 mg/dL, Blood Urea: 72 mg/dL, eGFR: 33 mL/min/1.73m². History of kidney stones.",
+  "output": "Interpretation:\nModerate reduction in kidney function.\n\nClinical Significance:\nRecurrent stones may impair renal structure.\n\nPossible Causes:\nChronic obstructive nephropathy.\n\nPotential Risks:\nFurther decline in renal capacity.\n\nLifestyle & Follow-up:\nAdequate hydration, dietary modification, and renal follow-up recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. Serum Creatinine: 1.3 mg/dL, Blood Urea: 44 mg/dL, eGFR: 70 mL/min/1.73m². Physically active, no comorbidities.",
+  "output": "Interpretation:\nSlightly reduced renal reserve.\n\nClinical Significance:\nValues may reflect physiological variation.\n\nPossible Causes:\nMuscle mass-related creatinine elevation.\n\nPotential Risks:\nLow short-term risk.\n\nLifestyle & Follow-up:\nMaintain hydration and periodic monitoring."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 56 years. Serum Creatinine: 2.5 mg/dL, Blood Urea: 80 mg/dL, eGFR: 30 mL/min/1.73m². History of recurrent dehydration episodes.",
+  "output": "Interpretation:\nSignificant renal impairment.\n\nClinical Significance:\nRepeated dehydration episodes strain kidney function.\n\nPossible Causes:\nChronic volume depletion.\n\nPotential Risks:\nProgression to severe kidney disease.\n\nLifestyle & Follow-up:\nEnsure adequate hydration and regular renal evaluation."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. Serum Creatinine: 1.6 mg/dL, Blood Urea: 54 mg/dL, eGFR: 57 mL/min/1.73m². History of uncontrolled hypertension.",
+  "output": "Interpretation:\nMild chronic reduction in kidney function.\n\nClinical Significance:\nFindings suggest early hypertensive kidney damage.\n\nPossible Causes:\nLong-standing elevated blood pressure.\n\nPotential Risks:\nProgression to chronic kidney disease if uncontrolled.\n\nLifestyle & Follow-up:\nStrict blood pressure control, low-sodium diet, and periodic renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 42 years. Serum Creatinine: 1.1 mg/dL, Blood Urea: 46 mg/dL, eGFR: 82 mL/min/1.73m². Recent gastroenteritis with poor oral intake.",
+  "output": "Interpretation:\nNear-normal kidney function with mild urea elevation.\n\nClinical Significance:\nSuggests dehydration-related changes.\n\nPossible Causes:\nFluid loss due to gastrointestinal illness.\n\nPotential Risks:\nTemporary renal stress.\n\nLifestyle & Follow-up:\nRehydration and repeat testing after recovery recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 63 years. Serum Creatinine: 2.3 mg/dL, Blood Urea: 74 mg/dL, eGFR: 32 mL/min/1.73m². Type 2 diabetes for 18 years.",
+  "output": "Interpretation:\nModerate to severe reduction in kidney function.\n\nClinical Significance:\nFindings are consistent with diabetic kidney disease.\n\nPossible Causes:\nChronic hyperglycemia-induced nephropathy.\n\nPotential Risks:\nProgression to advanced kidney failure.\n\nLifestyle & Follow-up:\nStrict glycemic control, renal-friendly diet, and nephrology follow-up advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. Serum Creatinine: 1.8 mg/dL, Blood Urea: 62 mg/dL, eGFR: 45 mL/min/1.73m². Long-term analgesic use for joint pain.",
+  "output": "Interpretation:\nModerate renal impairment.\n\nClinical Significance:\nSuggestive of chronic analgesic-related kidney injury.\n\nPossible Causes:\nProlonged NSAID consumption.\n\nPotential Risks:\nProgressive renal damage.\n\nLifestyle & Follow-up:\nAvoid nephrotoxic drugs, maintain hydration, and regular renal monitoring recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 37 years. Serum Creatinine: 1.3 mg/dL, Blood Urea: 40 mg/dL, eGFR: 72 mL/min/1.73m². Intense physical training.",
+  "output": "Interpretation:\nSlightly elevated creatinine with preserved kidney function.\n\nClinical Significance:\nLikely reflects increased muscle mass.\n\nPossible Causes:\nHigh muscle turnover.\n\nPotential Risks:\nLow risk for kidney disease.\n\nLifestyle & Follow-up:\nEnsure adequate hydration and periodic monitoring."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. Serum Creatinine: 2.6 mg/dL, Blood Urea: 88 mg/dL, eGFR: 27 mL/min/1.73m². History of recurrent urinary tract infections.",
+  "output": "Interpretation:\nSignificant decline in kidney function.\n\nClinical Significance:\nRecurrent infections may have caused chronic renal scarring.\n\nPossible Causes:\nChronic pyelonephritis.\n\nPotential Risks:\nProgression to end-stage kidney disease.\n\nLifestyle & Follow-up:\nInfection prevention, adequate hydration, and nephrology care advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 51 years. Serum Creatinine: 1.4 mg/dL, Blood Urea: 48 mg/dL, eGFR: 66 mL/min/1.73m². Borderline diabetes.",
+  "output": "Interpretation:\nMildly reduced renal reserve.\n\nClinical Significance:\nEarly metabolic changes may be affecting renal function.\n\nPossible Causes:\nPrediabetes-related renal stress.\n\nPotential Risks:\nFuture chronic kidney disease.\n\nLifestyle & Follow-up:\nBlood sugar control, healthy diet, and renal monitoring recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 46 years. Serum Creatinine: 0.9 mg/dL, Blood Urea: 28 mg/dL, eGFR: 96 mL/min/1.73m². No comorbidities.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nAll renal parameters are within normal range.\n\nPossible Causes:\nHealthy renal physiology.\n\nPotential Risks:\nLow risk.\n\nLifestyle & Follow-up:\nContinue healthy lifestyle and routine screening."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 69 years. Serum Creatinine: 2.9 mg/dL, Blood Urea: 92 mg/dL, eGFR: 21 mL/min/1.73m². Complaints of reduced urine output.",
+  "output": "Interpretation:\nSeverely impaired kidney function.\n\nClinical Significance:\nFindings suggest advanced chronic kidney disease.\n\nPossible Causes:\nAge-related decline with underlying renal pathology.\n\nPotential Risks:\nFluid overload and electrolyte imbalance.\n\nLifestyle & Follow-up:\nStrict fluid management and specialist follow-up required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 53 years. Serum Creatinine: 1.5 mg/dL, Blood Urea: 52 mg/dL, eGFR: 60 mL/min/1.73m². Recently started antihypertensive therapy.",
+  "output": "Interpretation:\nMild reduction in kidney function.\n\nClinical Significance:\nRenal function may stabilize with blood pressure control.\n\nPossible Causes:\nPreviously uncontrolled hypertension.\n\nPotential Risks:\nModerate risk of progression.\n\nLifestyle & Follow-up:\nContinue therapy, monitor renal parameters periodically."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 43 years. Serum Creatinine: 1.2 mg/dL, Blood Urea: 38 mg/dL, eGFR: 78 mL/min/1.73m². Smoker for 20 years.",
+  "output": "Interpretation:\nNear-normal kidney function.\n\nClinical Significance:\nSmoking may contribute to subtle renal stress.\n\nPossible Causes:\nChronic vascular effects of smoking.\n\nPotential Risks:\nGradual renal decline.\n\nLifestyle & Follow-up:\nSmoking cessation and periodic kidney evaluation recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 43 years. Serum Creatinine: 1.2 mg/dL, Blood Urea: 38 mg/dL, eGFR: 78 mL/min/1.73m². Smoker for 20 years.",
+  "output": "Interpretation:\nNear-normal kidney function.\n\nClinical Significance:\nSmoking may contribute to subtle renal stress.\n\nPossible Causes:\nChronic vascular effects of smoking.\n\nPotential Risks:\nGradual renal decline.\n\nLifestyle & Follow-up:\nSmoking cessation and periodic kidney evaluation recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 56 years. Serum Creatinine: 2.1 mg/dL, Blood Urea: 70 mg/dL, eGFR: 38 mL/min/1.73m². Long-standing hypertension and dyslipidemia.",
+  "output": "Interpretation:\nModerate chronic kidney impairment.\n\nClinical Significance:\nSuggests hypertensive nephrosclerosis.\n\nPossible Causes:\nChronic vascular damage from hypertension.\n\nPotential Risks:\nAccelerated renal decline.\n\nLifestyle & Follow-up:\nBlood pressure control, renal-protective diet, and specialist consultation recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 39 years. Serum Creatinine: 0.8 mg/dL, Blood Urea: 26 mg/dL, eGFR: 102 mL/min/1.73m². No significant medical history.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nRenal parameters are within optimal limits.\n\nPossible Causes:\nHealthy renal physiology.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nMaintain healthy habits and routine screening."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 61 years. Serum Creatinine: 2.8 mg/dL, Blood Urea: 90 mg/dL, eGFR: 24 mL/min/1.73m². Known diabetic nephropathy.",
+  "output": "Interpretation:\nSevere reduction in kidney function.\n\nClinical Significance:\nConsistent with advanced diabetic kidney disease.\n\nPossible Causes:\nLong-term uncontrolled diabetes.\n\nPotential Risks:\nProgression to end-stage renal disease.\n\nLifestyle & Follow-up:\nStrict glucose control, renal diet, and nephrology follow-up required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 52 years. Serum Creatinine: 1.6 mg/dL, Blood Urea: 58 mg/dL, eGFR: 52 mL/min/1.73m². Recently treated for dehydration.",
+  "output": "Interpretation:\nModerate but potentially reversible renal impairment.\n\nClinical Significance:\nFindings may reflect pre-renal azotemia.\n\nPossible Causes:\nInadequate fluid intake.\n\nPotential Risks:\nTemporary renal dysfunction.\n\nLifestyle & Follow-up:\nAdequate hydration and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. Serum Creatinine: 1.5 mg/dL, Blood Urea: 44 mg/dL, eGFR: 61 mL/min/1.73m². Uses protein supplements extensively.",
+  "output": "Interpretation:\nMild renal stress with preserved filtration.\n\nClinical Significance:\nHigh protein intake may increase renal workload.\n\nPossible Causes:\nExcess dietary protein.\n\nPotential Risks:\nLong-term renal strain.\n\nLifestyle & Follow-up:\nModerate protein intake and monitor renal function."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 67 years. Serum Creatinine: 2.4 mg/dL, Blood Urea: 78 mg/dL, eGFR: 30 mL/min/1.73m². Long-standing osteoarthritis treated with NSAIDs.",
+  "output": "Interpretation:\nModerate to severe renal impairment.\n\nClinical Significance:\nNSAID-induced nephrotoxicity suspected.\n\nPossible Causes:\nChronic analgesic use.\n\nPotential Risks:\nFurther renal deterioration.\n\nLifestyle & Follow-up:\nAvoid nephrotoxic drugs and seek nephrology evaluation."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. Serum Creatinine: 1.0 mg/dL, Blood Urea: 30 mg/dL, eGFR: 92 mL/min/1.73m². Recent febrile illness.",
+  "output": "Interpretation:\nNormal renal function.\n\nClinical Significance:\nNo evidence of kidney involvement.\n\nPossible Causes:\nTransient illness without renal impact.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nMaintain hydration and routine care."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. Serum Creatinine: 1.9 mg/dL, Blood Urea: 66 mg/dL, eGFR: 41 mL/min/1.73m². History of recurrent kidney stones.",
+  "output": "Interpretation:\nModerate decline in renal function.\n\nClinical Significance:\nRepeated obstruction may impair renal tissue.\n\nPossible Causes:\nChronic nephrolithiasis.\n\nPotential Risks:\nProgressive kidney damage.\n\nLifestyle & Follow-up:\nHydration, dietary modification, and urology follow-up advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 72 years. Serum Creatinine: 2.7 mg/dL, Blood Urea: 88 mg/dL, eGFR: 26 mL/min/1.73m². Complaints of swelling in legs.",
+  "output": "Interpretation:\nAdvanced kidney dysfunction.\n\nClinical Significance:\nFluid retention suggests declining filtration capacity.\n\nPossible Causes:\nChronic kidney disease.\n\nPotential Risks:\nElectrolyte imbalance and volume overload.\n\nLifestyle & Follow-up:\nSalt restriction, fluid monitoring, and specialist care required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 44 years. Serum Creatinine: 1.2 mg/dL, Blood Urea: 36 mg/dL, eGFR: 80 mL/min/1.73m². Mild hypertension controlled with medication.",
+  "output": "Interpretation:\nNear-normal kidney function.\n\nClinical Significance:\nNo current evidence of renal damage.\n\nPossible Causes:\nControlled blood pressure.\n\nPotential Risks:\nLow if control is maintained.\n\nLifestyle & Follow-up:\nContinue medication and periodic monitoring."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 59 years. Serum Creatinine: 2.0 mg/dL, Blood Urea: 72 mg/dL, eGFR: 40 mL/min/1.73m². History of chronic smoking.",
+  "output": "Interpretation:\nModerate renal impairment.\n\nClinical Significance:\nVascular damage may be contributing to renal decline.\n\nPossible Causes:\nSmoking-related nephropathy.\n\nPotential Risks:\nProgressive kidney disease.\n\nLifestyle & Follow-up:\nSmoking cessation and renal monitoring recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. Serum Creatinine: 0.9 mg/dL, Blood Urea: 29 mg/dL, eGFR: 98 mL/min/1.73m². Postpartum status.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nNo renal abnormalities detected.\n\nPossible Causes:\nPhysiological recovery.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nMaintain hydration and follow routine care."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 64 years. Serum Creatinine: 2.2 mg/dL, Blood Urea: 76 mg/dL, eGFR: 35 mL/min/1.73m². History of coronary artery disease.",
+  "output": "Interpretation:\nModerate chronic kidney disease.\n\nClinical Significance:\nShared vascular pathology affecting kidneys.\n\nPossible Causes:\nAtherosclerotic renal disease.\n\nPotential Risks:\nCardiorenal complications.\n\nLifestyle & Follow-up:\nCardiovascular risk control and renal follow-up advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 50 years. Serum Creatinine: 1.7 mg/dL, Blood Urea: 60 mg/dL, eGFR: 48 mL/min/1.73m². Poor dietary compliance.",
+  "output": "Interpretation:\nModerate reduction in kidney function.\n\nClinical Significance:\nDietary factors may worsen renal load.\n\nPossible Causes:\nHigh salt and processed food intake.\n\nPotential Risks:\nWorsening renal impairment.\n\nLifestyle & Follow-up:\nRenal-friendly diet and routine monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. Serum Creatinine: 1.3 mg/dL, Blood Urea: 42 mg/dL, eGFR: 70 mL/min/1.73m². Mild dehydration due to heat exposure.",
+  "output": "Interpretation:\nMild reversible renal changes.\n\nClinical Significance:\nPre-renal factors likely.\n\nPossible Causes:\nInsufficient fluid intake.\n\nPotential Risks:\nTemporary kidney stress.\n\nLifestyle & Follow-up:\nHydration and repeat testing recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. Serum Creatinine: 1.6 mg/dL, Blood Urea: 58 mg/dL, eGFR: 54 mL/min/1.73m². History of poorly controlled hypertension.",
+  "output": "Interpretation:\nMild to moderate reduction in kidney function.\n\nClinical Significance:\nSuggestive of hypertensive kidney involvement.\n\nPossible Causes:\nChronic elevated blood pressure causing renal vascular damage.\n\nPotential Risks:\nProgression to chronic kidney disease.\n\nLifestyle & Follow-up:\nStrict blood pressure control, low-salt diet, and renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 62 years. Serum Creatinine: 2.5 mg/dL, Blood Urea: 82 mg/dL, eGFR: 28 mL/min/1.73m². Long-standing diabetes mellitus.",
+  "output": "Interpretation:\nSeverely reduced kidney function.\n\nClinical Significance:\nFindings are consistent with advanced diabetic nephropathy.\n\nPossible Causes:\nChronic hyperglycemia-induced renal damage.\n\nPotential Risks:\nProgression to end-stage renal disease.\n\nLifestyle & Follow-up:\nTight glycemic control, renal diet, and nephrology follow-up required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 40 years. Serum Creatinine: 1.1 mg/dL, Blood Urea: 34 mg/dL, eGFR: 85 mL/min/1.73m². High caffeine intake and low water consumption.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nMild dehydration may influence urea levels.\n\nPossible Causes:\nInsufficient fluid intake.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nIncrease water intake and maintain healthy hydration habits."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 59 years. Serum Creatinine: 1.9 mg/dL, Blood Urea: 68 mg/dL, eGFR: 42 mL/min/1.73m². History of recurrent urinary tract infections.",
+  "output": "Interpretation:\nModerate decline in renal function.\n\nClinical Significance:\nRepeated infections may have caused renal scarring.\n\nPossible Causes:\nChronic pyelonephritis.\n\nPotential Risks:\nProgressive kidney damage.\n\nLifestyle & Follow-up:\nUTI prevention strategies and nephrology consultation advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 68 years. Serum Creatinine: 2.7 mg/dL, Blood Urea: 90 mg/dL, eGFR: 24 mL/min/1.73m². Complaints of fatigue and reduced appetite.",
+  "output": "Interpretation:\nAdvanced kidney dysfunction.\n\nClinical Significance:\nFindings suggest late-stage chronic kidney disease.\n\nPossible Causes:\nAge-related decline with underlying renal pathology.\n\nPotential Risks:\nUremic symptoms and electrolyte imbalance.\n\nLifestyle & Follow-up:\nRenal diet, symptom monitoring, and specialist care required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. Serum Creatinine: 0.8 mg/dL, Blood Urea: 25 mg/dL, eGFR: 104 mL/min/1.73m². No medical complaints.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nAll parameters are within optimal range.\n\nPossible Causes:\nHealthy renal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue healthy lifestyle and routine health checks."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 47 years. Serum Creatinine: 1.5 mg/dL, Blood Urea: 50 mg/dL, eGFR: 62 mL/min/1.73m². Regular alcohol consumption.",
+  "output": "Interpretation:\nMild renal impairment.\n\nClinical Significance:\nAlcohol-related dehydration may contribute to renal stress.\n\nPossible Causes:\nChronic alcohol intake and inadequate hydration.\n\nPotential Risks:\nGradual renal decline.\n\nLifestyle & Follow-up:\nLimit alcohol intake, improve hydration, and monitor renal function."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 64 years. Serum Creatinine: 2.3 mg/dL, Blood Urea: 78 mg/dL, eGFR: 33 mL/min/1.73m². History of long-term NSAID use.",
+  "output": "Interpretation:\nModerate to severe renal impairment.\n\nClinical Significance:\nNSAID-induced nephrotoxicity suspected.\n\nPossible Causes:\nChronic use of pain medications.\n\nPotential Risks:\nFurther renal deterioration.\n\nLifestyle & Follow-up:\nAvoid nephrotoxic drugs and seek nephrology evaluation."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Serum Creatinine: 1.4 mg/dL, Blood Urea: 46 mg/dL, eGFR: 68 mL/min/1.73m². Prediabetes.",
+  "output": "Interpretation:\nMild reduction in renal reserve.\n\nClinical Significance:\nEarly metabolic changes affecting kidney health.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nFuture chronic kidney disease.\n\nLifestyle & Follow-up:\nBlood sugar control and renal monitoring recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 70 years. Serum Creatinine: 2.9 mg/dL, Blood Urea: 94 mg/dL, eGFR: 22 mL/min/1.73m². Complaints of leg swelling.",
+  "output": "Interpretation:\nSevere kidney dysfunction.\n\nClinical Significance:\nFluid retention indicates advanced renal failure.\n\nPossible Causes:\nChronic kidney disease.\n\nPotential Risks:\nVolume overload and cardiovascular complications.\n\nLifestyle & Follow-up:\nFluid restriction, salt limitation, and urgent nephrology care needed."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. Serum Creatinine: 1.0 mg/dL, Blood Urea: 32 mg/dL, eGFR: 90 mL/min/1.73m². Recently recovered from viral illness.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nNo persistent renal involvement detected.\n\nPossible Causes:\nResolved acute illness.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nMaintain hydration and routine follow-up."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 57 years. Serum Creatinine: 1.8 mg/dL, Blood Urea: 64 mg/dL, eGFR: 44 mL/min/1.73m². History of coronary artery disease.",
+  "output": "Interpretation:\nModerate chronic kidney disease.\n\nClinical Significance:\nShared vascular pathology affecting renal function.\n\nPossible Causes:\nAtherosclerotic renal disease.\n\nPotential Risks:\nCardiorenal complications.\n\nLifestyle & Follow-up:\nCardiovascular risk management and renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 61 years. Serum Creatinine: 2.0 mg/dL, Blood Urea: 70 mg/dL, eGFR: 39 mL/min/1.73m². History of chronic smoking.",
+  "output": "Interpretation:\nModerate renal impairment.\n\nClinical Significance:\nSmoking-related vascular damage may contribute to renal decline.\n\nPossible Causes:\nChronic tobacco exposure.\n\nPotential Risks:\nProgressive kidney disease.\n\nLifestyle & Follow-up:\nSmoking cessation and regular renal assessment recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 45 years. Serum Creatinine: 1.3 mg/dL, Blood Urea: 40 mg/dL, eGFR: 74 mL/min/1.73m². Mild obesity.",
+  "output": "Interpretation:\nNear-normal kidney function.\n\nClinical Significance:\nMetabolic stress may mildly affect renal parameters.\n\nPossible Causes:\nExcess body weight.\n\nPotential Risks:\nFuture renal stress.\n\nLifestyle & Follow-up:\nWeight management and healthy lifestyle advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 56 years. Serum Creatinine: 1.7 mg/dL, Blood Urea: 55 mg/dL, eGFR: 58 mL/min/1.73m². Long-standing hypertension.",
+  "output": "Interpretation:\nMild to moderate reduction in kidney function.\n\nClinical Significance:\nLikely hypertensive nephropathy.\n\nPossible Causes:\nChronic elevated blood pressure.\n\nPotential Risks:\nProgression to chronic kidney disease.\n\nLifestyle & Follow-up:\nStrict blood pressure control and renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 63 years. Serum Creatinine: 2.4 mg/dL, Blood Urea: 80 mg/dL, eGFR: 30 mL/min/1.73m². History of type 2 diabetes.",
+  "output": "Interpretation:\nSeverely reduced kidney function.\n\nClinical Significance:\nConsistent with advanced diabetic nephropathy.\n\nPossible Causes:\nChronic hyperglycemia-induced renal damage.\n\nPotential Risks:\nProgression to end-stage renal disease.\n\nLifestyle & Follow-up:\nTight glycemic control and nephrology referral required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 42 years. Serum Creatinine: 1.2 mg/dL, Blood Urea: 38 mg/dL, eGFR: 82 mL/min/1.73m². High-protein diet.",
+  "output": "Interpretation:\nNear-normal kidney function.\n\nClinical Significance:\nSlight urea elevation likely dietary.\n\nPossible Causes:\nHigh protein intake.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nBalanced diet and adequate hydration recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 70 years. Serum Creatinine: 2.8 mg/dL, Blood Urea: 92 mg/dL, eGFR: 23 mL/min/1.73m². Complaints of fatigue and nausea.",
+  "output": "Interpretation:\nSevere renal impairment.\n\nClinical Significance:\nSymptoms suggest uremia.\n\nPossible Causes:\nAdvanced chronic kidney disease.\n\nPotential Risks:\nElectrolyte imbalance and toxin accumulation.\n\nLifestyle & Follow-up:\nUrgent nephrology care and renal diet advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 35 years. Serum Creatinine: 0.9 mg/dL, Blood Urea: 28 mg/dL, eGFR: 108 mL/min/1.73m². Physically active.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nHealthy renal physiology.\n\nPossible Causes:\nGood hydration and fitness.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue healthy habits."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. Serum Creatinine: 1.9 mg/dL, Blood Urea: 66 mg/dL, eGFR: 41 mL/min/1.73m². Long-term NSAID use.",
+  "output": "Interpretation:\nModerate renal impairment.\n\nClinical Significance:\nNSAID-induced nephrotoxicity suspected.\n\nPossible Causes:\nChronic pain medication usage.\n\nPotential Risks:\nFurther renal decline.\n\nLifestyle & Follow-up:\nAvoid NSAIDs and consult nephrologist."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 65 years. Serum Creatinine: 2.2 mg/dL, Blood Urea: 75 mg/dL, eGFR: 36 mL/min/1.73m². History of ischemic heart disease.",
+  "output": "Interpretation:\nModerate chronic kidney disease.\n\nClinical Significance:\nCardiorenal syndrome likely.\n\nPossible Causes:\nShared vascular pathology.\n\nPotential Risks:\nCardiovascular and renal complications.\n\nLifestyle & Follow-up:\nCardiac and renal risk optimization required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. Serum Creatinine: 1.4 mg/dL, Blood Urea: 45 mg/dL, eGFR: 72 mL/min/1.73m². Overweight.",
+  "output": "Interpretation:\nMild reduction in renal reserve.\n\nClinical Significance:\nMetabolic stress affecting kidneys.\n\nPossible Causes:\nObesity-related renal strain.\n\nPotential Risks:\nFuture chronic kidney disease.\n\nLifestyle & Follow-up:\nWeight reduction and lifestyle changes advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 72 years. Serum Creatinine: 3.1 mg/dL, Blood Urea: 98 mg/dL, eGFR: 20 mL/min/1.73m². Pedal edema present.",
+  "output": "Interpretation:\nAdvanced kidney failure.\n\nClinical Significance:\nFluid overload due to reduced renal clearance.\n\nPossible Causes:\nEnd-stage chronic kidney disease.\n\nPotential Risks:\nHeart failure and electrolyte disturbances.\n\nLifestyle & Follow-up:\nFluid restriction and urgent nephrology management required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 39 years. Serum Creatinine: 1.0 mg/dL, Blood Urea: 30 mg/dL, eGFR: 95 mL/min/1.73m². Recent dehydration episode.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nNo lasting renal impairment detected.\n\nPossible Causes:\nResolved dehydration.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nMaintain adequate hydration."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. Serum Creatinine: 2.0 mg/dL, Blood Urea: 70 mg/dL, eGFR: 38 mL/min/1.73m². Chronic smoker.",
+  "output": "Interpretation:\nModerate kidney dysfunction.\n\nClinical Significance:\nSmoking-related vascular damage contributing to renal decline.\n\nPossible Causes:\nChronic tobacco exposure.\n\nPotential Risks:\nProgressive kidney disease.\n\nLifestyle & Follow-up:\nSmoking cessation and renal monitoring recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 68 years. Serum Creatinine: 2.6 mg/dL, Blood Urea: 88 mg/dL, eGFR: 27 mL/min/1.73m². Long-standing hypertension.",
+  "output": "Interpretation:\nSevere renal impairment.\n\nClinical Significance:\nHypertensive nephrosclerosis suspected.\n\nPossible Causes:\nChronic uncontrolled blood pressure.\n\nPotential Risks:\nEnd-stage renal disease.\n\nLifestyle & Follow-up:\nAggressive blood pressure control and nephrology care required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. Serum Creatinine: 1.3 mg/dL, Blood Urea: 42 mg/dL, eGFR: 78 mL/min/1.73m². No comorbidities.",
+  "output": "Interpretation:\nNear-normal kidney function.\n\nClinical Significance:\nSlight variations within acceptable range.\n\nPossible Causes:\nPhysiological variation.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nRoutine follow-up advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 74 years. Serum Creatinine: 3.3 mg/dL, Blood Urea: 102 mg/dL, eGFR: 18 mL/min/1.73m². Reduced urine output.",
+  "output": "Interpretation:\nSevere kidney failure.\n\nClinical Significance:\nMarked reduction in renal filtration.\n\nPossible Causes:\nAdvanced chronic kidney disease.\n\nPotential Risks:\nUremia and life-threatening complications.\n\nLifestyle & Follow-up:\nImmediate nephrology intervention required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. Serum Creatinine: 1.6 mg/dL, Blood Urea: 54 mg/dL, eGFR: 60 mL/min/1.73m². Prediabetic.",
+  "output": "Interpretation:\nMild reduction in kidney function.\n\nClinical Significance:\nEarly metabolic impact on kidneys.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nProgression to diabetic kidney disease.\n\nLifestyle & Follow-up:\nBlood sugar control and renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 52 years. Serum Creatinine: 1.8 mg/dL, Blood Urea: 58 mg/dL, eGFR: 48 mL/min/1.73m². Long-standing hypertension.",
+  "output": "Interpretation:\nModerate reduction in kidney function.\n\nClinical Significance:\nSuggestive of hypertensive kidney damage.\n\nPossible Causes:\nChronic uncontrolled blood pressure.\n\nPotential Risks:\nProgression to chronic kidney disease.\n\nLifestyle & Follow-up:\nStrict blood pressure control and renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 64 years. Serum Creatinine: 2.5 mg/dL, Blood Urea: 82 mg/dL, eGFR: 29 mL/min/1.73m². Known diabetic for 15 years.",
+  "output": "Interpretation:\nSevere reduction in kidney function.\n\nClinical Significance:\nAdvanced diabetic nephropathy.\n\nPossible Causes:\nLong-term poor glycemic control.\n\nPotential Risks:\nEnd-stage renal disease.\n\nLifestyle & Follow-up:\nTight glucose control and nephrology consultation required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. Serum Creatinine: 1.1 mg/dL, Blood Urea: 34 mg/dL, eGFR: 90 mL/min/1.73m². No medical history.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nHealthy renal filtration.\n\nPossible Causes:\nPhysiological normal values.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nMaintain healthy lifestyle."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 71 years. Serum Creatinine: 2.9 mg/dL, Blood Urea: 95 mg/dL, eGFR: 22 mL/min/1.73m². Reduced appetite and fatigue.",
+  "output": "Interpretation:\nAdvanced kidney failure.\n\nClinical Significance:\nSymptoms suggest uremia.\n\nPossible Causes:\nAdvanced chronic kidney disease.\n\nPotential Risks:\nToxin accumulation and electrolyte imbalance.\n\nLifestyle & Follow-up:\nUrgent nephrology referral and renal diet advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. Serum Creatinine: 1.6 mg/dL, Blood Urea: 52 mg/dL, eGFR: 62 mL/min/1.73m². Obese with sedentary lifestyle.",
+  "output": "Interpretation:\nMild reduction in kidney function.\n\nClinical Significance:\nEarly metabolic stress on kidneys.\n\nPossible Causes:\nObesity-related renal strain.\n\nPotential Risks:\nFuture chronic kidney disease.\n\nLifestyle & Follow-up:\nWeight loss and physical activity recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. Serum Creatinine: 0.8 mg/dL, Blood Urea: 26 mg/dL, eGFR: 112 mL/min/1.73m². Recently postpartum.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nHealthy renal clearance.\n\nPossible Causes:\nPhysiological state.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine follow-up only."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 68 years. Serum Creatinine: 2.7 mg/dL, Blood Urea: 90 mg/dL, eGFR: 26 mL/min/1.73m². Pedal edema present.",
+  "output": "Interpretation:\nSevere kidney impairment.\n\nClinical Significance:\nFluid retention due to poor renal clearance.\n\nPossible Causes:\nAdvanced chronic kidney disease.\n\nPotential Risks:\nHeart failure and electrolyte imbalance.\n\nLifestyle & Follow-up:\nFluid restriction and nephrology care required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 59 years. Serum Creatinine: 1.9 mg/dL, Blood Urea: 64 mg/dL, eGFR: 44 mL/min/1.73m². Long-term NSAID use.",
+  "output": "Interpretation:\nModerate kidney dysfunction.\n\nClinical Significance:\nDrug-induced nephrotoxicity suspected.\n\nPossible Causes:\nChronic NSAID consumption.\n\nPotential Risks:\nFurther renal deterioration.\n\nLifestyle & Follow-up:\nAvoid nephrotoxic drugs and monitor renal function."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 73 years. Serum Creatinine: 3.4 mg/dL, Blood Urea: 105 mg/dL, eGFR: 17 mL/min/1.73m². Confusion and nausea.",
+  "output": "Interpretation:\nEnd-stage kidney failure.\n\nClinical Significance:\nUremic symptoms present.\n\nPossible Causes:\nAdvanced chronic kidney disease.\n\nPotential Risks:\nLife-threatening complications.\n\nLifestyle & Follow-up:\nImmediate nephrology intervention and dialysis planning required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 45 years. Serum Creatinine: 1.2 mg/dL, Blood Urea: 36 mg/dL, eGFR: 85 mL/min/1.73m². Mild dehydration.",
+  "output": "Interpretation:\nNear-normal kidney function.\n\nClinical Significance:\nMild reversible elevation due to dehydration.\n\nPossible Causes:\nInadequate fluid intake.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nIncrease hydration and repeat tests if needed."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. Serum Creatinine: 2.1 mg/dL, Blood Urea: 72 mg/dL, eGFR: 39 mL/min/1.73m². Smoker and alcoholic.",
+  "output": "Interpretation:\nModerate chronic kidney disease.\n\nClinical Significance:\nLifestyle-related vascular and renal damage.\n\nPossible Causes:\nChronic smoking and alcohol use.\n\nPotential Risks:\nProgressive kidney failure.\n\nLifestyle & Follow-up:\nSmoking cessation and alcohol reduction advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 66 years. Serum Creatinine: 2.3 mg/dL, Blood Urea: 78 mg/dL, eGFR: 33 mL/min/1.73m². History of recurrent UTIs.",
+  "output": "Interpretation:\nModerate to severe kidney impairment.\n\nClinical Significance:\nPossible chronic pyelonephritis.\n\nPossible Causes:\nRecurrent urinary tract infections.\n\nPotential Risks:\nProgressive renal scarring.\n\nLifestyle & Follow-up:\nUrologic evaluation and nephrology follow-up required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. Serum Creatinine: 1.5 mg/dL, Blood Urea: 48 mg/dL, eGFR: 68 mL/min/1.73m². Prehypertensive.",
+  "output": "Interpretation:\nMild reduction in renal function.\n\nClinical Significance:\nEarly vascular impact on kidneys.\n\nPossible Causes:\nElevated blood pressure.\n\nPotential Risks:\nChronic kidney disease development.\n\nLifestyle & Follow-up:\nBlood pressure monitoring and lifestyle modification advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 75 years. Serum Creatinine: 3.6 mg/dL, Blood Urea: 110 mg/dL, eGFR: 15 mL/min/1.73m². Reduced urine output.",
+  "output": "Interpretation:\nEnd-stage renal disease.\n\nClinical Significance:\nSeverely impaired filtration capacity.\n\nPossible Causes:\nAdvanced chronic kidney disease.\n\nPotential Risks:\nUremia and multi-organ complications.\n\nLifestyle & Follow-up:\nImmediate dialysis planning and specialist care required."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. Serum Creatinine: 2.6 mg/dL, Blood Urea: 78 mg/dL, eGFR: 28 mL/min/1.73m². History of long-standing diabetes.",
+  "output": "Interpretation:\nSeverely reduced kidney function consistent with advanced chronic kidney disease.\n\nClinical Significance:\nLow eGFR and elevated waste products indicate impaired renal filtration.\n\nPossible Causes:\nDiabetic nephropathy.\n\nPotential Risks:\nProgression to end-stage renal disease.\n\nLifestyle & Follow-up:\nStrict glycemic control, nephrology follow-up, and dietary protein restriction advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. Serum Creatinine: 1.9 mg/dL, Blood Urea: 60 mg/dL, eGFR: 38 mL/min/1.73m². History of recurrent urinary tract infections.",
+  "output": "Interpretation:\nModerate chronic kidney disease.\n\nClinical Significance:\nReduced filtration capacity of the kidneys.\n\nPossible Causes:\nRecurrent infections leading to chronic renal damage.\n\nPotential Risks:\nFurther decline in kidney function.\n\nLifestyle & Follow-up:\nAdequate hydration, infection prevention, and regular renal monitoring recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. Serum Creatinine: 1.5 mg/dL, Blood Urea: 44 mg/dL, eGFR: 65 mL/min/1.73m². Regular gym activity with high protein intake.",
+  "output": "Interpretation:\nMild reduction in kidney function.\n\nClinical Significance:\nSlight elevation likely influenced by muscle mass and protein intake.\n\nPossible Causes:\nHigh protein diet, increased muscle mass.\n\nPotential Risks:\nRenal strain if dietary habits persist.\n\nLifestyle & Follow-up:\nModerate protein intake and periodic kidney function assessment advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 62 years. Serum Creatinine: 2.2 mg/dL, Blood Urea: 70 mg/dL, eGFR: 32 mL/min/1.73m². History of hypertension.",
+  "output": "Interpretation:\nChronic kidney disease with significant functional impairment.\n\nClinical Significance:\nPersistent hypertension has likely compromised renal function.\n\nPossible Causes:\nHypertensive nephrosclerosis.\n\nPotential Risks:\nCardiovascular complications and renal failure.\n\nLifestyle & Follow-up:\nStrict blood pressure control, low-sodium diet, and nephrology consultation recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. Serum Creatinine: 1.1 mg/dL, Blood Urea: 24 mg/dL, eGFR: 88 mL/min/1.73m². No known medical conditions.",
+  "output": "Interpretation:\nNormal kidney function.\n\nClinical Significance:\nEfficient renal filtration.\n\nPossible Causes:\nPhysiologically normal findings.\n\nPotential Risks:\nNo immediate renal risk identified.\n\nLifestyle & Follow-up:\nMaintain hydration, healthy diet, and routine health screening."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. Serum Creatinine: 1.4 mg/dL, Blood Urea: 36 mg/dL, eGFR: 72 mL/min/1.73m². Recent dehydration episode.",
+  "output": "Interpretation:\nMild transient reduction in kidney function.\n\nClinical Significance:\nLikely reversible renal stress.\n\nPossible Causes:\nDehydration.\n\nPotential Risks:\nTemporary kidney injury if dehydration persists.\n\nLifestyle & Follow-up:\nIncrease fluid intake and repeat testing after rehydration."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 66 years. Serum Creatinine: 2.9 mg/dL, Blood Urea: 85 mg/dL, eGFR: 22 mL/min/1.73m². History of long-term NSAID use.",
+  "output": "Interpretation:\nSevere chronic kidney disease.\n\nClinical Significance:\nSignificant loss of renal function.\n\nPossible Causes:\nChronic NSAID-induced nephrotoxicity.\n\nPotential Risks:\nRequirement for renal replacement therapy.\n\nLifestyle & Follow-up:\nImmediate cessation of NSAIDs and specialist nephrology care advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. Serum Creatinine: 1.6 mg/dL, Blood Urea: 48 mg/dL, eGFR: 55 mL/min/1.73m². Family history of kidney disease.",
+  "output": "Interpretation:\nModerate reduction in kidney function.\n\nClinical Significance:\nPossible early hereditary renal involvement.\n\nPossible Causes:\nGenetic predisposition to kidney disease.\n\nPotential Risks:\nProgressive renal impairment.\n\nLifestyle & Follow-up:\nGenetic counseling and periodic renal monitoring recommended."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. Serum Creatinine: 1.3 mg/dL, Blood Urea: 34 mg/dL, eGFR: 78 mL/min/1.73m². History of high blood pressure.",
+  "output": "Interpretation:\nMildly reduced kidney function.\n\nClinical Significance:\nEarly renal impact of hypertension.\n\nPossible Causes:\nUncontrolled blood pressure.\n\nPotential Risks:\nProgression to chronic kidney disease.\n\nLifestyle & Follow-up:\nBlood pressure management and kidney function monitoring advised."
+}
+{
+  "instruction": "Interpret the following kidney function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 70 years. Serum Creatinine: 2.4 mg/dL, Blood Urea: 74 mg/dL, eGFR: 30 mL/min/1.73m². Age-related decline noted.",
+  "output": "Interpretation:\nAdvanced age-related chronic kidney disease.\n\nClinical Significance:\nReduced renal reserve common in elderly patients.\n\nPossible Causes:\nAge-related nephron loss.\n\nPotential Risks:\nElectrolyte imbalance and medication toxicity.\n\nLifestyle & Follow-up:\nMedication dose adjustment, hydration monitoring, and regular renal assessment recommended."
+}
 
