@@ -1,146 +1,500 @@
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 108 mg/dL, Calcium 9.2 mg/dL, Sodium 138 mEq/L, Potassium 4.1 mEq/L, Chloride 101 mEq/L, CO₂ 24 mEq/L, BUN 14 mg/dL, Creatinine 0.9 mg/dL, eGFR 102 mL/min, Albumin 4.3 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: Mildly elevated fasting glucose; all other values normal.\nClinical significance: Suggests early insulin resistance or prediabetic tendency.\nFuture risks: Higher risk of developing type 2 diabetes and fatty liver if unmanaged.\nLifestyle & follow-up: Reduce refined carbs, increase fiber intake, walk 30–40 min daily, aim for weight control, and repeat fasting glucose/HbA1c in 3–6 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 92 mg/dL, Calcium 8.9 mg/dL, Sodium 140 mEq/L, Potassium 3.5 mEq/L, Chloride 104 mEq/L, CO₂ 23 mEq/L, BUN 16 mg/dL, Creatinine 1.0 mg/dL, eGFR 95 mL/min, Albumin 4.0 g/dL, Total Protein 6.8 g/dL","output":"Interpretation: Overall normal panel with borderline low potassium.\nClinical significance: Low potassium may reflect dehydration, diuretic use, or poor intake.\nFuture risks: Muscle weakness, arrhythmias if potassium drops further.\nLifestyle & follow-up: Increase potassium-rich foods (banana, coconut water, spinach), stay hydrated, and recheck levels if symptoms appear."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 132 mg/dL, Calcium 9.6 mg/dL, Sodium 142 mEq/L, Potassium 4.3 mEq/L, Chloride 100 mEq/L, CO₂ 22 mEq/L, BUN 18 mg/dL, Creatinine 1.2 mg/dL, eGFR 72 mL/min, Albumin 4.1 g/dL, Total Protein 7.2 g/dL","output":"Interpretation: Elevated fasting glucose and mildly reduced eGFR.\nClinical significance: Suggests early diabetic dysregulation and beginning decline in kidney filtration.\nFuture risks: Diabetic nephropathy, hypertension, chronic kidney disease progression.\nLifestyle & follow-up: Strict sugar control, salt restriction, hydration, weight reduction, and repeat renal panel + HbA1c in 3 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 85 mg/dL, Calcium 10.2 mg/dL, Sodium 139 mEq/L, Potassium 4.0 mEq/L, Chloride 98 mEq/L, CO₂ 26 mEq/L, BUN 12 mg/dL, Creatinine 0.8 mg/dL, eGFR 115 mL/min, Albumin 4.6 g/dL, Total Protein 7.5 g/dL","output":"Interpretation: Slightly high calcium; rest normal.\nClinical significance: Often due to dehydration or excess calcium/Vitamin D supplementation.\nFuture risks: Kidney stones, constipation, bone pain if calcium increases further.\nLifestyle & follow-up: Reduce calcium supplements, hydrate well, monitor vitamin D intake, and recheck calcium in 6–8 weeks."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 160 mg/dL, Calcium 9.1 mg/dL, Sodium 137 mEq/L, Potassium 4.5 mEq/L, Chloride 102 mEq/L, CO₂ 24 mEq/L, BUN 22 mg/dL, Creatinine 1.4 mg/dL, eGFR 58 mL/min, Albumin 3.8 g/dL, Total Protein 6.9 g/dL","output":"Interpretation: High glucose, elevated BUN & creatinine with reduced eGFR.\nClinical significance: Suggests poor glucose control and stage 3 chronic kidney disease.\nFuture risks: Progressive kidney failure, fluid retention, hypertension, cardiovascular disease.\nLifestyle & follow-up: Limit salt and protein, hydrate adequately, control diabetes aggressively, and consult nephrologist for renal-protection strategy."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 70 mg/dL, Calcium 8.5 mg/dL, Sodium 133 mEq/L, Potassium 3.3 mEq/L, Chloride 95 mEq/L, CO₂ 20 mEq/L, BUN 10 mg/dL, Creatinine 0.7 mg/dL, eGFR 110 mL/min, Albumin 3.7 g/dL, Total Protein 6.2 g/dL","output":"Interpretation: Low sodium, low potassium, mild hypocalcemia.\nClinical significance: Suggests dehydration, vomiting/diarrhea, or adrenal hormone imbalance.\nFuture risks: Fatigue, dizziness, arrhythmias, electrolyte instability.\nLifestyle & follow-up: Oral rehydration, increase potassium- and calcium-rich foods, avoid excess water intake, and reassess electrolytes in 1–2 weeks."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 115 mg/dL, Calcium 10.5 mg/dL, Sodium 144 mEq/L, Potassium 4.8 mEq/L, Chloride 102 mEq/L, CO₂ 25 mEq/L, BUN 20 mg/dL, Creatinine 1.0 mg/dL, eGFR 90 mL/min, Albumin 4.2 g/dL, Total Protein 7.1 g/dL","output":"Interpretation: Mildly high glucose and borderline high calcium.\nClinical significance: Suggests early insulin resistance and possible supplement overuse.\nFuture risks: Prediabetes, kidney stone formation.\nLifestyle & follow-up: Reduce refined sugars, avoid extra calcium supplements unless prescribed, hydrate well, recheck fasting glucose in 3 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 140 mg/dL, Calcium 9.7 mg/dL, Sodium 141 mEq/L, Potassium 5.2 mEq/L, Chloride 103 mEq/L, CO₂ 22 mEq/L, BUN 28 mg/dL, Creatinine 1.6 mg/dL, eGFR 50 mL/min, Albumin 3.4 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: High glucose, high potassium, elevated BUN/creatinine with low eGFR.\nClinical significance: Indicates kidney dysfunction with hyperkalemia risk.\nFuture risks: Dangerous arrhythmias, worsening kidney failure.\nLifestyle & follow-up: Avoid high-potassium foods, restrict salt, manage glucose, increase hydration, and seek urgent nephrology evaluation."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 98 mg/dL, Calcium 9.4 mg/dL, Sodium 138 mEq/L, Potassium 4.0 mEq/L, Chloride 100 mEq/L, CO₂ 25 mEq/L, BUN 12 mg/dL, Creatinine 0.8 mg/dL, eGFR 120 mL/min, Albumin 4.5 g/dL, Total Protein 7.2 g/dL","output":"Interpretation: Completely normal metabolic panel.\nClinical significance: Healthy kidney filtration, glucose regulation, and electrolyte balance.\nFuture risks: None major if lifestyle remains healthy.\nLifestyle & follow-up: Maintain hydration, regular meals, balanced diet, and routine checkups once a year."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 155 mg/dL, Calcium 8.8 mg/dL, Sodium 136 mEq/L, Potassium 4.7 mEq/L, Chloride 101 mEq/L, CO₂ 18 mEq/L, BUN 26 mg/dL, Creatinine 1.3 mg/dL, eGFR 60 mL/min, Albumin 3.6 g/dL, Total Protein 6.8 g/dL","output":"Interpretation: High glucose and low bicarbonate; kidney function borderline.\nClinical significance: Indicates early diabetic changes and mild metabolic acidosis.\nFuture risks: CKD progression, worsening acidosis, cardiovascular strain.\nLifestyle & follow-up: Lower sugar intake, monitor blood pressure, hydrate well, and repeat renal panel + HbA1c in 3 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 178 mg/dL, Calcium 9.0 mg/dL, Sodium 130 mEq/L, Potassium 5.0 mEq/L, Chloride 92 mEq/L, CO₂ 21 mEq/L, BUN 30 mg/dL, Creatinine 1.8 mg/dL, eGFR 45 mL/min, Albumin 3.2 g/dL, Total Protein 6.4 g/dL","output":"Interpretation: High glucose, low sodium, impaired kidney function.\nClinical significance: Possible uncontrolled diabetes leading to renal injury.\nFuture risks: Severe dehydration, worsening CKD, electrolyte imbalance.\nLifestyle & follow-up: Urgent glucose control, salt restriction, kidney-protective diet, nephrology follow-up."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 88 mg/dL, Calcium 9.7 mg/dL, Sodium 143 mEq/L, Potassium 3.9 mEq/L, Chloride 105 mEq/L, CO₂ 24 mEq/L, BUN 18 mg/dL, Creatinine 1.1 mg/dL, eGFR 85 mL/min, Albumin 4.3 g/dL, Total Protein 7.3 g/dL","output":"Interpretation: Normal panel with mildly reduced eGFR for age.\nClinical significance: Could represent early age-related decline or dehydration.\nFuture risks: CKD development if trends worsen.\nLifestyle & follow-up: Maintain hydration, moderate protein intake, avoid NSAIDs, and monitor kidney function yearly."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 210 mg/dL, Calcium 9.5 mg/dL, Sodium 139 mEq/L, Potassium 4.9 mEq/L, Chloride 100 mEq/L, CO₂ 22 mEq/L, BUN 24 mg/dL, Creatinine 1.6 mg/dL, eGFR 48 mL/min, Albumin 3.5 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: Markedly high glucose with impaired kidney filtration.\nClinical significance: Suggests uncontrolled diabetes causing renal strain.\nFuture risks: Rapid CKD progression, neuropathy, retinopathy.\nLifestyle & follow-up: Immediate diabetes management, low-salt diet, hydration monitoring, and nephrology consult."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 102 mg/dL, Calcium 8.4 mg/dL, Sodium 135 mEq/L, Potassium 3.2 mEq/L, Chloride 97 mEq/L, CO₂ 20 mEq/L, BUN 15 mg/dL, Creatinine 0.9 mg/dL, eGFR 100 mL/min, Albumin 3.6 g/dL, Total Protein 6.7 g/dL","output":"Interpretation: Low potassium and low calcium.\nClinical significance: Could result from inadequate diet, gastrointestinal losses, or medications.\nFuture risks: Muscle cramps, heart rhythm issues.\nLifestyle & follow-up: Eat potassium-rich foods, consider calcium intake, hydrate, and retest electrolytes in 1–2 weeks."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 125 mg/dL, Calcium 10.7 mg/dL, Sodium 144 mEq/L, Potassium 4.2 mEq/L, Chloride 104 mEq/L, CO₂ 26 mEq/L, BUN 19 mg/dL, Creatinine 0.9 mg/dL, eGFR 95 mL/min, Albumin 4.2 g/dL, Total Protein 7.4 g/dL","output":"Interpretation: Borderline high glucose and high calcium.\nClinical significance: Possible prediabetes and mild hypercalcemia.\nFuture risks: Diabetes, kidney stones.\nLifestyle & follow-up: Reduce sweets, hydrate well, avoid calcium supplements, and re-evaluate glucose & calcium in 3 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 148 mg/dL, Calcium 8.8 mg/dL, Sodium 132 mEq/L, Potassium 4.8 mEq/L, Chloride 95 mEq/L, CO₂ 19 mEq/L, BUN 32 mg/dL, Creatinine 1.9 mg/dL, eGFR 42 mL/min, Albumin 3.4 g/dL, Total Protein 6.8 g/dL","output":"Interpretation: High glucose, low sodium, kidney dysfunction.\nClinical significance: Suggests uncontrolled diabetes with renal impairment.\nFuture risks: Progression to advanced CKD, electrolyte instability.\nLifestyle & follow-up: Urgent diabetes care, salt restriction, hydration monitoring, nephrology referral."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 90 mg/dL, Calcium 9.9 mg/dL, Sodium 140 mEq/L, Potassium 4.1 mEq/L, Chloride 100 mEq/L, CO₂ 24 mEq/L, BUN 14 mg/dL, Creatinine 0.7 mg/dL, eGFR 125 mL/min, Albumin 4.5 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: Healthy metabolic panel.\nClinical significance: Normal electrolytes, kidney, and glucose balance.\nFuture risks: Low cardiovascular and renal risk.\nLifestyle & follow-up: Maintain current habits and do an annual health check."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 175 mg/dL, Calcium 9.2 mg/dL, Sodium 136 mEq/L, Potassium 5.4 mEq/L, Chloride 99 mEq/L, CO₂ 21 mEq/L, BUN 30 mg/dL, Creatinine 1.7 mg/dL, eGFR 50 mL/min, Albumin 3.6 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: High glucose and high potassium; kidney function reduced.\nClinical significance: Suggests diabetic kidney involvement with hyperkalemia.\nFuture risks: Cardiac arrhythmias, CKD progression.\nLifestyle & follow-up: Limit potassium-rich foods, manage glucose intensively, restrict salt, and consult nephrologist."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 110 mg/dL, Calcium 9.3 mg/dL, Sodium 137 mEq/L, Potassium 4.0 mEq/L, Chloride 101 mEq/L, CO₂ 24 mEq/L, BUN 19 mg/dL, Creatinine 1.0 mg/dL, eGFR 88 mL/min, Albumin 4.1 g/dL, Total Protein 6.9 g/dL","output":"Interpretation: Mildly elevated glucose; otherwise normal.\nClinical significance: Early glucose dysregulation.\nFuture risks: Prediabetes progression.\nLifestyle & follow-up: Reduce sugary foods, increase physical activity, maintain healthy weight."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 210 mg/dL, Calcium 10.0 mg/dL, Sodium 139 mEq/L, Potassium 4.7 mEq/L, Chloride 100 mEq/L, CO₂ 23 mEq/L, BUN 25 mg/dL, Creatinine 1.5 mg/dL, eGFR 52 mL/min, Albumin 3.7 g/dL, Total Protein 7.1 g/dL","output":"Interpretation: Markedly elevated glucose with decreased kidney function.\nClinical significance: Poorly controlled diabetes affecting renal filtration.\nFuture risks: CKD progression, cardiovascular disease.\nLifestyle & follow-up: Strict glucose control, nephrology consultation, salt restriction, maintain hydration."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 95 mg/dL, Calcium 8.7 mg/dL, Sodium 134 mEq/L, Potassium 3.6 mEq/L, Chloride 96 mEq/L, CO₂ 21 mEq/L, BUN 12 mg/dL, Creatinine 0.9 mg/dL, eGFR 100 mL/min, Albumin 3.9 g/dL, Total Protein 6.5 g/dL","output":"Interpretation: Mild hyponatremia with slightly low calcium.\nClinical significance: Could be due to hydration imbalance or dietary deficiency.\nFuture risks: Fatigue, dizziness, electrolyte instability.\nLifestyle & follow-up: Balanced hydration, increase calcium-rich foods, avoid excessive water intake, and recheck electrolytes in 2–4 weeks."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 160 mg/dL, Calcium 9.8 mg/dL, Sodium 142 mEq/L, Potassium 4.0 mEq/L, Chloride 101 mEq/L, CO₂ 22 mEq/L, BUN 21 mg/dL, Creatinine 1.3 mg/dL, eGFR 70 mL/min, Albumin 4.0 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: Elevated glucose and mildly reduced kidney function.\nClinical significance: Suggests developing diabetic kidney stress.\nFuture risks: CKD risk, cardiovascular disease.\nLifestyle & follow-up: Reduce sugar intake, manage body weight, increase physical activity, and repeat kidney panel in 3 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 118 mg/dL, Calcium 9.1 mg/dL, Sodium 139 mEq/L, Potassium 3.4 mEq/L, Chloride 99 mEq/L, CO₂ 23 mEq/L, BUN 17 mg/dL, Creatinine 1.0 mg/dL, eGFR 90 mL/min, Albumin 3.8 g/dL, Total Protein 6.7 g/dL","output":"Interpretation: Mildly elevated glucose and borderline low potassium.\nClinical significance: Suggests early insulin resistance and potential electrolyte loss from poor intake or dehydration.\nFuture risks: Prediabetes, fatigue, muscle cramps.\nLifestyle & follow-up: Increase potassium-rich foods, reduce sugars, hydrate well, re-evaluate glucose in 3–6 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 82 mg/dL, Calcium 10.4 mg/dL, Sodium 142 mEq/L, Potassium 4.3 mEq/L, Chloride 103 mEq/L, CO₂ 25 mEq/L, BUN 14 mg/dL, Creatinine 0.8 mg/dL, eGFR 115 mL/min, Albumin 4.6 g/dL, Total Protein 7.6 g/dL","output":"Interpretation: Elevated calcium with otherwise normal panel.\nClinical significance: Mild hypercalcemia may be due to supplements or dehydration.\nFuture risks: Kidney stones, constipation.\nLifestyle & follow-up: Reduce calcium supplements, increase hydration, repeat calcium in 6 weeks."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 130 mg/dL, Calcium 8.8 mg/dL, Sodium 136 mEq/L, Potassium 4.7 mEq/L, Chloride 99 mEq/L, CO₂ 21 mEq/L, BUN 28 mg/dL, Creatinine 1.5 mg/dL, eGFR 55 mL/min, Albumin 3.5 g/dL, Total Protein 6.8 g/dL","output":"Interpretation: High glucose and impaired kidney filtration.\nClinical significance: Suggestive of early diabetic nephropathy.\nFuture risks: CKD progression, electrolyte imbalances.\nLifestyle & follow-up: Tight glucose control, low-sodium diet, hydration, nephrology follow-up."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 97 mg/dL, Calcium 9.0 mg/dL, Sodium 140 mEq/L, Potassium 3.8 mEq/L, Chloride 102 mEq/L, CO₂ 26 mEq/L, BUN 13 mg/dL, Creatinine 0.8 mg/dL, eGFR 120 mL/min, Albumin 4.4 g/dL, Total Protein 7.1 g/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Balanced kidney function and electrolytes.\nFuture risks: Low.\nLifestyle & follow-up: Maintain healthy diet and annual checkups."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 165 mg/dL, Calcium 9.4 mg/dL, Sodium 134 mEq/L, Potassium 5.3 mEq/L, Chloride 96 mEq/L, CO₂ 19 mEq/L, BUN 26 mg/dL, Creatinine 1.7 mg/dL, eGFR 48 mL/min, Albumin 3.6 g/dL, Total Protein 6.9 g/dL","output":"Interpretation: High glucose, high potassium, and reduced kidney function.\nClinical significance: Indicates significant renal impairment with hyperkalemia.\nFuture risks: Arrhythmias, CKD progression.\nLifestyle & follow-up: Avoid high-potassium foods, strict glucose control, urgent nephrology review."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 102 mg/dL, Calcium 9.8 mg/dL, Sodium 143 mEq/L, Potassium 3.6 mEq/L, Chloride 106 mEq/L, CO₂ 24 mEq/L, BUN 11 mg/dL, Creatinine 0.9 mg/dL, eGFR 100 mL/min, Albumin 4.2 g/dL, Total Protein 6.8 g/dL","output":"Interpretation: Slightly elevated glucose; rest normal.\nClinical significance: Early insulin resistance possible.\nFuture risks: Prediabetes.\nLifestyle & follow-up: Reduce refined carbs, increase activity, check A1c if risk factors."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 145 mg/dL, Calcium 10.0 mg/dL, Sodium 138 mEq/L, Potassium 4.2 mEq/L, Chloride 101 mEq/L, CO₂ 22 mEq/L, BUN 18 mg/dL, Creatinine 1.2 mg/dL, eGFR 75 mL/min, Albumin 4.0 g/dL, Total Protein 6.9 g/dL","output":"Interpretation: Elevated glucose with mildly reduced eGFR.\nClinical significance: Possible beginning of diabetic kidney involvement.\nFuture risks: CKD, hypertension.\nLifestyle & follow-up: Glucose control, low-salt diet, hydration, repeat renal panel in 3 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 88 mg/dL, Calcium 8.6 mg/dL, Sodium 135 mEq/L, Potassium 3.4 mEq/L, Chloride 94 mEq/L, CO₂ 20 mEq/L, BUN 12 mg/dL, Creatinine 0.8 mg/dL, eGFR 118 mL/min, Albumin 3.7 g/dL, Total Protein 6.4 g/dL","output":"Interpretation: Low potassium and low chloride.\nClinical significance: Could reflect dehydration or gastrointestinal loss.\nFuture risks: Fatigue, heart rhythm abnormalities.\nLifestyle & follow-up: Increase electrolyte-rich foods, hydrate, reassess electrolytes in 2 weeks."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 200 mg/dL, Calcium 9.5 mg/dL, Sodium 133 mEq/L, Potassium 5.0 mEq/L, Chloride 96 mEq/L, CO₂ 21 mEq/L, BUN 24 mg/dL, Creatinine 1.4 mg/dL, eGFR 58 mL/min, Albumin 3.6 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: High glucose and early kidney dysfunction.\nClinical significance: Suggestive of uncontrolled diabetes affecting renal function.\nFuture risks: Progressive CKD, cardiovascular risks.\nLifestyle & follow-up: Tight glucose control, low-sodium diet, nephrology follow-up."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 115 mg/dL, Calcium 9.3 mg/dL, Sodium 140 mEq/L, Potassium 4.0 mEq/L, Chloride 104 mEq/L, CO₂ 25 mEq/L, BUN 15 mg/dL, Creatinine 1.0 mg/dL, eGFR 90 mL/min, Albumin 4.2 g/dL, Total Protein 6.9 g/dL","output":"Interpretation: Mildly elevated glucose; otherwise normal.\nClinical significance: Early glucose dysregulation.\nFuture risks: Prediabetes.\nLifestyle & follow-up: Reduce sugars, increase physical activity."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 165 mg/dL, Calcium 9.0 mg/dL, Sodium 137 mEq/L, Potassium 4.8 mEq/L, Chloride 101 mEq/L, CO₂ 23 mEq/L, BUN 27 mg/dL, Creatinine 1.6 mg/dL, eGFR 52 mL/min, Albumin 3.7 g/dL, Total Protein 7.2 g/dL","output":"Interpretation: Elevated glucose and reduced kidney function.\nClinical significance: Indicates diabetic nephropathy risk.\nFuture risks: CKD progression.\nLifestyle & follow-up: Diabetes control, low-salt diet, nephrology referral."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 96 mg/dL, Calcium 9.6 mg/dL, Sodium 141 mEq/L, Potassium 3.9 mEq/L, Chloride 102 mEq/L, CO₂ 25 mEq/L, BUN 14 mg/dL, Creatinine 0.8 mg/dL, eGFR 120 mL/min, Albumin 4.3 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: Normal metabolic profile.\nClinical significance: Healthy renal and electrolyte balance.\nFuture risks: Minimal.\nLifestyle & follow-up: Continue healthy habits."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 128 mg/dL, Calcium 10.3 mg/dL, Sodium 142 mEq/L, Potassium 4.2 mEq/L, Chloride 101 mEq/L, CO₂ 25 mEq/L, BUN 17 mg/dL, Creatinine 1.0 mg/dL, eGFR 88 mL/min, Albumin 4.4 g/dL, Total Protein 7.5 g/dL","output":"Interpretation: Borderline elevated glucose and high calcium.\nClinical significance: Possible supplement excess; early insulin resistance.\nFuture risks: Kidney stones, prediabetes.\nLifestyle & follow-up: Lower calcium supplementation, hydrate, limit sweets."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 150 mg/dL, Calcium 8.9 mg/dL, Sodium 137 mEq/L, Potassium 5.1 mEq/L, Chloride 101 mEq/L, CO₂ 22 mEq/L, BUN 22 mg/dL, Creatinine 1.3 mg/dL, eGFR 68 mL/min, Albumin 3.9 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: Elevated glucose and potassium; kidney function slightly reduced.\nClinical significance: Suggests mild CKD with diabetes.\nFuture risks: Arrhythmias, CKD progression.\nLifestyle & follow-up: Limit high-potassium foods, manage sugar, recheck renal panel in 2–3 months."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 90 mg/dL, Calcium 9.8 mg/dL, Sodium 144 mEq/L, Potassium 4.0 mEq/L, Chloride 103 mEq/L, CO₂ 26 mEq/L, BUN 13 mg/dL, Creatinine 0.9 mg/dL, eGFR 110 mL/min, Albumin 4.6 g/dL, Total Protein 7.8 g/dL","output":"Interpretation: Slightly elevated protein; rest normal.\nClinical significance: Could reflect dehydration or mild inflammation.\nFuture risks: Minimal unless persistent.\nLifestyle & follow-up: Increase water intake; repeat if symptoms persist."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 178 mg/dL, Calcium 10.1 mg/dL, Sodium 139 mEq/L, Potassium 4.9 mEq/L, Chloride 100 mEq/L, CO₂ 22 mEq/L, BUN 25 mg/dL, Creatinine 1.6 mg/dL, eGFR 50 mL/min, Albumin 3.5 g/dL, Total Protein 7.1 g/dL","output":"Interpretation: High glucose and impaired kidney filtration.\nClinical significance: Indicates diabetic kidney involvement.\nFuture risks: CKD, cardiovascular disease.\nLifestyle & follow-up: Strict glucose control, low-salt diet, nephrology referral."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 112 mg/dL, Calcium 8.7 mg/dL, Sodium 135 mEq/L, Potassium 3.5 mEq/L, Chloride 98 mEq/L, CO₂ 21 mEq/L, BUN 16 mg/dL, Creatinine 0.9 mg/dL, eGFR 105 mL/min, Albumin 3.7 g/dL, Total Protein 6.6 g/dL","output":"Interpretation: Mildly elevated glucose and low calcium.\nClinical significance: Could be nutritional deficiency.\nFuture risks: Bone weakness, prediabetes.\nLifestyle & follow-up: Improve calcium intake, reduce sugar, repeat fasting glucose."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 155 mg/dL, Calcium 9.3 mg/dL, Sodium 136 mEq/L, Potassium 4.7 mEq/L, Chloride 99 mEq/L, CO₂ 22 mEq/L, BUN 21 mg/dL, Creatinine 1.2 mg/dL, eGFR 72 mL/min, Albumin 4.0 g/dL, Total Protein 7.0 g/dL","output":"Interpretation: High glucose with mildly reduced kidney function.\nClinical significance: Suggests early diabetic nephropathy.\nFuture risks: CKD progression.\nLifestyle & follow-up: Lower sugar intake, monitor BP, nephrology follow-up."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 88 mg/dL, Calcium 9.9 mg/dL, Sodium 142 mEq/L, Potassium 4.1 mEq/L, Chloride 102 mEq/L, CO₂ 25 mEq/L, BUN 12 mg/dL, Creatinine 0.7 mg/dL, eGFR 125 mL/min, Albumin 4.5 g/dL, Total Protein 7.3 g/dL","output":"Interpretation: Normal panel.\nClinical significance: Healthy metabolic function.\nFuture risks: None major.\nLifestyle & follow-up: Maintain healthy diet and routine exercise."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 135 mg/dL, Calcium 8.6 mg/dL, Sodium 134 mEq/L, Potassium 3.3 mEq/L, Chloride 95 mEq/L, CO₂ 20 mEq/L, BUN 14 mg/dL, Creatinine 1.0 mg/dL, eGFR 92 mL/min, Albumin 3.6 g/dL, Total Protein 6.5 g/dL","output":"Interpretation: Elevated glucose with low potassium and sodium.\nClinical significance: Electrolyte imbalance possibly due to dehydration or medications.\nFuture risks: Arrhythmias, muscle weakness.\nLifestyle & follow-up: Increase potassium and sodium food sources, hydrate, and monitor glucose control."}
-{"instruction":"Interpret comprehensive metabolic panel","input":"Glucose 190 mg/dL, Calcium 9.2 mg/dL, Sodium 138 mEq/L, Potassium 5.2 mEq/L, Chloride 101 mEq/L, CO₂ 21 mEq/L, BUN 28 mg/dL, Creatinine 1.7 mg/dL, eGFR 48 mL/min, Albumin 3.5 g/dL, Total Protein 7.1 g/dL","output":"Interpretation: High glucose, hyperkalemia, reduced kidney filtration.\nClinical significance: Diabetic kidney involvement with electrolyte disturbances.\nFuture risks: CKD stage progression, arrhythmias.\nLifestyle & follow-up: Limit potassium-rich foods, improve glucose control, nephrology referral."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 118 mg/dL, Calcium 8.8 mg/dL, Sodium 140 mmol/L, Potassium 4.2 mmol/L, Chloride 103 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Mildly elevated glucose.\nClinical significance: Suggests impaired fasting glucose or early insulin resistance.\nFuture risks: Progression to type 2 diabetes, metabolic syndrome.\nLifestyle & follow-up: Reduce refined carbs, increase fiber, recheck fasting glucose and HbA1c in 3 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 92 mg/dL, Calcium 10.5 mg/dL, Sodium 138 mmol/L, Potassium 3.4 mmol/L, Chloride 101 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: High calcium with low potassium.\nClinical significance: Hypercalcemia may relate to dehydration or hyperparathyroidism; hypokalemia may cause weakness.\nFuture risks: Cardiac arrhythmias, kidney stones.\nLifestyle & follow-up: Hydrate well, evaluate PTH and vitamin D, increase potassium-rich foods."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 134 mg/dL, Calcium 8.6 mg/dL, Sodium 136 mmol/L, Potassium 5.2 mmol/L, Chloride 98 mmol/L, CO₂ 21 mmol/L","output":"Interpretation: Elevated glucose and mild hyperkalemia.\nClinical significance: Could indicate poor glycemic control or early diabetic kidney involvement.\nFuture risks: Nephropathy, electrolyte imbalance.\nLifestyle & follow-up: Monitor renal function, lower potassium intake, optimize glucose control."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 85 mg/dL, Calcium 9.4 mg/dL, Sodium 142 mmol/L, Potassium 4.0 mmol/L, Chloride 102 mmol/L, CO₂ 24 mmol/L","output":"Interpretation: All values normal.\nClinical significance: Healthy metabolic balance.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain balanced diet and hydration."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 160 mg/dL, Calcium 9.1 mg/dL, Sodium 133 mmol/L, Potassium 5.5 mmol/L, Chloride 95 mmol/L, CO₂ 18 mmol/L","output":"Interpretation: High glucose, hyponatremia, hyperkalemia, metabolic acidosis.\nClinical significance: Concerning for uncontrolled diabetes or possible diabetic ketoacidosis (DKA).\nFuture risks: Dehydration, arrhythmias, organ dysfunction.\nLifestyle & follow-up: Urgent medical review, ketone testing, aggressive hydration, glucose optimization."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 105 mg/dL, Calcium 10.8 mg/dL, Sodium 146 mmol/L, Potassium 3.8 mmol/L, Chloride 104 mmol/L, CO₂ 28 mmol/L","output":"Interpretation: Mild hypercalcemia and hypernatremia.\nClinical significance: Possible dehydration or early hyperparathyroidism.\nFuture risks: Kidney stones, constipation, arrhythmias.\nLifestyle & follow-up: Increase hydration, test PTH and vitamin D, recheck electrolytes."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 76 mg/dL, Calcium 9.0 mg/dL, Sodium 135 mmol/L, Potassium 3.2 mmol/L, Chloride 98 mmol/L, CO₂ 27 mmol/L","output":"Interpretation: Hypokalemia.\nClinical significance: May result from poor intake or GI losses.\nFuture risks: Muscle cramps, irregular heartbeat.\nLifestyle & follow-up: Add potassium-rich foods; consider magnesium testing."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 110 mg/dL, Calcium 9.7 mg/dL, Sodium 140 mmol/L, Potassium 4.8 mmol/L, Chloride 106 mmol/L, CO₂ 19 mmol/L","output":"Interpretation: Mild metabolic acidosis.\nClinical significance: Could reflect dehydration, early renal impairment, or high-protein diet.\nFuture risks: Fatigue, kidney strain.\nLifestyle & follow-up: Increase hydration, review medications, repeat panel in 4–6 weeks."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 140 mg/dL, Calcium 9.2 mg/dL, Sodium 138 mmol/L, Potassium 5.3 mmol/L, Chloride 100 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Elevated glucose with mild hyperkalemia.\nClinical significance: Possible insulin resistance or early kidney involvement.\nFuture risks: Diabetes progression, electrolyte disturbances.\nLifestyle & follow-up: Reduce sugar intake, monitor kidney function, retest glucose."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 95 mg/dL, Calcium 8.5 mg/dL, Sodium 132 mmol/L, Potassium 3.6 mmol/L, Chloride 90 mmol/L, CO₂ 20 mmol/L","output":"Interpretation: Hyponatremia and hypochloremia.\nClinical significance: Suggests fluid imbalance or adrenal issues.\nFuture risks: Fatigue, confusion, seizures (severe cases).\nLifestyle & follow-up: Increase salt intake moderately, assess hydration, consider adrenal function tests."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 178 mg/dL, Calcium 10.4 mg/dL, Sodium 147 mmol/L, Potassium 5.0 mmol/L, Chloride 112 mmol/L, CO₂ 19 mmol/L","output":"Interpretation: Hyperglycemia with high sodium and chloride.\nClinical significance: Suggests dehydration or hyperosmolar state.\nFuture risks: Hyperosmolar hyperglycemic syndrome.\nLifestyle & follow-up: Increase fluid intake, urgent glucose control evaluation."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 90 mg/dL, Calcium 7.8 mg/dL, Sodium 136 mmol/L, Potassium 4.6 mmol/L, Chloride 104 mmol/L, CO₂ 25 mmol/L","output":"Interpretation: Hypocalcemia.\nClinical significance: May indicate vitamin D deficiency or hypoparathyroidism.\nFuture risks: Muscle spasms, bone weakness.\nLifestyle & follow-up: Increase calcium/vitamin D intake, check PTH levels."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 112 mg/dL, Calcium 9.6 mg/dL, Sodium 143 mmol/L, Potassium 4.7 mmol/L, Chloride 99 mmol/L, CO₂ 30 mmol/L","output":"Interpretation: Metabolic alkalosis.\nClinical significance: Often linked to vomiting, diuretic use, or low potassium states.\nFuture risks: Muscle cramps, arrhythmias.\nLifestyle & follow-up: Evaluate hydration, review medications, correct electrolytes."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 130 mg/dL, Calcium 10.2 mg/dL, Sodium 145 mmol/L, Potassium 3.1 mmol/L, Chloride 108 mmol/L, CO₂ 23 mmol/L","output":"Interpretation: Hyperglycemia with hypokalemia.\nClinical significance: Common in uncontrolled diabetes or diuretic use.\nFuture risks: Heart rhythm issues, worsening glucose control.\nLifestyle & follow-up: Potassium supplementation, optimize diet, monitor glucose."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 102 mg/dL, Calcium 8.9 mg/dL, Sodium 141 mmol/L, Potassium 4.0 mmol/L, Chloride 103 mmol/L, CO₂ 24 mmol/L","output":"Interpretation: Normal metabolic panel.\nClinical significance: Balanced electrolyte and glucose profile.\nFuture risks: Low.\nLifestyle & follow-up: Maintain healthy eating and hydration."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 148 mg/dL, Calcium 9.3 mg/dL, Sodium 137 mmol/L, Potassium 5.4 mmol/L, Chloride 99 mmol/L, CO₂ 18 mmol/L","output":"Interpretation: Hyperglycemia with mild hyperkalemia and metabolic acidosis.\nClinical significance: Suggestive of early diabetic ketoacidosis (DKA) or poor glycemic control.\nFuture risks: Severe dehydration, arrhythmias, kidney stress.\nLifestyle & follow-up: Immediate glucose management, hydrate well, repeat electrolytes and ketone testing."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 82 mg/dL, Calcium 8.4 mg/dL, Sodium 140 mmol/L, Potassium 3.8 mmol/L, Chloride 105 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: Mild hypocalcemia.\nClinical significance: Often linked to low vitamin D or poor dietary intake.\nFuture risks: Muscle spasms, bone softening.\nLifestyle & follow-up: Supplement calcium/vitamin D, increase dairy/leafy greens."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 99 mg/dL, Calcium 10.7 mg/dL, Sodium 143 mmol/L, Potassium 4.5 mmol/L, Chloride 101 mmol/L, CO₂ 27 mmol/L","output":"Interpretation: Mild hypercalcemia.\nClinical significance: Could indicate hyperparathyroidism or dehydration.\nFuture risks: Kidney stones, constipation.\nLifestyle & follow-up: Increase hydration, evaluate PTH and vitamin D."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 165 mg/dL, Calcium 8.9 mg/dL, Sodium 131 mmol/L, Potassium 4.9 mmol/L, Chloride 94 mmol/L, CO₂ 19 mmol/L","output":"Interpretation: Hyperglycemia with hyponatremia and metabolic acidosis.\nClinical significance: Typical of uncontrolled diabetes causing osmotic shifts.\nFuture risks: Hyperosmolar crisis.\nLifestyle & follow-up: Intensify glucose control, assess hydration status."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 74 mg/dL, Calcium 9.2 mg/dL, Sodium 138 mmol/L, Potassium 3.3 mmol/L, Chloride 107 mmol/L, CO₂ 25 mmol/L","output":"Interpretation: Hypokalemia.\nClinical significance: May arise from vomiting, diarrhea, or diuretics.\nFuture risks: Muscle weakness, cardiac irritability.\nLifestyle & follow-up: Increase potassium intake, check magnesium."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 114 mg/dL, Calcium 9.5 mg/dL, Sodium 147 mmol/L, Potassium 3.6 mmol/L, Chloride 111 mmol/L, CO₂ 20 mmol/L","output":"Interpretation: Hypernatremia with borderline acidosis.\nClinical significance: Suggests dehydration or water loss.\nFuture risks: Confusion, muscle twitching.\nLifestyle & follow-up: Increase water intake, monitor sodium levels."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 135 mg/dL, Calcium 10.0 mg/dL, Sodium 144 mmol/L, Potassium 5.1 mmol/L, Chloride 99 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Mild hyperkalemia.\nClinical significance: Could be early renal involvement or medication effect.\nFuture risks: Cardiac arrhythmias.\nLifestyle & follow-up: Limit high-potassium foods, evaluate kidney function."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 100 mg/dL, Calcium 9.1 mg/dL, Sodium 132 mmol/L, Potassium 4.8 mmol/L, Chloride 96 mmol/L, CO₂ 23 mmol/L","output":"Interpretation: Mild hyponatremia.\nClinical significance: Possibly due to excess water intake or hormonal imbalance.\nFuture risks: Headache, nausea.\nLifestyle & follow-up: Adjust fluid intake, consider thyroid/adrenal tests."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 88 mg/dL, Calcium 8.7 mg/dL, Sodium 139 mmol/L, Potassium 5.3 mmol/L, Chloride 102 mmol/L, CO₂ 20 mmol/L","output":"Interpretation: Mild hyperkalemia and borderline acidosis.\nClinical significance: Could indicate early kidney impairment.\nFuture risks: Arrhythmias.\nLifestyle & follow-up: Repeat potassium, monitor renal function."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 121 mg/dL, Calcium 9.4 mg/dL, Sodium 145 mmol/L, Potassium 4.1 mmol/L, Chloride 110 mmol/L, CO₂ 30 mmol/L","output":"Interpretation: Mild metabolic alkalosis.\nClinical significance: Possibly due to vomiting or diuretic use.\nFuture risks: Cramps, electrolyte imbalance.\nLifestyle & follow-up: Hydrate, correct electrolyte intake."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 90 mg/dL, Calcium 10.9 mg/dL, Sodium 142 mmol/L, Potassium 4.0 mmol/L, Chloride 101 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: Hypercalcemia.\nClinical significance: Could be vitamin D overdose or hyperparathyroidism.\nFuture risks: Kidney stones.\nLifestyle & follow-up: Limit calcium supplements, evaluate PTH."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 198 mg/dL, Calcium 8.9 mg/dL, Sodium 134 mmol/L, Potassium 5.8 mmol/L, Chloride 98 mmol/L, CO₂ 17 mmol/L","output":"Interpretation: Hyperglycemia with metabolic acidosis and high potassium.\nClinical significance: Strongly suggests DKA.\nFuture risks: Life-threatening dehydration.\nLifestyle & follow-up: Immediate medical evaluation."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 78 mg/dL, Calcium 9.0 mg/dL, Sodium 141 mmol/L, Potassium 4.5 mmol/L, Chloride 99 mmol/L, CO₂ 27 mmol/L","output":"Interpretation: All values normal.\nClinical significance: Healthy metabolic status.\nFuture risks: Low.\nLifestyle & follow-up: Continue balanced diet."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 122 mg/dL, Calcium 9.5 mg/dL, Sodium 133 mmol/L, Potassium 3.2 mmol/L, Chloride 94 mmol/L, CO₂ 24 mmol/L","output":"Interpretation: Mild hyperglycemia and hypokalemia.\nClinical significance: Common in prediabetes.\nFuture risks: Diabetes, arrhythmias.\nLifestyle & follow-up: Increase potassium, reduce carbs."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 89 mg/dL, Calcium 7.9 mg/dL, Sodium 137 mmol/L, Potassium 4.3 mmol/L, Chloride 106 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Hypocalcemia.\nClinical significance: Often from vitamin D deficiency.\nFuture risks: Tingling, muscle spasms.\nLifestyle & follow-up: Increase vitamin D intake."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 145 mg/dL, Calcium 10.4 mg/dL, Sodium 148 mmol/L, Potassium 5.0 mmol/L, Chloride 113 mmol/L, CO₂ 18 mmol/L","output":"Interpretation: High glucose and hypernatremia with acidosis.\nClinical significance: Suggests dehydration and poor glucose control.\nFuture risks: Hyperosmolar crisis.\nLifestyle & follow-up: Increase fluid intake, recheck glucose."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 100 mg/dL, Calcium 9.7 mg/dL, Sodium 139 mmol/L, Potassium 3.0 mmol/L, Chloride 103 mmol/L, CO₂ 23 mmol/L","output":"Interpretation: Hypokalemia.\nClinical significance: Could result from GI losses.\nFuture risks: Fatigue, arrhythmias.\nLifestyle & follow-up: Add potassium-rich foods."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 160 mg/dL, Calcium 8.8 mg/dL, Sodium 140 mmol/L, Potassium 4.9 mmol/L, Chloride 102 mmol/L, CO₂ 20 mmol/L","output":"Interpretation: Hyperglycemia with mild acidosis.\nClinical significance: Poor glucose control.\nFuture risks: Diabetes complications.\nLifestyle & follow-up: Monitor HbA1c, reduce sugars."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 112 mg/dL, Calcium 9.2 mg/dL, Sodium 132 mmol/L, Potassium 4.6 mmol/L, Chloride 97 mmol/L, CO₂ 21 mmol/L","output":"Interpretation: Hyponatremia and mild acidosis.\nClinical significance: Could indicate fluid imbalance.\nFuture risks: Cognitive changes.\nLifestyle & follow-up: Adjust hydration."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 79 mg/dL, Calcium 10.1 mg/dL, Sodium 146 mmol/L, Potassium 4.1 mmol/L, Chloride 108 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: Mild hypernatremia.\nClinical significance: Suggests dehydration.\nFuture risks: Weakness, confusion.\nLifestyle & follow-up: Increase water intake."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 107 mg/dL, Calcium 9.8 mg/dL, Sodium 138 mmol/L, Potassium 5.2 mmol/L, Chloride 104 mmol/L, CO₂ 24 mmol/L","output":"Interpretation: Mild hyperkalemia.\nClinical significance: Could signal early kidney dysfunction.\nFuture risks: Arrhythmias.\nLifestyle & follow-up: Repeat potassium, evaluate renal function."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 95 mg/dL, Calcium 8.7 mg/dL, Sodium 134 mmol/L, Potassium 3.5 mmol/L, Chloride 98 mmol/L, CO₂ 23 mmol/L","output":"Interpretation: Mild hyponatremia.\nClinical significance: Often due to excess fluid intake.\nFuture risks: Fatigue, mild confusion.\nLifestyle & follow-up: Adjust hydration pattern."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 152 mg/dL, Calcium 9.5 mg/dL, Sodium 143 mmol/L, Potassium 4.2 mmol/L, Chloride 110 mmol/L, CO₂ 19 mmol/L","output":"Interpretation: Hyperglycemia with acidosis.\nClinical significance: Early diabetes or metabolic stress.\nFuture risks: Diabetes complications.\nLifestyle & follow-up: Reduce carbohydrates, recheck fasting glucose."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 200 mg/dL, Calcium 8.8 mg/dL, Sodium 131 mmol/L, Potassium 5.6 mmol/L, Chloride 96 mmol/L, CO₂ 16 mmol/L","output":"Interpretation: Severe hyperglycemia with dangerous acidosis and hyperkalemia.\nClinical significance: Strongly suggests diabetic ketoacidosis.\nFuture risks: Shock, cardiac arrest.\nLifestyle & follow-up: Emergency medical treatment required."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 96 mg/dL, Calcium 9.0 mg/dL, Sodium 136 mmol/L, Potassium 5.5 mmol/L, Chloride 102 mmol/L, CO₂ 21 mmol/L","output":"Interpretation: Mild hyperkalemia with borderline acidosis.\nClinical significance: Can be due to renal underfunction or medications like ACE inhibitors.\nFuture risks: Cardiac conduction abnormalities.\nLifestyle & follow-up: Reduce high-potassium foods; repeat potassium and kidney tests."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 118 mg/dL, Calcium 8.6 mg/dL, Sodium 138 mmol/L, Potassium 3.1 mmol/L, Chloride 104 mmol/L, CO₂ 24 mmol/L","output":"Interpretation: Prediabetic glucose range with hypokalemia.\nClinical significance: May cause fatigue or palpitations.\nFuture risks: Arrhythmias, progression to diabetes.\nLifestyle & follow-up: Increase potassium intake; recheck fasting glucose in 3 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 82 mg/dL, Calcium 10.8 mg/dL, Sodium 144 mmol/L, Potassium 4.3 mmol/L, Chloride 101 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: Mild hypercalcemia.\nClinical significance: Possible dehydration or parathyroid overactivity.\nFuture risks: Kidney stones, constipation.\nLifestyle & follow-up: Increase hydration; test PTH & vitamin D if persistent."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 170 mg/dL, Calcium 9.3 mg/dL, Sodium 133 mmol/L, Potassium 4.8 mmol/L, Chloride 96 mmol/L, CO₂ 18 mmol/L","output":"Interpretation: Marked hyperglycemia with hyponatremia and acidosis.\nClinical significance: Suggestive of severe glucose-induced osmotic dilution.\nFuture risks: Hyperosmolar hyperglycemic state.\nLifestyle & follow-up: Tighten glucose control; hydrate aggressively; check HbA1c."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 102 mg/dL, Calcium 8.4 mg/dL, Sodium 139 mmol/L, Potassium 4.2 mmol/L, Chloride 103 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Mild hypocalcemia.\nClinical significance: Often due to low vitamin D or malabsorption.\nFuture risks: Muscle spasms, bone demineralization.\nLifestyle & follow-up: Vitamin D supplementation; sunlight exposure."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 86 mg/dL, Calcium 9.7 mg/dL, Sodium 147 mmol/L, Potassium 4.4 mmol/L, Chloride 109 mmol/L, CO₂ 23 mmol/L","output":"Interpretation: Mild hypernatremia.\nClinical significance: Usually due to fluid loss.\nFuture risks: Neurological symptoms if worsened.\nLifestyle & follow-up: Increase water intake and monitor sodium levels."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 145 mg/dL, Calcium 8.9 mg/dL, Sodium 140 mmol/L, Potassium 2.9 mmol/L, Chloride 105 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: Hyperglycemia and significant hypokalemia.\nClinical significance: May be due to insulin shifts driving potassium intracellularly.\nFuture risks: Muscle paralysis, arrhythmias.\nLifestyle & follow-up: Increase potassium supplementation; review glucose control."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 92 mg/dL, Calcium 9.1 mg/dL, Sodium 137 mmol/L, Potassium 5.2 mmol/L, Chloride 98 mmol/L, CO₂ 20 mmol/L","output":"Interpretation: Mild hyperkalemia with borderline acidosis.\nClinical significance: Could indicate early renal impairment.\nFuture risks: Irregular heartbeat.\nLifestyle & follow-up: Repeat potassium; reduce potassium-rich foods."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 108 mg/dL, Calcium 10.0 mg/dL, Sodium 131 mmol/L, Potassium 4.0 mmol/L, Chloride 95 mmol/L, CO₂ 23 mmol/L","output":"Interpretation: Mild hyponatremia.\nClinical significance: Could arise from excess fluids or endocrine issues.\nFuture risks: Dizziness, confusion.\nLifestyle & follow-up: Adjust fluid intake; evaluate thyroid/adrenal status."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 158 mg/dL, Calcium 9.0 mg/dL, Sodium 144 mmol/L, Potassium 4.7 mmol/L, Chloride 110 mmol/L, CO₂ 19 mmol/L","output":"Interpretation: Hyperglycemia with metabolic acidosis.\nClinical significance: Suggests impaired glucose control.\nFuture risks: Diabetic complications.\nLifestyle & follow-up: Reduce refined carbohydrates; check fasting glucose & HbA1c."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 81 mg/dL, Calcium 8.8 mg/dL, Sodium 136 mmol/L, Potassium 3.4 mmol/L, Chloride 101 mmol/L, CO₂ 25 mmol/L","output":"Interpretation: Mild hypokalemia.\nClinical significance: May cause fatigue or palpitations.\nFuture risks: Muscle weakness.\nLifestyle & follow-up: Add potassium-rich foods (banana, spinach)."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 200 mg/dL, Calcium 10.2 mg/dL, Sodium 148 mmol/L, Potassium 5.5 mmol/L, Chloride 112 mmol/L, CO₂ 16 mmol/L","output":"Interpretation: Severe hyperglycemia with hypernatremia, hyperkalemia, and acidosis.\nClinical significance: Concerning for hyperosmolar crisis.\nFuture risks: Dehydration, coma.\nLifestyle & follow-up: Urgent medical evaluation recommended."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 103 mg/dL, Calcium 9.5 mg/dL, Sodium 135 mmol/L, Potassium 4.3 mmol/L, Chloride 105 mmol/L, CO₂ 28 mmol/L","output":"Interpretation: Mild metabolic alkalosis.\nClinical significance: Often due to vomiting or diuretic use.\nFuture risks: Muscle cramps.\nLifestyle & follow-up: Address cause; improve hydration and electrolyte balance."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 88 mg/dL, Calcium 9.9 mg/dL, Sodium 140 mmol/L, Potassium 5.1 mmol/L, Chloride 103 mmol/L, CO₂ 20 mmol/L","output":"Interpretation: Mild hyperkalemia with low CO₂ suggesting acidosis.\nClinical significance: May be renal-related.\nFuture risks: Cardiac rhythm changes.\nLifestyle & follow-up: Recheck potassium; consider renal evaluation."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 115 mg/dL, Calcium 8.5 mg/dL, Sodium 139 mmol/L, Potassium 4.9 mmol/L, Chloride 107 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Mild hypocalcemia.\nClinical significance: May indicate vitamin D insufficiency.\nFuture risks: Muscle twitching.\nLifestyle & follow-up: Increase vitamin D and calcium-rich foods."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 176 mg/dL, Calcium 9.4 mg/dL, Sodium 142 mmol/L, Potassium 4.4 mmol/L, Chloride 101 mmol/L, CO₂ 21 mmol/L","output":"Interpretation: Hyperglycemia with mild acidosis.\nClinical significance: Poor glycemic regulation.\nFuture risks: Diabetic complications.\nLifestyle & follow-up: Adopt low-glycemic diet; monitor glucose."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 97 mg/dL, Calcium 8.3 mg/dL, Sodium 131 mmol/L, Potassium 5.2 mmol/L, Chloride 96 mmol/L, CO₂ 19 mmol/L","output":"Interpretation: Hypocalcemia with hyponatremia and mild hyperkalemia.\nClinical significance: Could indicate hormonal imbalance.\nFuture risks: Seizures (Na), arrhythmias (K).\nLifestyle & follow-up: Repeat electrolytes; evaluate endocrine function."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 134 mg/dL, Calcium 9.7 mg/dL, Sodium 147 mmol/L, Potassium 3.5 mmol/L, Chloride 108 mmol/L, CO₂ 24 mmol/L","output":"Interpretation: Prediabetic glucose and mild hypernatremia.\nClinical significance: Suggests dehydration.\nFuture risks: Headache, fatigue.\nLifestyle & follow-up: Increase water intake; reduce sugary foods."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 85 mg/dL, Calcium 10.6 mg/dL, Sodium 143 mmol/L, Potassium 4.1 mmol/L, Chloride 103 mmol/L, CO₂ 23 mmol/L","output":"Interpretation: Mild hypercalcemia.\nClinical significance: May indicate increased vitamin D intake.\nFuture risks: Kidney stones.\nLifestyle & follow-up: Reduce calcium supplements; stay hydrated."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 110 mg/dL, Calcium 9.2 mg/dL, Sodium 136 mmol/L, Potassium 3.2 mmol/L, Chloride 100 mmol/L, CO₂ 27 mmol/L","output":"Interpretation: Hypokalemia with borderline prediabetes.\nClinical significance: Potassium depletion can cause weakness.\nFuture risks: Arrhythmias.\nLifestyle & follow-up: Increase dietary potassium; repeat labs."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 188 mg/dL, Calcium 9.8 mg/dL, Sodium 146 mmol/L, Potassium 4.9 mmol/L, Chloride 111 mmol/L, CO₂ 18 mmol/L","output":"Interpretation: Hyperglycemia with hypernatremia and acidosis.\nClinical significance: Suggestive of dehydration and poor diabetic control.\nFuture risks: Hyperosmolar crisis.\nLifestyle & follow-up: Rehydrate; tighten glucose management."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 140 mg/dL, Calcium 8.8 mg/dL, Sodium 132 mmol/L, Potassium 5.6 mmol/L, Chloride 97 mmol/L, CO₂ 20 mmol/L","output":"Interpretation: Hyperglycemia with hyponatremia and hyperkalemia.\nClinical significance: May indicate early kidney dysfunction.\nFuture risks: Arrhythmias, electrolyte instability.\nLifestyle & follow-up: Repeat electrolytes; check kidney function."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 75 mg/dL, Calcium 9.0 mg/dL, Sodium 138 mmol/L, Potassium 4.5 mmol/L, Chloride 105 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: Normal metabolic panel.\nClinical significance: No abnormalities.\nFuture risks: Low.\nLifestyle & follow-up: Maintain balanced lifestyle and hydration."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 118 mg/dL, Calcium 10.3 mg/dL, Sodium 140 mmol/L, Potassium 4.8 mmol/L, Chloride 108 mmol/L, CO₂ 21 mmol/L","output":"Interpretation: Hypercalcemia and prediabetic glucose.\nClinical significance: Could reflect dehydration or mild endocrine imbalance.\nFuture risks: Kidney stones.\nLifestyle & follow-up: Increase fluids; reduce calcium supplements."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 102 mg/dL, Calcium 8.9 mg/dL, Sodium 134 mmol/L, Potassium 3.3 mmol/L, Chloride 100 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Mild hyponatremia and hypokalemia.\nClinical significance: Often caused by fluid losses or diuretics.\nFuture risks: Cramps, palpitations.\nLifestyle & follow-up: Increase salt and potassium intake."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 150 mg/dL, Calcium 9.5 mg/dL, Sodium 145 mmol/L, Potassium 4.0 mmol/L, Chloride 112 mmol/L, CO₂ 17 mmol/L","output":"Interpretation: Hyperglycemia and metabolic acidosis.\nClinical significance: Suggests high metabolic stress.\nFuture risks: Fatigue, dehydration.\nLifestyle & follow-up: Reduce refined carbs; check HbA1c."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 84 mg/dL, Calcium 9.3 mg/dL, Sodium 139 mmol/L, Potassium 5.4 mmol/L, Chloride 102 mmol/L, CO₂ 22 mmol/L","output":"Interpretation: Mild hyperkalemia.\nClinical significance: Could arise from hemolysis or early renal issues.\nFuture risks: Arrhythmias.\nLifestyle & follow-up: Recheck potassium; avoid potassium-rich foods."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 172 mg/dL, Calcium 8.5 mg/dL, Sodium 137 mmol/L, Potassium 4.7 mmol/L, Chloride 101 mmol/L, CO₂ 19 mmol/L","output":"Interpretation: Hyperglycemia with mild acidosis.\nClinical significance: Indicates poor glycemic control.\nFuture risks: Neuropathy, kidney strain.\nLifestyle & follow-up: Monitor sugars closely; reduce high-carb foods."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 110 mg/dL, Calcium 9.4 mg/dL, Sodium 147 mmol/L, Potassium 3.8 mmol/L, Chloride 110 mmol/L, CO₂ 25 mmol/L","output":"Interpretation: Mild hypernatremia.\nClinical significance: May reflect low fluid intake.\nFuture risks: Headaches, lethargy.\nLifestyle & follow-up: Increase water intake; repeat sodium levels."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 91 mg/dL, Calcium 10.2 mg/dL, Sodium 140 mmol/L, Potassium 5.3 mmol/L, Chloride 104 mmol/L, CO₂ 18 mmol/L","output":"Interpretation: Mild hypercalcemia and hyperkalemia with low CO₂.\nClinical significance: Consider renal contribution.\nFuture risks: Arrhythmias, kidney stones.\nLifestyle & follow-up: Increase hydration; monitor electrolytes."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 128 mg/dL, Calcium 9.8 mg/dL, Sodium 137 mmol/L, Potassium 3.1 mmol/L, Chloride 102 mmol/L, CO₂ 26 mmol/L","output":"Interpretation: Prediabetes with hypokalemia.\nClinical significance: May affect muscle and nerve function.\nFuture risks: Arrhythmias.\nLifestyle & follow-up: Potassium supplementation; reduce sugar intake."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 83 mg/dL, Calcium 8.6 mg/dL, Sodium 133 mmol/L, Potassium 4.5 mmol/L, Chloride 100 mmol/L, CO₂ 24 mmol/L","output":"Interpretation: Mild hyponatremia.\nClinical significance: Could be due to excess water intake.\nFuture risks: Fatigue.\nLifestyle & follow-up: Adjust fluid intake."}
-{"instruction":"Interpret metabolic panel","input":"Glucose 165 mg/dL, Calcium 9.0 mg/dL, Sodium 144 mmol/L, Potassium 4.6 mmol/L, Chloride 108 mmol/L, CO₂ 17 mmol/L","output":"Interpretation: Hyperglycemia with metabolic acidosis.\nClinical significance: Sign of uncontrolled diabetes.\nFuture risks: Kidney strain.\nLifestyle & follow-up: Improve diet; monitor glucose regularly."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 92 mg/dL, BUN: 14 mg/dL, Creatinine: 0.9 mg/dL, Sodium: 140 mmol/L, Potassium: 4.2 mmol/L, Calcium: 9.2 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Normal kidney function, electrolytes, and glucose.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain balanced diet, hydration, and routine yearly checkup."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 110 mg/dL, BUN: 16 mg/dL, Creatinine: 1.1 mg/dL, Sodium: 142 mmol/L, Potassium: 4.0 mmol/L, Calcium: 9.0 mg/dL","output":"Interpretation: Fasting glucose mildly elevated.\nClinical significance: Borderline prediabetes.\nFuture risks: Type 2 diabetes if persistent.\nLifestyle & follow-up: Reduce sugar intake, regular exercise, recheck glucose in 3 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 145 mg/dL, BUN: 22 mg/dL, Creatinine: 1.3 mg/dL, Sodium: 138 mmol/L, Potassium: 3.8 mmol/L, Calcium: 8.8 mg/dL","output":"Interpretation: Elevated glucose and mildly raised kidney markers.\nClinical significance: Prediabetes with early kidney stress.\nFuture risks: Type 2 diabetes, CKD progression.\nLifestyle & follow-up: Low-sugar diet, regular exercise, monitor kidney function, follow-up in 3–6 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 82 mg/dL, BUN: 12 mg/dL, Creatinine: 0.7 mg/dL, Sodium: 139 mmol/L, Potassium: 4.1 mmol/L, Calcium: 9.4 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Healthy kidney and glucose function.\nFuture risks: Minimal.\nLifestyle & follow-up: Continue balanced diet, hydration, routine checkup."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 210 mg/dL, BUN: 28 mg/dL, Creatinine: 1.6 mg/dL, Sodium: 144 mmol/L, Potassium: 3.5 mmol/L, Calcium: 8.7 mg/dL","output":"Interpretation: Hyperglycemia with impaired kidney function.\nClinical significance: Suggestive of uncontrolled diabetes with CKD.\nFuture risks: Progressive CKD, cardiovascular complications.\nLifestyle & follow-up: Strict glucose control, nephrology consult, limit sodium and sugar, monitor regularly."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 95 mg/dL, BUN: 15 mg/dL, Creatinine: 0.8 mg/dL, Sodium: 141 mmol/L, Potassium: 4.3 mmol/L, Calcium: 9.1 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Normal renal and electrolyte status.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain healthy diet and lifestyle; routine screening."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 130 mg/dL, BUN: 18 mg/dL, Creatinine: 1.2 mg/dL, Sodium: 140 mmol/L, Potassium: 3.9 mmol/L, Calcium: 8.9 mg/dL","output":"Interpretation: Elevated fasting glucose.\nClinical significance: Prediabetic range.\nFuture risks: Risk of type 2 diabetes.\nLifestyle & follow-up: Reduce sugar intake, increase physical activity, recheck glucose in 3 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 88 mg/dL, BUN: 13 mg/dL, Creatinine: 0.9 mg/dL, Sodium: 139 mmol/L, Potassium: 4.0 mmol/L, Calcium: 9.3 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Normal kidney and electrolyte function.\nFuture risks: Minimal.\nLifestyle & follow-up: Routine yearly checkup, maintain healthy diet."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 98 mg/dL, BUN: 17 mg/dL, Creatinine: 1.0 mg/dL, Sodium: 142 mmol/L, Potassium: 4.1 mmol/L, Calcium: 9.0 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Normal kidney function and glucose.\nFuture risks: Minimal.\nLifestyle & follow-up: Balanced diet, regular exercise, annual labs."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 165 mg/dL, BUN: 24 mg/dL, Creatinine: 1.4 mg/dL, Sodium: 143 mmol/L, Potassium: 3.7 mmol/L, Calcium: 8.8 mg/dL","output":"Interpretation: Hyperglycemia with mildly impaired kidney function.\nClinical significance: Diabetes with early CKD.\nFuture risks: CKD progression, cardiovascular disease.\nLifestyle & follow-up: Blood sugar management, nephrology referral, diet and lifestyle modification."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 85 mg/dL, BUN: 12 mg/dL, Creatinine: 0.7 mg/dL, Sodium: 138 mmol/L, Potassium: 4.2 mmol/L, Calcium: 9.2 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Kidneys and electrolytes normal.\nFuture risks: Minimal.\nLifestyle & follow-up: Routine checkup and healthy lifestyle."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 105 mg/dL, BUN: 16 mg/dL, Creatinine: 1.1 mg/dL, Sodium: 141 mmol/L, Potassium: 3.9 mmol/L, Calcium: 9.0 mg/dL","output":"Interpretation: Mildly elevated fasting glucose.\nClinical significance: Borderline prediabetes.\nFuture risks: Risk for type 2 diabetes.\nLifestyle & follow-up: Exercise regularly, reduce sugar intake, recheck labs in 3–6 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 190 mg/dL, BUN: 26 mg/dL, Creatinine: 1.5 mg/dL, Sodium: 144 mmol/L, Potassium: 3.6 mmol/L, Calcium: 8.7 mg/dL","output":"Interpretation: Elevated glucose with impaired kidney function.\nClinical significance: Uncontrolled diabetes with CKD risk.\nFuture risks: CKD progression, cardiovascular events.\nLifestyle & follow-up: Strict glucose control, nephrology consult, monitor electrolytes and kidney function."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 90 mg/dL, BUN: 14 mg/dL, Creatinine: 0.8 mg/dL, Sodium: 140 mmol/L, Potassium: 4.2 mmol/L, Calcium: 9.1 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Normal glucose and kidney function.\nFuture risks: Minimal.\nLifestyle & follow-up: Balanced diet, hydration, routine checkup."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 115 mg/dL, BUN: 18 mg/dL, Creatinine: 1.2 mg/dL, Sodium: 142 mmol/L, Potassium: 4.0 mmol/L, Calcium: 8.9 mg/dL","output":"Interpretation: Mild hyperglycemia.\nClinical significance: Prediabetes.\nFuture risks: Type 2 diabetes if persistent.\nLifestyle & follow-up: Diet modification, exercise, recheck glucose in 3 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 100 mg/dL, BUN: 15 mg/dL, Creatinine: 1.0 mg/dL, Sodium: 141 mmol/L, Potassium: 4.1 mmol/L, Calcium: 9.2 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Normal renal and glucose status.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain healthy diet, exercise, routine checkups."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 125 mg/dL, BUN: 20 mg/dL, Creatinine: 1.3 mg/dL, Sodium: 143 mmol/L, Potassium: 3.8 mmol/L, Calcium: 8.8 mg/dL","output":"Interpretation: Elevated glucose and mild kidney stress.\nClinical significance: Prediabetes with early CKD risk.\nFuture risks: Diabetes, CKD progression.\nLifestyle & follow-up: Reduce sugar, regular exercise, follow up kidney function in 3–6 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 88 mg/dL, BUN: 13 mg/dL, Creatinine: 0.9 mg/dL, Sodium: 139 mmol/L, Potassium: 4.0 mmol/L, Calcium: 9.3 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Kidneys, glucose, and electrolytes normal.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain healthy lifestyle; routine checkup."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 135 mg/dL, BUN: 22 mg/dL, Creatinine: 1.4 mg/dL, Sodium: 142 mmol/L, Potassium: 3.7 mmol/L, Calcium: 8.9 mg/dL","output":"Interpretation: Elevated glucose and mild kidney impairment.\nClinical significance: Diabetes with early CKD signs.\nFuture risks: CKD progression, cardiovascular complications.\nLifestyle & follow-up: Diet and lifestyle modification, monitor kidney function, follow-up labs."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 92 mg/dL, BUN: 14 mg/dL, Creatinine: 0.9 mg/dL, Sodium: 140 mmol/L, Potassium: 4.2 mmol/L, Calcium: 9.2 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Normal kidney and glucose function.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain hydration, balanced diet, routine screening."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 102 mg/dL, BUN: 16 mg/dL, Creatinine: 1.0 mg/dL, Sodium: 141 mmol/L, Potassium: 4.0 mmol/L, Calcium: 9.0 mg/dL","output":"Interpretation: Slightly elevated glucose.\nClinical significance: Borderline prediabetes.\nFuture risks: Progression to diabetes if persistent.\nLifestyle & follow-up: Increase physical activity, reduce sugar intake, recheck glucose in 3–6 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 200 mg/dL, BUN: 28 mg/dL, Creatinine: 1.5 mg/dL, Sodium: 144 mmol/L, Potassium: 3.5 mmol/L, Calcium: 8.7 mg/dL","output":"Interpretation: Hyperglycemia with impaired kidney function.\nClinical significance: Uncontrolled diabetes with CKD risk.\nFuture risks: CKD progression, cardiovascular complications.\nLifestyle & follow-up: Strict glucose control, nephrology referral, diet and lifestyle changes."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 90 mg/dL, BUN: 13 mg/dL, Creatinine: 0.8 mg/dL, Sodium: 139 mmol/L, Potassium: 4.1 mmol/L, Calcium: 9.2 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Kidneys, electrolytes, and glucose normal.\nFuture risks: Minimal.\nLifestyle & follow-up: Routine checkup; maintain healthy diet and activity."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 115 mg/dL, BUN: 17 mg/dL, Creatinine: 1.1 mg/dL, Sodium: 141 mmol/L, Potassium: 4.0 mmol/L, Calcium: 9.0 mg/dL","output":"Interpretation: Mild fasting hyperglycemia.\nClinical significance: Prediabetes.\nFuture risks: Type 2 diabetes.\nLifestyle & follow-up: Diet modification, exercise, recheck labs in 3 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 170 mg/dL, BUN: 25 mg/dL, Creatinine: 1.4 mg/dL, Sodium: 143 mmol/L, Potassium: 3.6 mmol/L, Calcium: 8.8 mg/dL","output":"Interpretation: Elevated glucose with mild kidney impairment.\nClinical significance: Diabetes with early CKD.\nFuture risks: CKD progression, cardiovascular disease.\nLifestyle & follow-up: Control blood sugar, nephrology follow-up, diet and lifestyle modification."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 95 mg/dL, BUN: 14 mg/dL, Creatinine: 0.9 mg/dL, Sodium: 140 mmol/L, Potassium: 4.1 mmol/L, Calcium: 9.1 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Kidneys and glucose normal.\nFuture risks: Minimal.\nLifestyle & follow-up: Maintain healthy diet, exercise, routine checkup."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 128 mg/dL, BUN: 20 mg/dL, Creatinine: 1.3 mg/dL, Sodium: 142 mmol/L, Potassium: 3.8 mmol/L, Calcium: 8.8 mg/dL","output":"Interpretation: Elevated glucose with mild kidney stress.\nClinical significance: Prediabetes with early CKD.\nFuture risks: Diabetes, CKD progression.\nLifestyle & follow-up: Reduce sugar intake, exercise regularly, follow-up labs in 3–6 months."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 85 mg/dL, BUN: 13 mg/dL, Creatinine: 0.8 mg/dL, Sodium: 139 mmol/L, Potassium: 4.2 mmol/L, Calcium: 9.3 mg/dL","output":"Interpretation: Normal metabolic panel.\nClinical significance: Healthy kidney, electrolyte, and glucose function.\nFuture risks: Minimal.\nLifestyle & follow-up: Routine checkup and maintain healthy lifestyle."}
-{"instruction":"Interpret metabolic panel","input":"Glucose: 140 mg/dL, BUN: 23 mg/dL, Creatinine: 1.4 mg/dL, Sodium: 143 mmol/L, Potassium: 3.7 mmol/L, Calcium: 8.9 mg/dL","output":"Interpretation: Elevated glucose and mild kidney impairment.\nClinical significance: Diabetes with early CKD signs.\nFuture risks: CKD progression, cardiovascular complications.\nLifestyle & follow-up: Blood sugar management, nephrology referral, diet and lifestyle modification."}
-
-
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. Fasting Glucose: 118 mg/dL, Calcium: 9.2 mg/dL, Sodium: 140 mmol/L, Potassium: 4.1 mmol/L.",
+  "output": "Interpretation:\nImpaired fasting glucose.\n\nClinical Significance:\nIndicates early dysregulation of glucose metabolism.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nProgression to type 2 diabetes.\n\nLifestyle & Follow-up:\nDietary modification, exercise, and glucose monitoring advised."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. Fasting Glucose: 92 mg/dL, Calcium: 9.6 mg/dL, Sodium: 138 mmol/L, Potassium: 4.3 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nNormal glucose and electrolyte balance.\n\nPossible Causes:\nHealthy metabolic regulation.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine health maintenance advised."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. Fasting Glucose: 168 mg/dL, Calcium: 9.0 mg/dL, Sodium: 142 mmol/L, Potassium: 4.0 mmol/L.",
+  "output": "Interpretation:\nHyperglycemia.\n\nClinical Significance:\nConsistent with diabetes mellitus.\n\nPossible Causes:\nInsulin deficiency or resistance.\n\nPotential Risks:\nMicrovascular and macrovascular complications.\n\nLifestyle & Follow-up:\nGlycemic control and medical management required."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 63 years. Fasting Glucose: 104 mg/dL, Calcium: 10.8 mg/dL, Sodium: 139 mmol/L, Potassium: 4.2 mmol/L.",
+  "output": "Interpretation:\nMild hypercalcemia with borderline glucose elevation.\n\nClinical Significance:\nPossible parathyroid or metabolic involvement.\n\nPossible Causes:\nPrimary hyperparathyroidism.\n\nPotential Risks:\nBone loss and renal complications.\n\nLifestyle & Follow-up:\nEndocrine evaluation recommended."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 70 years. Fasting Glucose: 88 mg/dL, Calcium: 8.2 mg/dL, Sodium: 134 mmol/L, Potassium: 3.4 mmol/L.",
+  "output": "Interpretation:\nElectrolyte imbalance with hypocalcemia and hypokalemia.\n\nClinical Significance:\nMay affect neuromuscular function.\n\nPossible Causes:\nPoor nutritional intake or diuretic use.\n\nPotential Risks:\nMuscle weakness and arrhythmias.\n\nLifestyle & Follow-up:\nElectrolyte correction and medication review advised."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. Fasting Glucose: 126 mg/dL, Calcium: 9.4 mg/dL, Sodium: 141 mmol/L, Potassium: 4.5 mmol/L.",
+  "output": "Interpretation:\nDiabetes-range fasting glucose.\n\nClinical Significance:\nMeets criteria for diabetes mellitus.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nLong-term metabolic complications.\n\nLifestyle & Follow-up:\nConfirmatory testing and treatment initiation advised."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Fasting Glucose: 95 mg/dL, Calcium: 9.1 mg/dL, Sodium: 146 mmol/L, Potassium: 4.0 mmol/L.",
+  "output": "Interpretation:\nMild hypernatremia.\n\nClinical Significance:\nSuggests relative dehydration.\n\nPossible Causes:\nInadequate fluid intake.\n\nPotential Risks:\nNeurological symptoms if severe.\n\nLifestyle & Follow-up:\nHydration optimization recommended."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. Fasting Glucose: 82 mg/dL, Calcium: 8.9 mg/dL, Sodium: 137 mmol/L, Potassium: 3.8 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nBalanced glucose and electrolytes.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nContinue healthy lifestyle."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 64 years. Fasting Glucose: 154 mg/dL, Calcium: 9.7 mg/dL, Sodium: 143 mmol/L, Potassium: 4.6 mmol/L.",
+  "output": "Interpretation:\nPoorly controlled hyperglycemia.\n\nClinical Significance:\nSuggests uncontrolled diabetes.\n\nPossible Causes:\nMedication non-adherence or disease progression.\n\nPotential Risks:\nCardiovascular and renal complications.\n\nLifestyle & Follow-up:\nTreatment intensification required."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. Fasting Glucose: 101 mg/dL, Calcium: 10.5 mg/dL, Sodium: 140 mmol/L, Potassium: 4.4 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with borderline hypercalcemia.\n\nClinical Significance:\nMetabolic and endocrine imbalance possible.\n\nPossible Causes:\nInsulin resistance and calcium metabolism disorder.\n\nPotential Risks:\nDiabetes progression.\n\nLifestyle & Follow-up:\nLifestyle intervention and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. Fasting Glucose: 90 mg/dL, Calcium: 9.3 mg/dL, Sodium: 136 mmol/L, Potassium: 4.1 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nHealthy metabolic status.\n\nPossible Causes:\nBalanced diet and activity.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine screening only."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 68 years. Fasting Glucose: 132 mg/dL, Calcium: 9.8 mg/dL, Sodium: 142 mmol/L, Potassium: 3.6 mmol/L.",
+  "output": "Interpretation:\nDiabetes with mild hypokalemia.\n\nClinical Significance:\nElectrolyte disturbance may complicate glycemic control.\n\nPossible Causes:\nDiuretic therapy.\n\nPotential Risks:\nCardiac arrhythmias.\n\nLifestyle & Follow-up:\nElectrolyte correction and diabetes management required."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. Fasting Glucose: 110 mg/dL, Calcium: 8.6 mg/dL, Sodium: 135 mmol/L, Potassium: 3.3 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with hypokalemia.\n\nClinical Significance:\nMay affect insulin secretion and muscle function.\n\nPossible Causes:\nPoor diet or medication effect.\n\nPotential Risks:\nProgression of metabolic dysfunction.\n\nLifestyle & Follow-up:\nNutritional optimization and monitoring advised."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. Fasting Glucose: 89 mg/dL, Calcium: 9.9 mg/dL, Sodium: 139 mmol/L, Potassium: 4.7 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic findings.\n\nClinical Significance:\nNo biochemical abnormalities detected.\n\nPossible Causes:\nStable metabolic regulation.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nAnnual screening advised."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 72 years. Fasting Glucose: 176 mg/dL, Calcium: 10.2 mg/dL, Sodium: 145 mmol/L, Potassium: 4.9 mmol/L.",
+  "output": "Interpretation:\nMarked hyperglycemia.\n\nClinical Significance:\nPoorly controlled diabetes.\n\nPossible Causes:\nAdvanced insulin resistance.\n\nPotential Risks:\nEnd-organ damage.\n\nLifestyle & Follow-up:\nUrgent glycemic optimization required."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. Fasting Glucose: 97 mg/dL, Calcium: 8.7 mg/dL, Sodium: 138 mmol/L, Potassium: 4.2 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nBalanced glucose and electrolyte levels.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue healthy habits."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. Fasting Glucose: 122 mg/dL, Calcium: 9.5 mg/dL, Sodium: 141 mmol/L, Potassium: 4.1 mmol/L.",
+  "output": "Interpretation:\nPrediabetes.\n\nClinical Significance:\nEarly metabolic impairment.\n\nPossible Causes:\nSedentary lifestyle.\n\nPotential Risks:\nProgression to diabetes.\n\nLifestyle & Follow-up:\nLifestyle intervention recommended."
+}
+{
+  "instruction": "Interpret the following metabolic panel report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 65 years. Fasting Glucose: 108 mg/dL, Calcium: 10.9 mg/dL, Sodium: 140 mmol/L, Potassium: 4.0 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with hypercalcemia.\n\nClinical Significance:\nPossible endocrine disorder.\n\nPossible Causes:\nParathyroid dysfunction.\n\nPotential Risks:\nBone and renal complications.\n\nLifestyle & Follow-up:\nFurther endocrine evaluation advised."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Glucose 168 mg/dL, BUN 24 mg/dL, Creatinine 1.3 mg/dL, Sodium 138 mmol/L, Potassium 4.5 mmol/L.",
+  "output": "Interpretation:\nHyperglycemia with mild renal function impairment.\n\nClinical Significance:\nElevated glucose suggests poor glycemic control; kidney markers show early dysfunction.\n\nPossible Causes:\nType 2 diabetes mellitus and dehydration.\n\nPotential Risks:\nProgression to diabetic nephropathy.\n\nLifestyle & Follow-up:\nOptimize glucose control, hydrate adequately, and monitor renal parameters."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 45 years. Glucose 88 mg/dL, BUN 14 mg/dL, Creatinine 0.8 mg/dL, Sodium 140 mmol/L, Potassium 4.1 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nAll parameters within healthy reference ranges.\n\nPossible Causes:\nNormal metabolic and renal function.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nMaintain balanced diet and routine health monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 61 years. Glucose 112 mg/dL, BUN 28 mg/dL, Creatinine 1.6 mg/dL, Sodium 135 mmol/L, Potassium 5.2 mmol/L.",
+  "output": "Interpretation:\nImpaired fasting glucose with renal insufficiency and mild hyperkalemia.\n\nClinical Significance:\nSuggests declining kidney function affecting electrolyte balance.\n\nPossible Causes:\nChronic kidney disease and insulin resistance.\n\nPotential Risks:\nCardiac arrhythmias and worsening renal failure.\n\nLifestyle & Follow-up:\nRenal evaluation, potassium restriction, and glucose monitoring advised."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. Glucose 72 mg/dL, BUN 10 mg/dL, Creatinine 0.7 mg/dL, Sodium 142 mmol/L, Potassium 3.4 mmol/L.",
+  "output": "Interpretation:\nMild hypokalemia.\n\nClinical Significance:\nLow potassium may affect neuromuscular function.\n\nPossible Causes:\nDietary deficiency or gastrointestinal losses.\n\nPotential Risks:\nMuscle weakness or cardiac rhythm disturbances.\n\nLifestyle & Follow-up:\nIncrease potassium intake and reassess levels."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 48 years. Glucose 198 mg/dL, BUN 18 mg/dL, Creatinine 1.0 mg/dL, Sodium 133 mmol/L, Potassium 4.8 mmol/L.",
+  "output": "Interpretation:\nMarked hyperglycemia with mild hyponatremia.\n\nClinical Significance:\nSuggests uncontrolled diabetes causing electrolyte dilution.\n\nPossible Causes:\nPoor glycemic control.\n\nPotential Risks:\nHyperosmolar states and dehydration.\n\nLifestyle & Follow-up:\nImmediate diabetes management and electrolyte monitoring required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. Glucose 104 mg/dL, BUN 30 mg/dL, Creatinine 1.8 mg/dL, Sodium 137 mmol/L, Potassium 5.5 mmol/L.",
+  "output": "Interpretation:\nRenal dysfunction with hyperkalemia.\n\nClinical Significance:\nReduced kidney clearance affecting potassium levels.\n\nPossible Causes:\nChronic kidney disease.\n\nPotential Risks:\nLife-threatening cardiac arrhythmias.\n\nLifestyle & Follow-up:\nUrgent nephrology consultation and potassium management."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 29 years. Glucose 82 mg/dL, BUN 12 mg/dL, Creatinine 0.9 mg/dL, Sodium 139 mmol/L, Potassium 4.0 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic profile.\n\nClinical Significance:\nIndicates good metabolic and renal health.\n\nPossible Causes:\nHealthy physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue current lifestyle practices."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 64 years. Glucose 130 mg/dL, BUN 26 mg/dL, Creatinine 1.4 mg/dL, Sodium 136 mmol/L, Potassium 4.9 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with mild renal impairment.\n\nClinical Significance:\nEarly metabolic and renal changes.\n\nPossible Causes:\nAge-related decline and insulin resistance.\n\nPotential Risks:\nProgression to diabetes and kidney disease.\n\nLifestyle & Follow-up:\nDietary changes and regular monitoring advised."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. Glucose 65 mg/dL, BUN 16 mg/dL, Creatinine 1.0 mg/dL, Sodium 141 mmol/L, Potassium 3.6 mmol/L.",
+  "output": "Interpretation:\nHypoglycemia.\n\nClinical Significance:\nLow blood glucose may impair cognitive and physical function.\n\nPossible Causes:\nMedication overuse or inadequate caloric intake.\n\nPotential Risks:\nDizziness and loss of consciousness.\n\nLifestyle & Follow-up:\nReview medications and ensure regular meals."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. Glucose 94 mg/dL, BUN 22 mg/dL, Creatinine 1.1 mg/dL, Sodium 134 mmol/L, Potassium 4.2 mmol/L.",
+  "output": "Interpretation:\nMild hyponatremia.\n\nClinical Significance:\nElectrolyte imbalance may affect neurological status.\n\nPossible Causes:\nExcess fluid intake or hormonal imbalance.\n\nPotential Risks:\nHeadache and confusion.\n\nLifestyle & Follow-up:\nFluid intake assessment and repeat testing."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 67 years. Glucose 158 mg/dL, BUN 34 mg/dL, Creatinine 2.0 mg/dL, Sodium 132 mmol/L, Potassium 5.8 mmol/L.",
+  "output": "Interpretation:\nSevere renal impairment with hyperglycemia and hyperkalemia.\n\nClinical Significance:\nAdvanced kidney disease affecting metabolic balance.\n\nPossible Causes:\nLong-standing diabetes and hypertension.\n\nPotential Risks:\nCardiac arrest and metabolic complications.\n\nLifestyle & Follow-up:\nImmediate medical intervention required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 26 years. Glucose 90 mg/dL, BUN 11 mg/dL, Creatinine 0.6 mg/dL, Sodium 140 mmol/L, Potassium 4.3 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic function.\n\nClinical Significance:\nHealthy metabolic and renal parameters.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health maintenance."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. Glucose 142 mg/dL, BUN 20 mg/dL, Creatinine 1.2 mg/dL, Sodium 138 mmol/L, Potassium 4.6 mmol/L.",
+  "output": "Interpretation:\nHyperglycemia.\n\nClinical Significance:\nIndicates suboptimal glucose regulation.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nDevelopment of diabetes-related complications.\n\nLifestyle & Follow-up:\nDietary modification and glucose monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 59 years. Glucose 118 mg/dL, BUN 25 mg/dL, Creatinine 1.5 mg/dL, Sodium 137 mmol/L, Potassium 5.0 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with renal compromise.\n\nClinical Significance:\nEarly metabolic derangement with kidney involvement.\n\nPossible Causes:\nChronic metabolic stress.\n\nPotential Risks:\nProgression to diabetes and kidney disease.\n\nLifestyle & Follow-up:\nLifestyle intervention and nephrology follow-up."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 36 years. Glucose 86 mg/dL, BUN 13 mg/dL, Creatinine 0.9 mg/dL, Sodium 141 mmol/L, Potassium 4.4 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nAll values within expected ranges.\n\nPossible Causes:\nHealthy metabolic state.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue healthy habits."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 72 years. Glucose 150 mg/dL, BUN 32 mg/dL, Creatinine 1.9 mg/dL, Sodium 135 mmol/L, Potassium 5.4 mmol/L.",
+  "output": "Interpretation:\nDiabetes with significant renal dysfunction.\n\nClinical Significance:\nKidney impairment affecting glucose and electrolyte regulation.\n\nPossible Causes:\nLong-standing metabolic disease.\n\nPotential Risks:\nEnd-stage renal disease.\n\nLifestyle & Follow-up:\nClose medical supervision and renal care required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 43 years. Glucose 99 mg/dL, BUN 17 mg/dL, Creatinine 1.0 mg/dL, Sodium 139 mmol/L, Potassium 4.1 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic profile.\n\nClinical Significance:\nStable glucose and renal function.\n\nPossible Causes:\nNormal metabolic regulation.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine follow-up recommended."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. Glucose 135 mg/dL, BUN 21 mg/dL, Creatinine 1.2 mg/dL, Sodium 136 mmol/L, Potassium 4.7 mmol/L.",
+  "output": "Interpretation:\nImpaired glucose tolerance.\n\nClinical Significance:\nEarly dysregulation of blood glucose.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nProgression to type 2 diabetes.\n\nLifestyle & Follow-up:\nWeight management and regular glucose testing."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. Glucose 170 mg/dL, BUN 29 mg/dL, Creatinine 1.7 mg/dL, Sodium 134 mmol/L, Potassium 5.3 mmol/L.",
+  "output": "Interpretation:\nPoorly controlled diabetes with renal and electrolyte abnormalities.\n\nClinical Significance:\nSignificant metabolic imbalance requiring intervention.\n\nPossible Causes:\nAdvanced diabetes.\n\nPotential Risks:\nCardiovascular and renal complications.\n\nLifestyle & Follow-up:\nImmediate glycemic control and renal evaluation."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 31 years. Glucose 84 mg/dL, BUN 12 mg/dL, Creatinine 0.8 mg/dL, Sodium 140 mmol/L, Potassium 4.0 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic function.\n\nClinical Significance:\nHealthy metabolic and renal status.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health maintenance advised."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. Glucose 110 mg/dL, BUN 19 mg/dL, Creatinine 1.1 mg/dL, Sodium 138 mmol/L, Potassium 4.3 mmol/L.",
+  "output": "Interpretation:\nImpaired fasting glucose.\n\nClinical Significance:\nEarly abnormal glucose regulation.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nProgression to type 2 diabetes.\n\nLifestyle & Follow-up:\nDietary modification and periodic glucose monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 53 years. Glucose 162 mg/dL, BUN 23 mg/dL, Creatinine 1.3 mg/dL, Sodium 135 mmol/L, Potassium 4.9 mmol/L.",
+  "output": "Interpretation:\nHyperglycemia with mild renal impairment.\n\nClinical Significance:\nPoor glycemic control affecting kidney function.\n\nPossible Causes:\nType 2 diabetes mellitus.\n\nPotential Risks:\nDiabetic nephropathy.\n\nLifestyle & Follow-up:\nStrict glucose control and renal function monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. Glucose 178 mg/dL, BUN 31 mg/dL, Creatinine 1.9 mg/dL, Sodium 133 mmol/L, Potassium 5.6 mmol/L.",
+  "output": "Interpretation:\nUncontrolled diabetes with advanced renal dysfunction.\n\nClinical Significance:\nSignificant metabolic and electrolyte derangements.\n\nPossible Causes:\nLong-standing diabetes and hypertension.\n\nPotential Risks:\nCardiac arrhythmias and renal failure.\n\nLifestyle & Follow-up:\nUrgent medical and nephrology management required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 37 years. Glucose 79 mg/dL, BUN 13 mg/dL, Creatinine 0.7 mg/dL, Sodium 141 mmol/L, Potassium 3.5 mmol/L.",
+  "output": "Interpretation:\nBorderline hypokalemia.\n\nClinical Significance:\nSlight potassium deficiency.\n\nPossible Causes:\nLow dietary intake or gastrointestinal loss.\n\nPotential Risks:\nMuscle fatigue.\n\nLifestyle & Follow-up:\nIncrease potassium-rich foods and reassess levels."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. Glucose 124 mg/dL, BUN 21 mg/dL, Creatinine 1.2 mg/dL, Sodium 137 mmol/L, Potassium 4.6 mmol/L.",
+  "output": "Interpretation:\nPrediabetes.\n\nClinical Significance:\nElevated glucose indicating insulin resistance.\n\nPossible Causes:\nSedentary lifestyle and excess weight.\n\nPotential Risks:\nProgression to diabetes.\n\nLifestyle & Follow-up:\nWeight management and glucose surveillance."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 65 years. Glucose 148 mg/dL, BUN 27 mg/dL, Creatinine 1.6 mg/dL, Sodium 136 mmol/L, Potassium 5.2 mmol/L.",
+  "output": "Interpretation:\nDiabetes with moderate renal impairment.\n\nClinical Significance:\nKidney involvement in metabolic disease.\n\nPossible Causes:\nChronic hyperglycemia.\n\nPotential Risks:\nProgressive renal damage.\n\nLifestyle & Follow-up:\nOptimize glycemic control and nephrology follow-up."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 28 years. Glucose 92 mg/dL, BUN 15 mg/dL, Creatinine 0.9 mg/dL, Sodium 140 mmol/L, Potassium 4.2 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nHealthy metabolic and renal function.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine preventive care."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. Glucose 102 mg/dL, BUN 29 mg/dL, Creatinine 1.4 mg/dL, Sodium 138 mmol/L, Potassium 5.0 mmol/L.",
+  "output": "Interpretation:\nBorderline hyperglycemia with renal compromise.\n\nClinical Significance:\nEarly metabolic and kidney dysfunction.\n\nPossible Causes:\nAge-related renal decline.\n\nPotential Risks:\nChronic kidney disease progression.\n\nLifestyle & Follow-up:\nRenal function monitoring and lifestyle changes."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. Glucose 140 mg/dL, BUN 18 mg/dL, Creatinine 1.1 mg/dL, Sodium 139 mmol/L, Potassium 4.4 mmol/L.",
+  "output": "Interpretation:\nHyperglycemia.\n\nClinical Significance:\nIndicates impaired glucose metabolism.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nType 2 diabetes development.\n\nLifestyle & Follow-up:\nDietary control and glucose follow-up."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 42 years. Glucose 87 mg/dL, BUN 16 mg/dL, Creatinine 0.9 mg/dL, Sodium 142 mmol/L, Potassium 4.1 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic profile.\n\nClinical Significance:\nStable metabolic parameters.\n\nPossible Causes:\nNormal metabolic balance.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue healthy lifestyle."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 70 years. Glucose 165 mg/dL, BUN 35 mg/dL, Creatinine 2.1 mg/dL, Sodium 131 mmol/L, Potassium 5.9 mmol/L.",
+  "output": "Interpretation:\nSevere metabolic derangement with advanced renal failure.\n\nClinical Significance:\nCritical kidney dysfunction affecting electrolytes and glucose.\n\nPossible Causes:\nAdvanced diabetic nephropathy.\n\nPotential Risks:\nLife-threatening arrhythmias.\n\nLifestyle & Follow-up:\nImmediate hospitalization and renal management."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 33 years. Glucose 76 mg/dL, BUN 11 mg/dL, Creatinine 0.6 mg/dL, Sodium 140 mmol/L, Potassium 3.8 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic function.\n\nClinical Significance:\nHealthy glucose and kidney parameters.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine wellness checks."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 57 years. Glucose 155 mg/dL, BUN 24 mg/dL, Creatinine 1.5 mg/dL, Sodium 136 mmol/L, Potassium 5.1 mmol/L.",
+  "output": "Interpretation:\nPoor glycemic control with renal involvement.\n\nClinical Significance:\nMetabolic disease impacting kidney function.\n\nPossible Causes:\nType 2 diabetes.\n\nPotential Risks:\nProgressive kidney damage.\n\nLifestyle & Follow-up:\nTight glucose control and renal assessment."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. Glucose 120 mg/dL, BUN 26 mg/dL, Creatinine 1.3 mg/dL, Sodium 137 mmol/L, Potassium 4.8 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with mild renal stress.\n\nClinical Significance:\nEarly metabolic imbalance.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nDiabetes progression.\n\nLifestyle & Follow-up:\nLifestyle intervention and monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 39 years. Glucose 95 mg/dL, BUN 17 mg/dL, Creatinine 1.0 mg/dL, Sodium 140 mmol/L, Potassium 4.3 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nHealthy metabolic status.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nMaintain healthy habits."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 68 years. Glucose 172 mg/dL, BUN 33 mg/dL, Creatinine 1.9 mg/dL, Sodium 134 mmol/L, Potassium 5.4 mmol/L.",
+  "output": "Interpretation:\nDiabetes with advanced renal dysfunction.\n\nClinical Significance:\nSignificant metabolic and electrolyte imbalance.\n\nPossible Causes:\nLong-term diabetes.\n\nPotential Risks:\nRenal failure and cardiovascular events.\n\nLifestyle & Follow-up:\nUrgent multidisciplinary medical care required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. Glucose 108 mg/dL, BUN 18 mg/dL, Creatinine 1.1 mg/dL, Sodium 139 mmol/L, Potassium 4.5 mmol/L.",
+  "output": "Interpretation:\nBorderline elevated glucose.\n\nClinical Significance:\nEarly glucose dysregulation.\n\nPossible Causes:\nSedentary lifestyle.\n\nPotential Risks:\nProgression to prediabetes.\n\nLifestyle & Follow-up:\nDietary awareness and monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. Glucose 82 mg/dL, BUN 14 mg/dL, Creatinine 0.8 mg/dL, Sodium 141 mmol/L, Potassium 4.2 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic profile.\n\nClinical Significance:\nHealthy metabolic balance.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue routine health screening."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 63 years. Glucose 160 mg/dL, BUN 28 mg/dL, Creatinine 1.6 mg/dL, Sodium 135 mmol/L, Potassium 5.2 mmol/L.",
+  "output": "Interpretation:\nDiabetes with moderate renal impairment.\n\nClinical Significance:\nKidney involvement in metabolic disease.\n\nPossible Causes:\nChronic hyperglycemia.\n\nPotential Risks:\nRenal disease progression.\n\nLifestyle & Follow-up:\nOptimize diabetes management and renal care."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. Glucose 115 mg/dL, BUN 20 mg/dL, Creatinine 1.1 mg/dL, Sodium 138 mmol/L, Potassium 4.4 mmol/L.",
+  "output": "Interpretation:\nImpaired fasting glucose.\n\nClinical Significance:\nEarly abnormal glucose metabolism.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nProgression to prediabetes.\n\nLifestyle & Follow-up:\nDietary changes and repeat glucose testing."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 56 years. Glucose 142 mg/dL, BUN 24 mg/dL, Creatinine 1.3 mg/dL, Sodium 136 mmol/L, Potassium 4.9 mmol/L.",
+  "output": "Interpretation:\nHyperglycemia with early renal stress.\n\nClinical Significance:\nMetabolic dysregulation affecting kidney function.\n\nPossible Causes:\nType 2 diabetes mellitus.\n\nPotential Risks:\nDiabetic nephropathy.\n\nLifestyle & Follow-up:\nTight glucose control and renal monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 68 years. Glucose 176 mg/dL, BUN 34 mg/dL, Creatinine 2.0 mg/dL, Sodium 133 mmol/L, Potassium 5.7 mmol/L.",
+  "output": "Interpretation:\nAdvanced diabetes with severe renal impairment.\n\nClinical Significance:\nCritical metabolic and electrolyte abnormalities.\n\nPossible Causes:\nLong-standing uncontrolled diabetes.\n\nPotential Risks:\nLife-threatening cardiac arrhythmias.\n\nLifestyle & Follow-up:\nImmediate hospitalization and nephrology care."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. Glucose 88 mg/dL, BUN 12 mg/dL, Creatinine 0.7 mg/dL, Sodium 141 mmol/L, Potassium 4.1 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nHealthy metabolic and renal function.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine preventive care."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Glucose 132 mg/dL, BUN 22 mg/dL, Creatinine 1.4 mg/dL, Sodium 137 mmol/L, Potassium 4.8 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with mild renal impairment.\n\nClinical Significance:\nEarly metabolic and kidney dysfunction.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nProgression to diabetes.\n\nLifestyle & Follow-up:\nWeight management and renal follow-up."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 61 years. Glucose 155 mg/dL, BUN 29 mg/dL, Creatinine 1.7 mg/dL, Sodium 135 mmol/L, Potassium 5.3 mmol/L.",
+  "output": "Interpretation:\nDiabetes with moderate renal dysfunction.\n\nClinical Significance:\nKidney involvement in metabolic disease.\n\nPossible Causes:\nChronic hyperglycemia.\n\nPotential Risks:\nRenal disease progression.\n\nLifestyle & Follow-up:\nNephrology referral and strict glucose control."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. Glucose 78 mg/dL, BUN 14 mg/dL, Creatinine 0.9 mg/dL, Sodium 140 mmol/L, Potassium 3.6 mmol/L.",
+  "output": "Interpretation:\nLow-normal glucose with borderline hypokalemia.\n\nClinical Significance:\nElectrolyte imbalance risk.\n\nPossible Causes:\nDietary deficiency.\n\nPotential Risks:\nFatigue and muscle cramps.\n\nLifestyle & Follow-up:\nIncrease potassium intake and monitor."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 70 years. Glucose 168 mg/dL, BUN 36 mg/dL, Creatinine 2.2 mg/dL, Sodium 132 mmol/L, Potassium 5.9 mmol/L.",
+  "output": "Interpretation:\nSevere diabetes with advanced renal failure.\n\nClinical Significance:\nCritical electrolyte and metabolic imbalance.\n\nPossible Causes:\nEnd-stage diabetic nephropathy.\n\nPotential Risks:\nSudden cardiac death.\n\nLifestyle & Follow-up:\nEmergency medical intervention required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 47 years. Glucose 104 mg/dL, BUN 18 mg/dL, Creatinine 1.0 mg/dL, Sodium 139 mmol/L, Potassium 4.3 mmol/L.",
+  "output": "Interpretation:\nNormal to borderline glucose.\n\nClinical Significance:\nEarly metabolic shift.\n\nPossible Causes:\nSedentary lifestyle.\n\nPotential Risks:\nPrediabetes.\n\nLifestyle & Follow-up:\nLifestyle modification and annual screening."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 38 years. Glucose 90 mg/dL, BUN 15 mg/dL, Creatinine 0.8 mg/dL, Sodium 142 mmol/L, Potassium 4.2 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nStable metabolic health.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nMaintain healthy lifestyle."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 59 years. Glucose 148 mg/dL, BUN 25 mg/dL, Creatinine 1.5 mg/dL, Sodium 136 mmol/L, Potassium 5.1 mmol/L.",
+  "output": "Interpretation:\nPoor glycemic control with renal stress.\n\nClinical Significance:\nMetabolic disease affecting kidney function.\n\nPossible Causes:\nType 2 diabetes.\n\nPotential Risks:\nChronic kidney disease.\n\nLifestyle & Follow-up:\nImprove glycemic control and renal evaluation."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 65 years. Glucose 122 mg/dL, BUN 28 mg/dL, Creatinine 1.4 mg/dL, Sodium 137 mmol/L, Potassium 4.9 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with mild renal impairment.\n\nClinical Significance:\nEarly metabolic deterioration.\n\nPossible Causes:\nAge-related insulin resistance.\n\nPotential Risks:\nDiabetes progression.\n\nLifestyle & Follow-up:\nLifestyle intervention and monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 72 years. Glucose 182 mg/dL, BUN 38 mg/dL, Creatinine 2.3 mg/dL, Sodium 130 mmol/L, Potassium 6.1 mmol/L.",
+  "output": "Interpretation:\nCritical metabolic derangement with end-stage renal disease.\n\nClinical Significance:\nSevere electrolyte and glucose imbalance.\n\nPossible Causes:\nAdvanced diabetic kidney disease.\n\nPotential Risks:\nFatal arrhythmias.\n\nLifestyle & Follow-up:\nImmediate emergency treatment required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 27 years. Glucose 86 mg/dL, BUN 11 mg/dL, Creatinine 0.7 mg/dL, Sodium 141 mmol/L, Potassium 4.0 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic profile.\n\nClinical Significance:\nHealthy metabolic balance.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health maintenance."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 54 years. Glucose 138 mg/dL, BUN 23 mg/dL, Creatinine 1.3 mg/dL, Sodium 137 mmol/L, Potassium 4.7 mmol/L.",
+  "output": "Interpretation:\nImpaired glucose tolerance.\n\nClinical Significance:\nEarly diabetes risk.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nType 2 diabetes.\n\nLifestyle & Follow-up:\nDietary changes and glucose monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 74 years. Glucose 160 mg/dL, BUN 35 mg/dL, Creatinine 2.1 mg/dL, Sodium 134 mmol/L, Potassium 5.6 mmol/L.",
+  "output": "Interpretation:\nDiabetes with advanced renal dysfunction.\n\nClinical Significance:\nHigh risk metabolic condition.\n\nPossible Causes:\nLong-term uncontrolled diabetes.\n\nPotential Risks:\nRenal failure and cardiovascular events.\n\nLifestyle & Follow-up:\nUrgent specialist management required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 40 years. Glucose 96 mg/dL, BUN 16 mg/dL, Creatinine 1.0 mg/dL, Sodium 140 mmol/L, Potassium 4.4 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nStable metabolic health.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nContinue healthy habits."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 45 years. Glucose 118 mg/dL, BUN 21 mg/dL, Creatinine 1.1 mg/dL, Sodium 138 mmol/L, Potassium 4.6 mmol/L.",
+  "output": "Interpretation:\nImpaired fasting glucose.\n\nClinical Significance:\nEarly disturbance in glucose metabolism.\n\nPossible Causes:\nInsulin resistance.\n\nPotential Risks:\nProgression to type 2 diabetes.\n\nLifestyle & Follow-up:\nDiet modification, physical activity, and repeat testing."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. Glucose 165 mg/dL, BUN 30 mg/dL, Creatinine 1.9 mg/dL, Sodium 135 mmol/L, Potassium 5.4 mmol/L.",
+  "output": "Interpretation:\nDiabetes with moderate renal impairment.\n\nClinical Significance:\nMetabolic disease affecting kidney function.\n\nPossible Causes:\nLong-standing uncontrolled diabetes.\n\nPotential Risks:\nChronic kidney disease progression.\n\nLifestyle & Follow-up:\nStrict glycemic control and nephrology follow-up."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 71 years. Glucose 182 mg/dL, BUN 37 mg/dL, Creatinine 2.4 mg/dL, Sodium 132 mmol/L, Potassium 6.0 mmol/L.",
+  "output": "Interpretation:\nSevere hyperglycemia with advanced renal failure.\n\nClinical Significance:\nCritical electrolyte and metabolic imbalance.\n\nPossible Causes:\nAdvanced diabetic nephropathy.\n\nPotential Risks:\nLife-threatening cardiac arrhythmias.\n\nLifestyle & Follow-up:\nImmediate emergency medical management required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 36 years. Glucose 92 mg/dL, BUN 14 mg/dL, Creatinine 0.9 mg/dL, Sodium 141 mmol/L, Potassium 4.2 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nHealthy renal and metabolic function.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nMaintain balanced diet and regular exercise."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. Glucose 134 mg/dL, BUN 26 mg/dL, Creatinine 1.5 mg/dL, Sodium 136 mmol/L, Potassium 5.0 mmol/L.",
+  "output": "Interpretation:\nPrediabetes with mild renal dysfunction.\n\nClinical Significance:\nMetabolic changes affecting kidney health.\n\nPossible Causes:\nInsulin resistance and aging.\n\nPotential Risks:\nProgression to diabetes and kidney disease.\n\nLifestyle & Follow-up:\nWeight management and regular renal monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 67 years. Glucose 170 mg/dL, BUN 33 mg/dL, Creatinine 2.1 mg/dL, Sodium 134 mmol/L, Potassium 5.6 mmol/L.",
+  "output": "Interpretation:\nPoorly controlled diabetes with advanced kidney impairment.\n\nClinical Significance:\nHigh-risk metabolic and electrolyte imbalance.\n\nPossible Causes:\nChronic diabetic kidney disease.\n\nPotential Risks:\nCardiovascular events and renal failure.\n\nLifestyle & Follow-up:\nUrgent specialist care and metabolic control."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 33 years. Glucose 84 mg/dL, BUN 13 mg/dL, Creatinine 0.8 mg/dL, Sodium 142 mmol/L, Potassium 4.1 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic profile.\n\nClinical Significance:\nHealthy metabolic balance.\n\nPossible Causes:\nNormal physiological function.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health screening advised."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. Glucose 146 mg/dL, BUN 24 mg/dL, Creatinine 1.4 mg/dL, Sodium 137 mmol/L, Potassium 4.8 mmol/L.",
+  "output": "Interpretation:\nDiabetes with early renal involvement.\n\nClinical Significance:\nMetabolic disease impacting kidney function.\n\nPossible Causes:\nPoor glycemic control.\n\nPotential Risks:\nChronic kidney disease.\n\nLifestyle & Follow-up:\nOptimize glucose levels and monitor renal parameters."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 76 years. Glucose 188 mg/dL, BUN 40 mg/dL, Creatinine 2.6 mg/dL, Sodium 131 mmol/L, Potassium 6.2 mmol/L.",
+  "output": "Interpretation:\nCritical metabolic derangement with end-stage renal disease.\n\nClinical Significance:\nSevere electrolyte imbalance and hyperglycemia.\n\nPossible Causes:\nEnd-stage diabetic nephropathy.\n\nPotential Risks:\nSudden cardiac arrest.\n\nLifestyle & Follow-up:\nImmediate emergency intervention required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 42 years. Glucose 101 mg/dL, BUN 17 mg/dL, Creatinine 1.0 mg/dL, Sodium 139 mmol/L, Potassium 4.5 mmol/L.",
+  "output": "Interpretation:\nBorderline fasting glucose.\n\nClinical Significance:\nEarly metabolic changes.\n\nPossible Causes:\nLifestyle-related insulin resistance.\n\nPotential Risks:\nPrediabetes.\n\nLifestyle & Follow-up:\nDietary control and annual metabolic screening."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 64 years. Glucose 158 mg/dL, BUN 31 mg/dL, Creatinine 1.8 mg/dL, Sodium 135 mmol/L, Potassium 5.3 mmol/L.",
+  "output": "Interpretation:\nDiabetes with moderate renal dysfunction.\n\nClinical Significance:\nMetabolic disease affecting renal clearance.\n\nPossible Causes:\nChronic hyperglycemia.\n\nPotential Risks:\nProgressive renal failure.\n\nLifestyle & Follow-up:\nNephrology consultation and strict metabolic control."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. Glucose 112 mg/dL, BUN 20 mg/dL, Creatinine 1.0 mg/dL, Sodium 140 mmol/L, Potassium 4.3 mmol/L.",
+  "output": "Interpretation:\nImpaired fasting glucose.\n\nClinical Significance:\nEarly dysregulation of glucose metabolism.\n\nPossible Causes:\nSedentary lifestyle or dietary imbalance.\n\nPotential Risks:\nProgression to type 2 diabetes.\n\nLifestyle & Follow-up:\nDietary modification, exercise, and repeat testing in 6 months."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 65 years. Glucose 176 mg/dL, BUN 29 mg/dL, Creatinine 1.7 mg/dL, Sodium 134 mmol/L, Potassium 5.2 mmol/L.",
+  "output": "Interpretation:\nUncontrolled diabetes with declining renal function.\n\nClinical Significance:\nMetabolic disease impacting kidney clearance.\n\nPossible Causes:\nLong-standing hyperglycemia.\n\nPotential Risks:\nProgression to chronic kidney disease.\n\nLifestyle & Follow-up:\nOptimize glycemic control and nephrology referral."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 72 years. Glucose 198 mg/dL, BUN 41 mg/dL, Creatinine 2.3 mg/dL, Sodium 132 mmol/L, Potassium 5.9 mmol/L.",
+  "output": "Interpretation:\nSevere hyperglycemia with advanced renal impairment.\n\nClinical Significance:\nCritical metabolic and electrolyte imbalance.\n\nPossible Causes:\nAdvanced diabetic nephropathy.\n\nPotential Risks:\nLife-threatening cardiac arrhythmias.\n\nLifestyle & Follow-up:\nImmediate medical intervention required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. Glucose 89 mg/dL, BUN 15 mg/dL, Creatinine 0.9 mg/dL, Sodium 141 mmol/L, Potassium 4.0 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nHealthy metabolic and renal function.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nContinue healthy lifestyle and routine screening."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. Glucose 142 mg/dL, BUN 27 mg/dL, Creatinine 1.6 mg/dL, Sodium 136 mmol/L, Potassium 5.1 mmol/L.",
+  "output": "Interpretation:\nDiabetes with mild to moderate renal impairment.\n\nClinical Significance:\nMetabolic disease affecting kidney filtration.\n\nPossible Causes:\nChronic hyperglycemia.\n\nPotential Risks:\nProgression of kidney disease.\n\nLifestyle & Follow-up:\nGlycemic control and regular renal monitoring advised."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 70 years. Glucose 185 mg/dL, BUN 38 mg/dL, Creatinine 2.2 mg/dL, Sodium 133 mmol/L, Potassium 5.7 mmol/L.",
+  "output": "Interpretation:\nPoorly controlled diabetes with advanced renal dysfunction.\n\nClinical Significance:\nSevere metabolic imbalance.\n\nPossible Causes:\nChronic diabetic kidney disease.\n\nPotential Risks:\nCardiac arrhythmias and renal failure.\n\nLifestyle & Follow-up:\nUrgent nephrology and endocrinology management required."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 39 years. Glucose 96 mg/dL, BUN 16 mg/dL, Creatinine 0.8 mg/dL, Sodium 139 mmol/L, Potassium 4.4 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic findings.\n\nClinical Significance:\nStable metabolic and renal status.\n\nPossible Causes:\nNormal physiological balance.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health checkups recommended."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. Glucose 150 mg/dL, BUN 25 mg/dL, Creatinine 1.5 mg/dL, Sodium 137 mmol/L, Potassium 4.9 mmol/L.",
+  "output": "Interpretation:\nDiabetes with early kidney involvement.\n\nClinical Significance:\nMetabolic disorder affecting renal health.\n\nPossible Causes:\nInsulin resistance and aging.\n\nPotential Risks:\nChronic kidney disease progression.\n\nLifestyle & Follow-up:\nWeight control, medication review, and renal monitoring."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 74 years. Glucose 205 mg/dL, BUN 44 mg/dL, Creatinine 2.8 mg/dL, Sodium 130 mmol/L, Potassium 6.1 mmol/L.",
+  "output": "Interpretation:\nCritical metabolic derangement with end-stage renal disease.\n\nClinical Significance:\nSevere electrolyte imbalance and hyperglycemia.\n\nPossible Causes:\nEnd-stage diabetic nephropathy.\n\nPotential Risks:\nHigh risk of cardiac arrest.\n\nLifestyle & Follow-up:\nImmediate emergency and renal replacement therapy evaluation."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. Glucose 108 mg/dL, BUN 18 mg/dL, Creatinine 1.1 mg/dL, Sodium 140 mmol/L, Potassium 4.6 mmol/L.",
+  "output": "Interpretation:\nBorderline fasting glucose.\n\nClinical Significance:\nEarly metabolic changes.\n\nPossible Causes:\nLifestyle-related insulin resistance.\n\nPotential Risks:\nPrediabetes.\n\nLifestyle & Follow-up:\nLifestyle optimization and periodic metabolic screening."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 66 years. Glucose 162 mg/dL, BUN 34 mg/dL, Creatinine 1.9 mg/dL, Sodium 135 mmol/L, Potassium 5.4 mmol/L.",
+  "output": "Interpretation:\nDiabetes with moderate renal impairment.\n\nClinical Significance:\nMetabolic disease affecting renal clearance.\n\nPossible Causes:\nChronic uncontrolled hyperglycemia.\n\nPotential Risks:\nProgressive renal dysfunction.\n\nLifestyle & Follow-up:\nNephrology follow-up and strict metabolic control."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 29 years. Glucose 91 mg/dL, BUN 14 mg/dL, Creatinine 0.9 mg/dL, Sodium 142 mmol/L, Potassium 4.2 mmol/L.",
+  "output": "Interpretation:\nNormal metabolic panel.\n\nClinical Significance:\nHealthy metabolic and renal function.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nMaintain healthy lifestyle."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 69 years. Glucose 174 mg/dL, BUN 36 mg/dL, Creatinine 2.0 mg/dL, Sodium 134 mmol/L, Potassium 5.6 mmol/L.",
+  "output": "Interpretation:\nPoorly controlled diabetes with renal dysfunction.\n\nClinical Significance:\nHigh-risk metabolic and electrolyte imbalance.\n\nPossible Causes:\nAdvanced diabetic kidney disease.\n\nPotential Risks:\nCardiovascular complications.\n\nLifestyle & Follow-up:\nUrgent specialist management advised."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Glucose 114 mg/dL, BUN 19 mg/dL, Creatinine 1.2 mg/dL, Sodium 138 mmol/L, Potassium 4.7 mmol/L.",
+  "output": "Interpretation:\nImpaired fasting glucose.\n\nClinical Significance:\nEarly abnormal glucose regulation.\n\nPossible Causes:\nInsulin resistance related to lifestyle factors.\n\nPotential Risks:\nProgression to prediabetes or diabetes.\n\nLifestyle & Follow-up:\nDietary modification, regular exercise, and repeat fasting glucose testing."
+}
+{
+  "instruction": "Interpret the following comprehensive metabolic panel for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 81 years. Glucose 196 mg/dL, BUN 46 mg/dL, Creatinine 3.0 mg/dL, Sodium 129 mmol/L, Potassium 6.3 mmol/L.",
+  "output": "Interpretation:\nSevere metabolic derangement with end-stage renal disease.\n\nClinical Significance:\nCritical electrolyte imbalance and uncontrolled hyperglycemia.\n\nPossible Causes:\nAdvanced diabetic nephropathy.\n\nPotential Risks:\nHigh risk of cardiac arrhythmias and metabolic emergencies.\n\nLifestyle & Follow-up:\nImmediate emergency care and renal replacement therapy assessment required."
+}
