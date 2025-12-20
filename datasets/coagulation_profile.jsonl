@@ -1,3 +1,619 @@
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. PT 12.4 sec, INR 1.0, aPTT 30 sec, Fibrinogen 300 mg/dL, D-dimer 0.3 mg/L.",
+  "output": "Interpretation:\nNormal coagulation profile.\n\nClinical Significance:\nIndicates intact intrinsic and extrinsic coagulation pathways.\n\nPossible Causes:\nPhysiological coagulation balance.\n\nPotential Risks:\nNo immediate bleeding or thrombotic risk.\n\nLifestyle & Follow-up:\nRoutine health monitoring advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 52 years. PT 18.6 sec, INR 1.8, aPTT 32 sec, Fibrinogen 270 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nProlonged PT with elevated INR.\n\nClinical Significance:\nSuggests extrinsic pathway impairment.\n\nPossible Causes:\nVitamin K deficiency, early liver dysfunction, or anticoagulant therapy.\n\nPotential Risks:\nIncreased bleeding tendency.\n\nLifestyle & Follow-up:\nReview medications and assess liver function; dietary vitamin K optimization recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 29 years. PT 13 sec, INR 1.1, aPTT 48 sec, Fibrinogen 290 mg/dL, D-dimer 0.2 mg/L.",
+  "output": "Interpretation:\nIsolated prolongation of aPTT.\n\nClinical Significance:\nIndicates intrinsic pathway abnormality.\n\nPossible Causes:\nHemophilia, factor VIII/IX deficiency, or lupus anticoagulant.\n\nPotential Risks:\nBleeding following trauma or surgery.\n\nLifestyle & Follow-up:\nFurther coagulation factor assays advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. PT 22 sec, INR 2.3, aPTT 50 sec, Fibrinogen 170 mg/dL, D-dimer 1.5 mg/L.",
+  "output": "Interpretation:\nCombined PT and aPTT prolongation with low fibrinogen.\n\nClinical Significance:\nSuggestive of consumptive coagulopathy.\n\nPossible Causes:\nDisseminated intravascular coagulation (DIC).\n\nPotential Risks:\nSevere bleeding and multi-organ complications.\n\nLifestyle & Follow-up:\nUrgent hospitalization and hematology consultation required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. PT 11.9 sec, INR 0.9, aPTT 28 sec, Fibrinogen 520 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nElevated fibrinogen with normal clotting times.\n\nClinical Significance:\nIndicates acute-phase inflammatory response.\n\nPossible Causes:\nInfection, inflammation, or stress response.\n\nPotential Risks:\nMildly increased thrombotic risk.\n\nLifestyle & Follow-up:\nTreat underlying inflammation and maintain hydration."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. PT 19.5 sec, INR 2.0, aPTT 34 sec, Fibrinogen 260 mg/dL, D-dimer 0.5 mg/L.",
+  "output": "Interpretation:\nElevated INR with prolonged PT.\n\nClinical Significance:\nIndicates anticoagulant effect.\n\nPossible Causes:\nWarfarin therapy or vitamin K deficiency.\n\nPotential Risks:\nRisk of spontaneous bleeding.\n\nLifestyle & Follow-up:\nINR monitoring and dose adjustment advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. PT 13 sec, INR 1.1, aPTT 40 sec, Fibrinogen 310 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nMild prolongation of aPTT.\n\nClinical Significance:\nPossible early intrinsic pathway abnormality.\n\nPossible Causes:\nSubclinical factor deficiency or anticoagulant exposure.\n\nPotential Risks:\nProcedural bleeding risk.\n\nLifestyle & Follow-up:\nRepeat testing and clinical correlation recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. PT 24 sec, INR 2.6, aPTT 52 sec, Fibrinogen 190 mg/dL, D-dimer 1.1 mg/L.",
+  "output": "Interpretation:\nSevere coagulation derangement.\n\nClinical Significance:\nIndicates high-risk coagulopathy.\n\nPossible Causes:\nAdvanced liver disease or DIC.\n\nPotential Risks:\nLife-threatening hemorrhage.\n\nLifestyle & Follow-up:\nImmediate specialist evaluation required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 36 years. PT 12 sec, INR 1.0, aPTT 29 sec, Fibrinogen 280 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nNormal clotting times with elevated D-dimer.\n\nClinical Significance:\nSuggests active fibrinolysis.\n\nPossible Causes:\nRecent surgery, trauma, or thrombosis.\n\nPotential Risks:\nUnderlying thrombotic event.\n\nLifestyle & Follow-up:\nFurther imaging and clinical assessment advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. PT 16 sec, INR 1.5, aPTT 44 sec, Fibrinogen 240 mg/dL, D-dimer 0.8 mg/L.",
+  "output": "Interpretation:\nModerate prolongation of PT and aPTT.\n\nClinical Significance:\nIndicates mixed pathway involvement.\n\nPossible Causes:\nLiver dysfunction or anticoagulant exposure.\n\nPotential Risks:\nBleeding during invasive procedures.\n\nLifestyle & Follow-up:\nLiver function testing and coagulation monitoring recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 47 years. PT 14.8 sec, INR 1.3, aPTT 33 sec, Fibrinogen 260 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nMild prolongation of PT.\n\nClinical Significance:\nSuggests early extrinsic pathway alteration.\n\nPossible Causes:\nEarly liver dysfunction or mild vitamin K deficiency.\n\nPotential Risks:\nLow-grade bleeding risk if progression occurs.\n\nLifestyle & Follow-up:\nMonitor liver function and ensure balanced nutrition."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 32 years. PT 12.1 sec, INR 1.0, aPTT 51 sec, Fibrinogen 305 mg/dL, D-dimer 0.2 mg/L.",
+  "output": "Interpretation:\nMarkedly prolonged aPTT.\n\nClinical Significance:\nIndicates intrinsic coagulation pathway abnormality.\n\nPossible Causes:\nHemophilia carrier state, factor XI deficiency, or lupus anticoagulant.\n\nPotential Risks:\nBleeding during surgery or trauma.\n\nLifestyle & Follow-up:\nSpecialist hematology evaluation and factor assays recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 64 years. PT 23 sec, INR 2.4, aPTT 36 sec, Fibrinogen 240 mg/dL, D-dimer 0.5 mg/L.",
+  "output": "Interpretation:\nSignificantly prolonged PT with elevated INR.\n\nClinical Significance:\nIndicates impaired clot formation.\n\nPossible Causes:\nChronic liver disease or anticoagulant therapy.\n\nPotential Risks:\nSpontaneous bleeding.\n\nLifestyle & Follow-up:\nMedication review and liver evaluation advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. PT 11.6 sec, INR 0.9, aPTT 27 sec, Fibrinogen 610 mg/dL, D-dimer 0.7 mg/L.",
+  "output": "Interpretation:\nMarkedly elevated fibrinogen.\n\nClinical Significance:\nReflects acute inflammatory or stress response.\n\nPossible Causes:\nInfection, chronic inflammation, or malignancy.\n\nPotential Risks:\nIncreased thrombotic tendency.\n\nLifestyle & Follow-up:\nAddress underlying inflammation and encourage hydration."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. PT 19.2 sec, INR 1.9, aPTT 49 sec, Fibrinogen 200 mg/dL, D-dimer 1.3 mg/L.",
+  "output": "Interpretation:\nProlongation of PT and aPTT with elevated D-dimer.\n\nClinical Significance:\nSuggests consumptive coagulopathy.\n\nPossible Causes:\nEarly disseminated intravascular coagulation.\n\nPotential Risks:\nBleeding and organ dysfunction.\n\nLifestyle & Follow-up:\nUrgent clinical assessment required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 26 years. PT 12.7 sec, INR 1.0, aPTT 34 sec, Fibrinogen 275 mg/dL, D-dimer 0.1 mg/L.",
+  "output": "Interpretation:\nNormal coagulation profile.\n\nClinical Significance:\nNormal clotting ability.\n\nPossible Causes:\nPhysiological hemostasis.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine follow-up only."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. PT 15.9 sec, INR 1.4, aPTT 45 sec, Fibrinogen 230 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nMild prolongation of both PT and aPTT.\n\nClinical Significance:\nIndicates combined pathway involvement.\n\nPossible Causes:\nLiver dysfunction or anticoagulant exposure.\n\nPotential Risks:\nIncreased bleeding during procedures.\n\nLifestyle & Follow-up:\nMonitor coagulation trends and liver function."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 63 years. PT 26 sec, INR 2.8, aPTT 58 sec, Fibrinogen 160 mg/dL, D-dimer 2.0 mg/L.",
+  "output": "Interpretation:\nSevere coagulation abnormality.\n\nClinical Significance:\nSuggestive of advanced consumptive coagulopathy.\n\nPossible Causes:\nDisseminated intravascular coagulation or severe liver failure.\n\nPotential Risks:\nLife-threatening hemorrhage.\n\nLifestyle & Follow-up:\nImmediate emergency intervention required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 39 years. PT 13.2 sec, INR 1.1, aPTT 30 sec, Fibrinogen 480 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nElevated fibrinogen with raised D-dimer.\n\nClinical Significance:\nIndicates inflammatory state with increased fibrinolysis.\n\nPossible Causes:\nRecent infection or inflammatory disorder.\n\nPotential Risks:\nModerate thrombotic risk.\n\nLifestyle & Follow-up:\nAddress inflammation and ensure adequate hydration."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. PT 17.4 sec, INR 1.6, aPTT 35 sec, Fibrinogen 255 mg/dL, D-dimer 0.5 mg/L.",
+  "output": "Interpretation:\nModerately prolonged PT.\n\nClinical Significance:\nSuggests extrinsic pathway impairment.\n\nPossible Causes:\nVitamin K deficiency or early hepatic dysfunction.\n\nPotential Risks:\nBleeding tendency if untreated.\n\nLifestyle & Follow-up:\nDietary correction and repeat coagulation testing advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. PT 13.5 sec, INR 1.1, aPTT 39 sec, Fibrinogen 295 mg/dL, D-dimer 0.35 mg/L.",
+  "output": "Interpretation:\nMildly prolonged aPTT.\n\nClinical Significance:\nSuggests subtle intrinsic pathway alteration.\n\nPossible Causes:\nEarly factor deficiency or transient anticoagulant effect.\n\nPotential Risks:\nMinimal bleeding risk at present.\n\nLifestyle & Follow-up:\nRepeat testing and review medication history."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. PT 24.5 sec, INR 2.6, aPTT 40 sec, Fibrinogen 210 mg/dL, D-dimer 0.8 mg/L.",
+  "output": "Interpretation:\nMarked prolongation of PT with elevated INR.\n\nClinical Significance:\nIndicates impaired clotting capacity.\n\nPossible Causes:\nAnticoagulant therapy or chronic liver disease.\n\nPotential Risks:\nHigh risk of bleeding complications.\n\nLifestyle & Follow-up:\nMedication dose adjustment and liver function evaluation recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. PT 11.9 sec, INR 0.9, aPTT 28 sec, Fibrinogen 640 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nSignificantly elevated fibrinogen.\n\nClinical Significance:\nIndicates acute-phase inflammatory response.\n\nPossible Causes:\nInfection, trauma, or chronic inflammatory disease.\n\nPotential Risks:\nIncreased risk of thrombosis.\n\nLifestyle & Follow-up:\nTreat underlying inflammation and maintain adequate hydration."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. PT 16.8 sec, INR 1.5, aPTT 47 sec, Fibrinogen 225 mg/dL, D-dimer 1.1 mg/L.",
+  "output": "Interpretation:\nProlonged PT and aPTT with elevated D-dimer.\n\nClinical Significance:\nSuggests systemic coagulation activation.\n\nPossible Causes:\nEarly disseminated intravascular coagulation or severe infection.\n\nPotential Risks:\nBleeding and thrombotic complications.\n\nLifestyle & Follow-up:\nUrgent medical evaluation required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 70 years. PT 14.2 sec, INR 1.2, aPTT 33 sec, Fibrinogen 260 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nMild elevation of D-dimer.\n\nClinical Significance:\nMay indicate increased fibrinolytic activity.\n\nPossible Causes:\nAge-related changes, recent surgery, or inflammation.\n\nPotential Risks:\nLow to moderate thrombotic risk.\n\nLifestyle & Follow-up:\nClinical correlation and monitoring recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. PT 12.4 sec, INR 1.0, aPTT 42 sec, Fibrinogen 310 mg/dL, D-dimer 0.3 mg/L.",
+  "output": "Interpretation:\nIsolated prolongation of aPTT.\n\nClinical Significance:\nSuggests intrinsic pathway involvement.\n\nPossible Causes:\nCongenital factor deficiency or lupus anticoagulant.\n\nPotential Risks:\nBleeding during invasive procedures.\n\nLifestyle & Follow-up:\nHematology consultation and further testing advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. PT 22 sec, INR 2.1, aPTT 52 sec, Fibrinogen 190 mg/dL, D-dimer 1.6 mg/L.",
+  "output": "Interpretation:\nSevere coagulation abnormalities.\n\nClinical Significance:\nIndicates consumptive coagulopathy.\n\nPossible Causes:\nAdvanced disseminated intravascular coagulation.\n\nPotential Risks:\nMajor bleeding and organ dysfunction.\n\nLifestyle & Follow-up:\nImmediate hospitalization and treatment required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 50 years. PT 13.9 sec, INR 1.1, aPTT 35 sec, Fibrinogen 470 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nElevated fibrinogen with near-normal clotting times.\n\nClinical Significance:\nSuggests inflammatory or stress-related response.\n\nPossible Causes:\nChronic inflammation or metabolic stress.\n\nPotential Risks:\nMild increase in thrombotic tendency.\n\nLifestyle & Follow-up:\nLifestyle modification and inflammatory marker monitoring advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. PT 12.8 sec, INR 1.0, aPTT 29 sec, Fibrinogen 285 mg/dL, D-dimer 0.15 mg/L.",
+  "output": "Interpretation:\nNormal coagulation profile.\n\nClinical Significance:\nEffective hemostatic function.\n\nPossible Causes:\nPhysiological coagulation balance.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine health monitoring."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 67 years. PT 18.6 sec, INR 1.8, aPTT 38 sec, Fibrinogen 245 mg/dL, D-dimer 0.7 mg/L.",
+  "output": "Interpretation:\nModerately prolonged PT.\n\nClinical Significance:\nSuggests reduced clotting factor synthesis.\n\nPossible Causes:\nAge-related liver changes or vitamin K deficiency.\n\nPotential Risks:\nBleeding tendency if untreated.\n\nLifestyle & Follow-up:\nDietary optimization and follow-up coagulation testing recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 61 years. PT 15.6 sec, INR 1.4, aPTT 34 sec, Fibrinogen 270 mg/dL, D-dimer 0.5 mg/L.",
+  "output": "Interpretation:\nMild prolongation of PT.\n\nClinical Significance:\nIndicates early impairment of the extrinsic coagulation pathway.\n\nPossible Causes:\nVitamin K deficiency, early liver dysfunction, or medication effect.\n\nPotential Risks:\nMild increase in bleeding risk if progression occurs.\n\nLifestyle & Follow-up:\nReview medications, ensure adequate nutrition, and repeat coagulation profile."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 42 years. PT 12.3 sec, INR 1.0, aPTT 44 sec, Fibrinogen 320 mg/dL, D-dimer 0.3 mg/L.",
+  "output": "Interpretation:\nIsolated prolongation of aPTT.\n\nClinical Significance:\nSuggests intrinsic pathway abnormality.\n\nPossible Causes:\nFactor VIII or IX deficiency, lupus anticoagulant.\n\nPotential Risks:\nBleeding during surgical or invasive procedures.\n\nLifestyle & Follow-up:\nFurther coagulation factor studies and hematology consultation advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 73 years. PT 26.8 sec, INR 2.9, aPTT 55 sec, Fibrinogen 175 mg/dL, D-dimer 2.3 mg/L.",
+  "output": "Interpretation:\nSevere prolongation of PT and aPTT with low fibrinogen.\n\nClinical Significance:\nIndicates severe coagulopathy with active fibrinolysis.\n\nPossible Causes:\nAdvanced disseminated intravascular coagulation or end-stage liver disease.\n\nPotential Risks:\nLife-threatening hemorrhage.\n\nLifestyle & Follow-up:\nImmediate emergency management and hospitalization required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. PT 11.9 sec, INR 0.9, aPTT 30 sec, Fibrinogen 560 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nMarkedly elevated fibrinogen.\n\nClinical Significance:\nReflects acute-phase inflammatory response.\n\nPossible Causes:\nRecent infection, inflammatory disorders, or physiological stress.\n\nPotential Risks:\nIncreased thrombotic tendency.\n\nLifestyle & Follow-up:\nAddress underlying inflammation and maintain adequate hydration."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. PT 18.9 sec, INR 1.9, aPTT 41 sec, Fibrinogen 245 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nModerate prolongation of PT and aPTT.\n\nClinical Significance:\nIndicates combined intrinsic and extrinsic pathway involvement.\n\nPossible Causes:\nLiver dysfunction, anticoagulant therapy, or systemic illness.\n\nPotential Risks:\nIncreased bleeding risk.\n\nLifestyle & Follow-up:\nClinical evaluation, medication review, and serial monitoring advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 28 years. PT 12.6 sec, INR 1.0, aPTT 36 sec, Fibrinogen 290 mg/dL, D-dimer 0.2 mg/L.",
+  "output": "Interpretation:\nNear-normal coagulation profile.\n\nClinical Significance:\nAdequate clotting function with no significant abnormalities.\n\nPossible Causes:\nPhysiological hemostatic balance.\n\nPotential Risks:\nNone significant.\n\nLifestyle & Follow-up:\nRoutine follow-up only."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 66 years. PT 21.5 sec, INR 2.2, aPTT 48 sec, Fibrinogen 205 mg/dL, D-dimer 1.4 mg/L.",
+  "output": "Interpretation:\nSignificant prolongation of PT and aPTT.\n\nClinical Significance:\nSuggests consumptive coagulopathy.\n\nPossible Causes:\nSepsis-associated DIC or advanced liver disease.\n\nPotential Risks:\nBleeding and thrombotic complications.\n\nLifestyle & Follow-up:\nUrgent inpatient evaluation and management required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 54 years. PT 14.1 sec, INR 1.2, aPTT 32 sec, Fibrinogen 450 mg/dL, D-dimer 0.5 mg/L.",
+  "output": "Interpretation:\nMild elevation of fibrinogen.\n\nClinical Significance:\nSuggests chronic inflammatory or metabolic stress state.\n\nPossible Causes:\nObesity, chronic inflammation, or metabolic syndrome.\n\nPotential Risks:\nSlight increase in thrombotic risk.\n\nLifestyle & Follow-up:\nEncourage physical activity, weight management, and monitoring."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. PT 13.0 sec, INR 1.0, aPTT 29 sec, Fibrinogen 300 mg/dL, D-dimer 0.25 mg/L.",
+  "output": "Interpretation:\nNormal coagulation parameters.\n\nClinical Significance:\nNormal clot formation and fibrinolysis.\n\nPossible Causes:\nHealthy coagulation system.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine preventive healthcare."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 62 years. PT 17.9 sec, INR 1.7, aPTT 37 sec, Fibrinogen 235 mg/dL, D-dimer 0.8 mg/L.",
+  "output": "Interpretation:\nModerately prolonged PT.\n\nClinical Significance:\nSuggests reduced clotting factor activity.\n\nPossible Causes:\nVitamin K deficiency or early hepatic impairment.\n\nPotential Risks:\nBleeding tendency if untreated.\n\nLifestyle & Follow-up:\nNutritional counseling and repeat coagulation assessment advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 59 years. PT 16.2 sec, INR 1.5, aPTT 34 sec, Fibrinogen 255 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nMild to moderate prolongation of PT.\n\nClinical Significance:\nSuggests reduced activity of the extrinsic coagulation pathway.\n\nPossible Causes:\nVitamin K deficiency, liver dysfunction, or medication effects.\n\nPotential Risks:\nIncreased bleeding risk during invasive procedures.\n\nLifestyle & Follow-up:\nReview medications, optimize nutrition, and repeat coagulation testing."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 46 years. PT 12.8 sec, INR 1.0, aPTT 48 sec, Fibrinogen 315 mg/dL, D-dimer 0.35 mg/L.",
+  "output": "Interpretation:\nProlonged aPTT with normal PT.\n\nClinical Significance:\nIndicates intrinsic pathway abnormality.\n\nPossible Causes:\nFactor VIII deficiency, lupus anticoagulant, or anticoagulant exposure.\n\nPotential Risks:\nBleeding risk during surgery or trauma.\n\nLifestyle & Follow-up:\nHematology referral and specific factor assays recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 71 years. PT 28.4 sec, INR 3.1, aPTT 57 sec, Fibrinogen 165 mg/dL, D-dimer 2.6 mg/L.",
+  "output": "Interpretation:\nSeverely abnormal coagulation parameters.\n\nClinical Significance:\nIndicates severe coagulopathy with ongoing fibrinolysis.\n\nPossible Causes:\nAdvanced disseminated intravascular coagulation or severe liver failure.\n\nPotential Risks:\nHigh risk of spontaneous and life-threatening bleeding.\n\nLifestyle & Follow-up:\nImmediate emergency management and hospitalization required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. PT 11.7 sec, INR 0.9, aPTT 31 sec, Fibrinogen 590 mg/dL, D-dimer 0.7 mg/L.",
+  "output": "Interpretation:\nMarked elevation of fibrinogen.\n\nClinical Significance:\nReflects acute-phase response or inflammatory state.\n\nPossible Causes:\nRecent infection, inflammatory disease, or stress response.\n\nPotential Risks:\nIncreased thrombotic tendency.\n\nLifestyle & Follow-up:\nIdentify inflammatory source and maintain hydration."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 53 years. PT 19.6 sec, INR 2.0, aPTT 43 sec, Fibrinogen 235 mg/dL, D-dimer 1.0 mg/L.",
+  "output": "Interpretation:\nModerate prolongation of PT and aPTT.\n\nClinical Significance:\nSuggests combined coagulation pathway involvement.\n\nPossible Causes:\nLiver disease, anticoagulant therapy, or systemic illness.\n\nPotential Risks:\nElevated bleeding risk.\n\nLifestyle & Follow-up:\nMedication review and close coagulation monitoring advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 27 years. PT 12.5 sec, INR 1.0, aPTT 35 sec, Fibrinogen 305 mg/dL, D-dimer 0.25 mg/L.",
+  "output": "Interpretation:\nEssentially normal coagulation profile.\n\nClinical Significance:\nNormal clotting and fibrinolytic activity.\n\nPossible Causes:\nPhysiological hemostasis.\n\nPotential Risks:\nNo immediate risks identified.\n\nLifestyle & Follow-up:\nRoutine health maintenance."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 68 years. PT 22.3 sec, INR 2.3, aPTT 50 sec, Fibrinogen 190 mg/dL, D-dimer 1.8 mg/L.",
+  "output": "Interpretation:\nSevere prolongation of PT and aPTT with elevated D-dimer.\n\nClinical Significance:\nSuggests consumptive coagulopathy.\n\nPossible Causes:\nSepsis-associated disseminated intravascular coagulation.\n\nPotential Risks:\nBleeding, thrombosis, and organ dysfunction.\n\nLifestyle & Follow-up:\nUrgent inpatient evaluation and management required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 57 years. PT 14.6 sec, INR 1.3, aPTT 33 sec, Fibrinogen 460 mg/dL, D-dimer 0.55 mg/L.",
+  "output": "Interpretation:\nMild prolongation of PT with elevated fibrinogen.\n\nClinical Significance:\nSuggests inflammatory state affecting coagulation balance.\n\nPossible Causes:\nChronic inflammation, obesity, or metabolic syndrome.\n\nPotential Risks:\nMildly increased thrombotic risk.\n\nLifestyle & Follow-up:\nLifestyle modification and monitoring of inflammatory markers recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 40 years. PT 13.1 sec, INR 1.0, aPTT 30 sec, Fibrinogen 295 mg/dL, D-dimer 0.2 mg/L.",
+  "output": "Interpretation:\nNormal coagulation profile.\n\nClinical Significance:\nEfficient clot formation and breakdown.\n\nPossible Causes:\nNormal physiological coagulation.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine preventive care."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 65 years. PT 18.3 sec, INR 1.8, aPTT 39 sec, Fibrinogen 240 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nModerately prolonged PT.\n\nClinical Significance:\nIndicates reduced clotting factor synthesis.\n\nPossible Causes:\nVitamin K deficiency or age-related hepatic dysfunction.\n\nPotential Risks:\nIncreased bleeding risk.\n\nLifestyle & Follow-up:\nDietary optimization and follow-up coagulation testing advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. PT 16.9 sec, INR 1.6, aPTT 36 sec, Fibrinogen 250 mg/dL, D-dimer 0.7 mg/L.",
+  "output": "Interpretation:\nModerate prolongation of PT.\n\nClinical Significance:\nIndicates impaired extrinsic coagulation pathway.\n\nPossible Causes:\nVitamin K deficiency, early hepatic dysfunction, or anticoagulant exposure.\n\nPotential Risks:\nModerate bleeding risk if untreated.\n\nLifestyle & Follow-up:\nReview medications, assess liver function, and repeat coagulation testing."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 44 years. PT 12.9 sec, INR 1.0, aPTT 46 sec, Fibrinogen 335 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nProlonged aPTT with preserved PT.\n\nClinical Significance:\nSuggests intrinsic pathway abnormality.\n\nPossible Causes:\nFactor XI deficiency or lupus anticoagulant.\n\nPotential Risks:\nBleeding during invasive procedures.\n\nLifestyle & Follow-up:\nFurther coagulation studies and specialist consultation advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 75 years. PT 29.6 sec, INR 3.3, aPTT 60 sec, Fibrinogen 150 mg/dL, D-dimer 3.0 mg/L.",
+  "output": "Interpretation:\nSeverely deranged coagulation profile.\n\nClinical Significance:\nIndicates advanced consumptive coagulopathy with active fibrinolysis.\n\nPossible Causes:\nSevere disseminated intravascular coagulation or end-stage liver disease.\n\nPotential Risks:\nLife-threatening hemorrhage and organ failure.\n\nLifestyle & Follow-up:\nImmediate emergency care and intensive monitoring required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 31 years. PT 11.8 sec, INR 0.9, aPTT 32 sec, Fibrinogen 575 mg/dL, D-dimer 0.65 mg/L.",
+  "output": "Interpretation:\nMarkedly elevated fibrinogen with normal clotting times.\n\nClinical Significance:\nSuggests acute-phase inflammatory response.\n\nPossible Causes:\nRecent infection, inflammatory disease, or physiological stress.\n\nPotential Risks:\nIncreased risk of thrombosis.\n\nLifestyle & Follow-up:\nIdentify and manage underlying inflammation."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 56 years. PT 20.1 sec, INR 2.1, aPTT 44 sec, Fibrinogen 225 mg/dL, D-dimer 1.2 mg/L.",
+  "output": "Interpretation:\nProlongation of PT and aPTT.\n\nClinical Significance:\nIndicates combined pathway involvement and coagulation activation.\n\nPossible Causes:\nLiver dysfunction, anticoagulant therapy, or systemic illness.\n\nPotential Risks:\nHigh bleeding risk.\n\nLifestyle & Follow-up:\nMedication adjustment and close laboratory monitoring advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 24 years. PT 12.6 sec, INR 1.0, aPTT 34 sec, Fibrinogen 290 mg/dL, D-dimer 0.2 mg/L.",
+  "output": "Interpretation:\nNormal coagulation parameters.\n\nClinical Significance:\nEffective clot formation and fibrinolysis.\n\nPossible Causes:\nPhysiological hemostatic balance.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine follow-up only."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 69 years. PT 23.8 sec, INR 2.5, aPTT 53 sec, Fibrinogen 185 mg/dL, D-dimer 2.1 mg/L.",
+  "output": "Interpretation:\nSevere prolongation of coagulation times.\n\nClinical Significance:\nSuggests advanced consumptive coagulopathy.\n\nPossible Causes:\nSepsis-induced disseminated intravascular coagulation.\n\nPotential Risks:\nMajor bleeding and thrombotic events.\n\nLifestyle & Follow-up:\nUrgent inpatient management required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. PT 14.9 sec, INR 1.3, aPTT 34 sec, Fibrinogen 480 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nMild PT prolongation with elevated fibrinogen.\n\nClinical Significance:\nIndicates inflammatory or metabolic stress state.\n\nPossible Causes:\nChronic inflammation, obesity, or metabolic syndrome.\n\nPotential Risks:\nMildly increased thrombotic risk.\n\nLifestyle & Follow-up:\nLifestyle modification and inflammatory marker monitoring recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 43 years. PT 13.3 sec, INR 1.1, aPTT 31 sec, Fibrinogen 310 mg/dL, D-dimer 0.3 mg/L.",
+  "output": "Interpretation:\nNear-normal coagulation profile.\n\nClinical Significance:\nAdequate hemostatic function.\n\nPossible Causes:\nPhysiological coagulation balance.\n\nPotential Risks:\nNo immediate risks.\n\nLifestyle & Follow-up:\nRoutine health monitoring."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 68 years. PT 19.1 sec, INR 1.9, aPTT 40 sec, Fibrinogen 235 mg/dL, D-dimer 1.0 mg/L.",
+  "output": "Interpretation:\nModerately prolonged PT with mildly prolonged aPTT.\n\nClinical Significance:\nSuggests reduced clotting factor synthesis.\n\nPossible Causes:\nVitamin K deficiency or age-related liver impairment.\n\nPotential Risks:\nBleeding tendency if untreated.\n\nLifestyle & Follow-up:\nNutritional optimization and follow-up coagulation testing advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. PT 15.4 sec, INR 1.4, aPTT 38 sec, Fibrinogen 260 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nMild prolongation of PT with slightly elevated D-dimer.\n\nClinical Significance:\nSuggests early coagulation pathway impairment with increased fibrinolytic activity.\n\nPossible Causes:\nEarly liver dysfunction, inflammation, or recent illness.\n\nPotential Risks:\nMild bleeding tendency if progression occurs.\n\nLifestyle & Follow-up:\nLiver function assessment and repeat coagulation testing recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. PT 11.9 sec, INR 1.0, aPTT 48 sec, Fibrinogen 310 mg/dL, D-dimer 0.5 mg/L.",
+  "output": "Interpretation:\nIsolated prolongation of aPTT.\n\nClinical Significance:\nIndicates intrinsic pathway abnormality.\n\nPossible Causes:\nFactor VIII deficiency, von Willebrand disease, or lupus anticoagulant.\n\nPotential Risks:\nBleeding during surgical procedures.\n\nLifestyle & Follow-up:\nSpecific coagulation factor assays and hematology referral advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 71 years. PT 27.4 sec, INR 3.1, aPTT 58 sec, Fibrinogen 170 mg/dL, D-dimer 2.6 mg/L.",
+  "output": "Interpretation:\nSeverely prolonged PT and aPTT with low fibrinogen.\n\nClinical Significance:\nConsistent with advanced consumptive coagulopathy.\n\nPossible Causes:\nDisseminated intravascular coagulation or severe liver failure.\n\nPotential Risks:\nHigh risk of spontaneous bleeding and organ damage.\n\nLifestyle & Follow-up:\nImmediate hospitalization and aggressive management required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 28 years. PT 12.2 sec, INR 1.0, aPTT 30 sec, Fibrinogen 510 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nElevated fibrinogen with normal clotting times.\n\nClinical Significance:\nRepresents an acute-phase inflammatory response.\n\nPossible Causes:\nRecent infection, inflammatory disorder, or physiological stress.\n\nPotential Risks:\nIncreased thrombotic tendency.\n\nLifestyle & Follow-up:\nManage underlying inflammation and ensure hydration."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 47 years. PT 18.7 sec, INR 1.9, aPTT 41 sec, Fibrinogen 245 mg/dL, D-dimer 1.1 mg/L.",
+  "output": "Interpretation:\nModerately prolonged PT and aPTT.\n\nClinical Significance:\nIndicates combined pathway coagulation impairment.\n\nPossible Causes:\nAnticoagulant therapy, liver dysfunction, or systemic illness.\n\nPotential Risks:\nModerate bleeding risk.\n\nLifestyle & Follow-up:\nMedication review and close coagulation monitoring recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. PT 13.1 sec, INR 1.1, aPTT 35 sec, Fibrinogen 295 mg/dL, D-dimer 0.3 mg/L.",
+  "output": "Interpretation:\nNormal coagulation parameters.\n\nClinical Significance:\nIndicates stable hemostatic balance.\n\nPossible Causes:\nPhysiological coagulation function.\n\nPotential Risks:\nNo immediate concerns.\n\nLifestyle & Follow-up:\nRoutine monitoring during annual health checks."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 66 years. PT 21.3 sec, INR 2.2, aPTT 49 sec, Fibrinogen 205 mg/dL, D-dimer 1.8 mg/L.",
+  "output": "Interpretation:\nSignificant prolongation of clotting times.\n\nClinical Significance:\nSuggests impaired coagulation factor synthesis.\n\nPossible Causes:\nAdvanced liver disease or vitamin K deficiency.\n\nPotential Risks:\nHigh bleeding risk.\n\nLifestyle & Follow-up:\nCorrect nutritional deficiencies and assess hepatic function urgently."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 39 years. PT 14.4 sec, INR 1.3, aPTT 33 sec, Fibrinogen 420 mg/dL, D-dimer 0.7 mg/L.",
+  "output": "Interpretation:\nMild PT prolongation with elevated fibrinogen.\n\nClinical Significance:\nIndicates inflammatory or metabolic stress.\n\nPossible Causes:\nObesity, insulin resistance, or chronic inflammation.\n\nPotential Risks:\nMildly increased thrombotic risk.\n\nLifestyle & Follow-up:\nWeight management and inflammatory marker evaluation advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. PT 12.5 sec, INR 1.0, aPTT 29 sec, Fibrinogen 275 mg/dL, D-dimer 0.2 mg/L.",
+  "output": "Interpretation:\nNormal coagulation profile.\n\nClinical Significance:\nEffective clot formation and breakdown.\n\nPossible Causes:\nHealthy coagulation system.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nMaintain healthy lifestyle and routine checkups."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 73 years. PT 17.6 sec, INR 1.7, aPTT 42 sec, Fibrinogen 230 mg/dL, D-dimer 1.4 mg/L.",
+  "output": "Interpretation:\nModerately prolonged coagulation times.\n\nClinical Significance:\nSuggests age-related decline in coagulation factor synthesis.\n\nPossible Causes:\nLiver function decline or chronic disease.\n\nPotential Risks:\nIncreased bleeding tendency.\n\nLifestyle & Follow-up:\nRegular monitoring and nutritional optimization recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. PT 13.8 sec, INR 1.2, aPTT 37 sec, Fibrinogen 350 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nBorderline PT elevation with increased fibrinogen.\n\nClinical Significance:\nReflects low-grade inflammation.\n\nPossible Causes:\nSmoking, metabolic syndrome, or stress.\n\nPotential Risks:\nSlight thrombotic risk elevation.\n\nLifestyle & Follow-up:\nLifestyle modifications and cardiovascular risk assessment advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 45 years. PT 12.7 sec, INR 1.0, aPTT 44 sec, Fibrinogen 305 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nIsolated aPTT prolongation.\n\nClinical Significance:\nSuggests intrinsic pathway defect.\n\nPossible Causes:\nFactor XII deficiency or presence of lupus anticoagulant.\n\nPotential Risks:\nBleeding risk during procedures.\n\nLifestyle & Follow-up:\nAdvanced coagulation testing recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 64 years. PT 24.1 sec, INR 2.7, aPTT 55 sec, Fibrinogen 160 mg/dL, D-dimer 2.4 mg/L.",
+  "output": "Interpretation:\nSeverely abnormal coagulation profile.\n\nClinical Significance:\nIndicates active consumptive coagulopathy.\n\nPossible Causes:\nSepsis-associated disseminated intravascular coagulation.\n\nPotential Risks:\nCritical bleeding and organ ischemia.\n\nLifestyle & Follow-up:\nImmediate intensive medical intervention required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 27 years. PT 11.6 sec, INR 0.9, aPTT 31 sec, Fibrinogen 285 mg/dL, D-dimer 0.1 mg/L.",
+  "output": "Interpretation:\nCompletely normal coagulation parameters.\n\nClinical Significance:\nOptimal hemostatic function.\n\nPossible Causes:\nPhysiological normal state.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo intervention required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 59 years. PT 16.2 sec, INR 1.5, aPTT 39 sec, Fibrinogen 240 mg/dL, D-dimer 0.8 mg/L.",
+  "output": "Interpretation:\nMild prolongation of PT with borderline aPTT elevation.\n\nClinical Significance:\nSuggests early impairment of coagulation factor activity.\n\nPossible Causes:\nVitamin K deficiency, mild liver dysfunction, or recent illness.\n\nPotential Risks:\nMild bleeding tendency if condition worsens.\n\nLifestyle & Follow-up:\nEvaluate dietary intake, liver enzymes, and repeat coagulation profile."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 42 years. PT 13.5 sec, INR 1.2, aPTT 36 sec, Fibrinogen 410 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nBorderline PT prolongation with elevated fibrinogen.\n\nClinical Significance:\nIndicates inflammatory or stress-related coagulation activation.\n\nPossible Causes:\nChronic inflammation, obesity, or metabolic stress.\n\nPotential Risks:\nSlight increase in thrombotic risk.\n\nLifestyle & Follow-up:\nLifestyle modification and monitoring of inflammatory markers advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 68 years. PT 22.9 sec, INR 2.4, aPTT 50 sec, Fibrinogen 195 mg/dL, D-dimer 1.9 mg/L.",
+  "output": "Interpretation:\nMarked prolongation of PT and aPTT.\n\nClinical Significance:\nIndicates significant reduction in coagulation factor synthesis.\n\nPossible Causes:\nAdvanced liver disease or anticoagulant exposure.\n\nPotential Risks:\nHigh risk of bleeding.\n\nLifestyle & Follow-up:\nUrgent hepatology evaluation and medication review required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. PT 12.4 sec, INR 1.0, aPTT 47 sec, Fibrinogen 300 mg/dL, D-dimer 0.5 mg/L.",
+  "output": "Interpretation:\nIsolated prolongation of aPTT.\n\nClinical Significance:\nSuggests intrinsic coagulation pathway abnormality.\n\nPossible Causes:\nFactor VIII deficiency or lupus anticoagulant.\n\nPotential Risks:\nBleeding risk during surgical or dental procedures.\n\nLifestyle & Follow-up:\nCoagulation factor assays and specialist referral recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. PT 14.1 sec, INR 1.3, aPTT 34 sec, Fibrinogen 365 mg/dL, D-dimer 0.7 mg/L.",
+  "output": "Interpretation:\nMild PT elevation with increased fibrinogen.\n\nClinical Significance:\nReflects low-grade inflammatory state.\n\nPossible Causes:\nSmoking, chronic stress, or metabolic syndrome.\n\nPotential Risks:\nMild thrombotic tendency.\n\nLifestyle & Follow-up:\nSmoking cessation and metabolic risk assessment advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 71 years. PT 18.9 sec, INR 1.8, aPTT 43 sec, Fibrinogen 225 mg/dL, D-dimer 1.3 mg/L.",
+  "output": "Interpretation:\nModerate prolongation of PT and aPTT.\n\nClinical Significance:\nSuggests age-related decline in coagulation reserve.\n\nPossible Causes:\nReduced hepatic synthesis or chronic systemic illness.\n\nPotential Risks:\nIncreased bleeding tendency.\n\nLifestyle & Follow-up:\nRegular coagulation monitoring and nutritional optimization recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. PT 15.8 sec, INR 1.4, aPTT 38 sec, Fibrinogen 260 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nMild prolongation of PT with borderline aPTT elevation.\n\nClinical Significance:\nSuggests early coagulation factor imbalance.\n\nPossible Causes:\nVitamin K insufficiency or early hepatic dysfunction.\n\nPotential Risks:\nMild bleeding risk if untreated.\n\nLifestyle & Follow-up:\nDietary optimization and repeat coagulation testing advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 38 years. PT 12.1 sec, INR 1.0, aPTT 31 sec, Fibrinogen 450 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nNormal clotting times with elevated fibrinogen.\n\nClinical Significance:\nIndicates inflammatory or stress-related hypercoagulability.\n\nPossible Causes:\nObesity, chronic inflammation, or acute stress.\n\nPotential Risks:\nIncreased risk of thrombosis.\n\nLifestyle & Follow-up:\nWeight management and inflammatory marker evaluation recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 64 years. PT 24.6 sec, INR 2.6, aPTT 52 sec, Fibrinogen 180 mg/dL, D-dimer 2.3 mg/L.",
+  "output": "Interpretation:\nSeverely prolonged PT and aPTT.\n\nClinical Significance:\nIndicates major impairment of coagulation factor synthesis.\n\nPossible Causes:\nAdvanced liver disease or anticoagulant toxicity.\n\nPotential Risks:\nHigh risk of spontaneous bleeding.\n\nLifestyle & Follow-up:\nImmediate medical evaluation and specialist management required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. PT 11.9 sec, INR 0.9, aPTT 49 sec, Fibrinogen 290 mg/dL, D-dimer 0.3 mg/L.",
+  "output": "Interpretation:\nIsolated prolongation of aPTT.\n\nClinical Significance:\nSuggests intrinsic pathway abnormality.\n\nPossible Causes:\nFactor XII deficiency or lupus anticoagulant.\n\nPotential Risks:\nBleeding during invasive procedures.\n\nLifestyle & Follow-up:\nFurther coagulation factor studies recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 57 years. PT 13.9 sec, INR 1.2, aPTT 33 sec, Fibrinogen 390 mg/dL, D-dimer 0.8 mg/L.",
+  "output": "Interpretation:\nNear-normal clotting times with elevated fibrinogen.\n\nClinical Significance:\nLow-grade prothrombotic state.\n\nPossible Causes:\nSmoking, metabolic syndrome, or chronic inflammation.\n\nPotential Risks:\nIncreased cardiovascular risk.\n\nLifestyle & Follow-up:\nSmoking cessation and metabolic screening advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 66 years. PT 17.8 sec, INR 1.7, aPTT 41 sec, Fibrinogen 210 mg/dL, D-dimer 1.4 mg/L.",
+  "output": "Interpretation:\nModerate prolongation of PT and aPTT.\n\nClinical Significance:\nSuggests declining hepatic coagulation reserve.\n\nPossible Causes:\nChronic liver disease or age-related changes.\n\nPotential Risks:\nIncreased bleeding tendency.\n\nLifestyle & Follow-up:\nRegular monitoring and liver function assessment advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. PT 12.8 sec, INR 1.1, aPTT 34 sec, Fibrinogen 275 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nNormal coagulation profile.\n\nClinical Significance:\nNo evidence of coagulation disorder.\n\nPossible Causes:\nPhysiological normal variation.\n\nPotential Risks:\nNo immediate risk identified.\n\nLifestyle & Follow-up:\nRoutine health maintenance recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. PT 14.9 sec, INR 1.4, aPTT 37 sec, Fibrinogen 340 mg/dL, D-dimer 1.0 mg/L.",
+  "output": "Interpretation:\nMild PT prolongation with elevated D-dimer.\n\nClinical Significance:\nSuggests recent or ongoing coagulation activation.\n\nPossible Causes:\nRecent surgery, inflammation, or infection.\n\nPotential Risks:\nRisk of thrombotic complications.\n\nLifestyle & Follow-up:\nClinical correlation and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 72 years. PT 19.5 sec, INR 1.9, aPTT 45 sec, Fibrinogen 205 mg/dL, D-dimer 1.8 mg/L.",
+  "output": "Interpretation:\nSignificant prolongation of coagulation times.\n\nClinical Significance:\nIndicates reduced clotting factor availability.\n\nPossible Causes:\nChronic illness, liver dysfunction, or anticoagulant use.\n\nPotential Risks:\nHigh bleeding risk.\n\nLifestyle & Follow-up:\nMedication review and specialist consultation required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. PT 11.7 sec, INR 0.9, aPTT 30 sec, Fibrinogen 260 mg/dL, D-dimer 0.2 mg/L.",
+  "output": "Interpretation:\nCompletely normal coagulation profile.\n\nClinical Significance:\nNo coagulation abnormalities detected.\n\nPossible Causes:\nHealthy physiological state.\n\nPotential Risks:\nNo immediate concerns.\n\nLifestyle & Follow-up:\nRoutine preventive care recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. PT 16.7 sec, INR 1.6, aPTT 40 sec, Fibrinogen 235 mg/dL, D-dimer 1.1 mg/L.",
+  "output": "Interpretation:\nModerate PT prolongation with elevated D-dimer.\n\nClinical Significance:\nSuggests increased coagulation turnover.\n\nPossible Causes:\nInflammatory disease or early thrombotic process.\n\nPotential Risks:\nThromboembolic complications.\n\nLifestyle & Follow-up:\nFurther diagnostic evaluation recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 54 years. PT 13.4 sec, INR 1.2, aPTT 35 sec, Fibrinogen 415 mg/dL, D-dimer 0.9 mg/L.",
+  "output": "Interpretation:\nNear-normal coagulation times with elevated fibrinogen.\n\nClinical Significance:\nPro-inflammatory hypercoagulable tendency.\n\nPossible Causes:\nChronic inflammatory disorders.\n\nPotential Risks:\nIncreased cardiovascular risk.\n\nLifestyle & Follow-up:\nInflammation control and cardiovascular screening advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 33 years. PT 12.3 sec, INR 1.0, aPTT 46 sec, Fibrinogen 295 mg/dL, D-dimer 0.4 mg/L.",
+  "output": "Interpretation:\nIsolated aPTT prolongation.\n\nClinical Significance:\nIntrinsic pathway involvement.\n\nPossible Causes:\nCongenital factor deficiency.\n\nPotential Risks:\nBleeding during trauma or surgery.\n\nLifestyle & Follow-up:\nFurther coagulation factor evaluation recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 70 years. PT 18.2 sec, INR 1.8, aPTT 42 sec, Fibrinogen 215 mg/dL, D-dimer 1.6 mg/L.",
+  "output": "Interpretation:\nModerate prolongation of clotting parameters.\n\nClinical Significance:\nSuggests age-related coagulation decline.\n\nPossible Causes:\nChronic disease or nutritional deficiencies.\n\nPotential Risks:\nElevated bleeding risk.\n\nLifestyle & Follow-up:\nNutritional support and periodic monitoring advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 47 years. PT 14.5 sec, INR 1.3, aPTT 36 sec, Fibrinogen 360 mg/dL, D-dimer 0.7 mg/L.",
+  "output": "Interpretation:\nMild PT prolongation with elevated fibrinogen.\n\nClinical Significance:\nLow-grade inflammatory hypercoagulability.\n\nPossible Causes:\nSedentary lifestyle or metabolic risk factors.\n\nPotential Risks:\nIncreased thrombotic tendency.\n\nLifestyle & Follow-up:\nEncourage physical activity and risk factor control."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 26 years. PT 11.8 sec, INR 0.9, aPTT 32 sec, Fibrinogen 250 mg/dL, D-dimer 0.3 mg/L.",
+  "output": "Interpretation:\nNormal coagulation profile.\n\nClinical Significance:\nNo abnormalities detected.\n\nPossible Causes:\nNormal physiological variation.\n\nPotential Risks:\nNo immediate risk.\n\nLifestyle & Follow-up:\nRoutine health maintenance recommended."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 69 years. PT 20.1 sec, INR 2.0, aPTT 48 sec, Fibrinogen 190 mg/dL, D-dimer 2.0 mg/L.",
+  "output": "Interpretation:\nMarked prolongation of coagulation parameters.\n\nClinical Significance:\nSignificant clotting factor deficiency.\n\nPossible Causes:\nAdvanced liver disease or anticoagulant therapy.\n\nPotential Risks:\nSevere bleeding complications.\n\nLifestyle & Follow-up:\nUrgent specialist referral required."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. PT 15.6 sec, INR 1.5, aPTT 39 sec, Fibrinogen 280 mg/dL, D-dimer 1.0 mg/L.",
+  "output": "Interpretation:\nMild to moderate coagulation prolongation.\n\nClinical Significance:\nSuggests coagulation imbalance.\n\nPossible Causes:\nLiver dysfunction or nutritional deficiency.\n\nPotential Risks:\nBleeding tendency.\n\nLifestyle & Follow-up:\nClinical correlation and follow-up testing advised."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. PT 14.8 sec, INR 1.3, aPTT 44 sec, Fibrinogen 230 mg/dL, D-dimer 0.6 mg/L.",
+  "output": "Interpretation:\nMild prolongation of both PT and aPTT.\n\nClinical Significance:\nSuggests early combined pathway coagulation abnormality.\n\nPossible Causes:\nEarly liver dysfunction, vitamin K deficiency, or systemic illness.\n\nPotential Risks:\nMild bleeding tendency if progression occurs.\n\nLifestyle & Follow-up:\nAssess liver function, nutritional status, and repeat coagulation profile."
+}
+{
+  "instruction": "Interpret the following coagulation profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 63 years. PT 21.4 sec, INR 2.1, aPTT 49 sec, Fibrinogen 185 mg/dL, D-dimer 2.2 mg/L.",
+  "output": "Interpretation:\nMarked prolongation of PT and aPTT with low fibrinogen.\n\nClinical Significance:\nIndicates significant impairment of coagulation factor synthesis.\n\nPossible Causes:\nAdvanced liver disease, disseminated intravascular coagulation, or anticoagulant exposure.\n\nPotential Risks:\nHigh risk of spontaneous bleeding.\n\nLifestyle & Follow-up:\nImmediate specialist evaluation and close clinical monitoring required."
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {"instruction":"Interpret coagulation profile","input":"PT 13.2 sec, INR 1.0, aPTT 32 sec, Fibrinogen 360 mg/dL, D-dimer 0.28 mg/L","output":"Interpretation: Normal coagulation profile.\nClinical significance: All results lie within expected physiological ranges, suggesting stable clotting function and no signs of systemic inflammation or coagulation activation.\nFuture risks: No immediate hematologic or thrombotic risk identified.\nLifestyle & follow-up: Maintain healthy diet, hydration, and regular physical activity; routine annual checkup recommended."}
 {"instruction":"Interpret coagulation profile","input":"PT 16.8 sec, INR 1.4, aPTT 37 sec, Fibrinogen 420 mg/dL, D-dimer 0.60 mg/L","output":"Interpretation: Mild PT/INR elevation with elevated fibrinogen.\nClinical significance: Pattern suggests mild hepatic synthetic impairment or low-grade inflammation contributing to fibrinogen elevation.\nFuture risks: Slight increase in bleeding tendency and a modest risk of thrombosis due to raised fibrinogen.\nLifestyle & follow-up: Reduce alcohol intake, increase vitamin K–rich foods, repeat testing in 4–6 weeks."}
 {"instruction":"Interpret coagulation profile","input":"PT 23 sec, INR 2.2, aPTT 45 sec, Fibrinogen 250 mg/dL, D-dimer 1.2 mg/L","output":"Interpretation: Prolonged PT/INR with borderline fibrinogen and elevated D-dimer.\nClinical significance: Suggestive of impaired liver function or anticoagulant drug effect; elevated D-dimer indicates increased clot turnover.\nFuture risks: Moderate risk of bleeding with possible occult thrombosis.\nLifestyle & follow-up: Medication review required, evaluate for liver disease, repeat coagulogram promptly."}
