@@ -1,153 +1,500 @@
-{"instruction":"Interpret CBC","input":"Hb 12.1 g/dL, Hct 37%, RBC 4.1M/µL, WBC 7.8k/µL, Platelets 250k/µL, MCV 90 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12.8%, Reticulocyte 1.1%, Neutrophils 58%, Lymphocytes 32%, Monocytes 7%, Eosinophils 3%, Basophils 0.5%, ANC 4.5k/µL","output":"Interpretation: Normal CBC.\nClinical significance: No hematologic abnormalities detected.\nFuture risks: None related to this CBC.\nLifestyle & follow-up: Maintain balanced diet and routine health checkups."}
-{"instruction":"Interpret CBC","input":"Hb 8.2 g/dL, Hct 26%, RBC 3.3M/µL, WBC 6.2k/µL, Platelets 410k/µL, MCV 68 fL, MCH 21 pg, MCHC 30 g/dL, RDW 17%, Reticulocyte 2.3%, Neutrophils 60%, Lymphocytes 28%, Monocytes 8%, Eosinophils 3%, Basophils 1%, ANC 3.7k/µL","output":"Interpretation: Microcytic anemia with reactive thrombocytosis.\nClinical significance: Most consistent with iron deficiency.\nFuture risks: Fatigue, reduced concentration, palpitations.\nLifestyle & follow-up: Start iron-rich diet, evaluate for bleeding, consider iron supplements, repeat CBC in 4 weeks."}
-{"instruction":"Interpret CBC","input":"Hb 15.6 g/dL, Hct 47%, RBC 5.4M/µL, WBC 11.2k/µL, Platelets 290k/µL, MCV 88 fL, MCH 28 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 1.0%, Neutrophils 78%, Lymphocytes 16%, Monocytes 4%, Eosinophils 1%, Basophils 1%, ANC 8.7k/µL","output":"Interpretation: Neutrophilic leukocytosis.\nClinical significance: Suggests bacterial infection, inflammation, or stress response.\nFuture risks: Progression of infection if untreated.\nLifestyle & follow-up: Evaluate for fever or infection source; hydration and follow clinician advice."}
-{"instruction":"Interpret CBC","input":"Hb 10.3 g/dL, Hct 32%, RBC 3.7M/µL, WBC 4.1k/µL, Platelets 190k/µL, MCV 98 fL, MCH 32 pg, MCHC 33 g/dL, RDW 14.5%, Reticulocyte 0.5%, Neutrophils 48%, Lymphocytes 40%, Monocytes 7%, Eosinophils 4%, Basophils 1%, ANC 2.0k/µL","output":"Interpretation: Macrocytic anemia with mild leukopenia.\nClinical significance: Suggests B12/folate deficiency or hypothyroidism.\nFuture risks: Neurologic issues if B12 deficiency persists.\nLifestyle & follow-up: Check B12/folate, thyroid panel; improve dietary intake."}
-{"instruction":"Interpret CBC","input":"Hb 13.3 g/dL, Hct 40%, RBC 4.5M/µL, WBC 13.8k/µL, Platelets 530k/µL, MCV 85 fL, MCH 28 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 1.2%, Neutrophils 81%, Lymphocytes 12%, Monocytes 4%, Eosinophils 2%, Basophils 1%, ANC 11.2k/µL","output":"Interpretation: Marked neutrophilia with thrombocytosis.\nClinical significance: Strongly suggests acute infection or inflammatory state.\nFuture risks: Higher clot risk if inflammation persists.\nLifestyle & follow-up: Treat underlying cause, review CRP/ESR, repeat CBC after recovery."}
-{"instruction":"Interpret CBC","input":"Hb 11.9 g/dL, Hct 36%, RBC 4.0M/µL, WBC 3.4k/µL, Platelets 165k/µL, MCV 91 fL, MCH 30 pg, MCHC 33 g/dL, RDW 13.4%, Reticulocyte 0.8%, Neutrophils 32%, Lymphocytes 56%, Monocytes 8%, Eosinophils 3%, Basophils 1%, ANC 1.1k/µL","output":"Interpretation: Neutropenia with normal RBC indices.\nClinical significance: Could be viral suppression or medication-related.\nFuture risks: Increased infection susceptibility.\nLifestyle & follow-up: Avoid sick contacts, good hygiene, repeat CBC in 1–2 weeks."}
-{"instruction":"Interpret CBC","input":"Hb 17.8 g/dL, Hct 53%, RBC 6.1M/µL, WBC 8.0k/µL, Platelets 260k/µL, MCV 87 fL, MCH 29 pg, MCHC 34 g/dL, RDW 12.5%, Reticulocyte 1.0%, Neutrophils 55%, Lymphocytes 34%, Monocytes 6%, Eosinophils 3%, Basophils 2%, ANC 4.4k/µL","output":"Interpretation: Erythrocytosis.\nClinical significance: Could indicate dehydration, smoking, sleep apnea, or polycythemia.\nFuture risks: Clot risk increases with high hematocrit.\nLifestyle & follow-up: Hydrate well, evaluate O₂ saturation, consider erythropoietin testing."}
-{"instruction":"Interpret CBC","input":"Hb 9.6 g/dL, Hct 30%, RBC 3.2M/µL, WBC 5.6k/µL, Platelets 145k/µL, MCV 92 fL, MCH 30 pg, MCHC 32 g/dL, RDW 13.8%, Reticulocyte 0.4%, Neutrophils 52%, Lymphocytes 38%, Monocytes 7%, Eosinophils 2%, Basophils 1%, ANC 2.9k/µL","output":"Interpretation: Normocytic anemia with low reticulocyte count.\nClinical significance: Suggests chronic disease anemia.\nFuture risks: Worsening fatigue if underlying cause persists.\nLifestyle & follow-up: Evaluate kidney, thyroid, inflammatory markers."}
-{"instruction":"Interpret CBC","input":"Hb 14.0 g/dL, Hct 43%, RBC 4.8M/µL, WBC 9.2k/µL, Platelets 310k/µL, MCV 89 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12.6%, Reticulocyte 1.0%, Neutrophils 62%, Lymphocytes 28%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 5.7k/µL","output":"Interpretation: Normal CBC.\nClinical significance: No abnormalities.\nFuture risks: None.\nLifestyle & follow-up: Continue healthy habits."}
-{"instruction":"Interpret CBC","input":"Hb 7.9 g/dL, Hct 25%, RBC 3.0M/µL, WBC 7.9k/µL, Platelets 510k/µL, MCV 70 fL, MCH 21 pg, MCHC 29 g/dL, RDW 18%, Reticulocyte 3.1%, Neutrophils 70%, Lymphocytes 22%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 5.5k/µL","output":"Interpretation: Severe microcytic anemia.\nClinical significance: Likely iron deficiency with compensatory reticulocytosis.\nFuture risks: Tachycardia, heart strain, dizziness.\nLifestyle & follow-up: Urgent iron evaluation, iron therapy, evaluate menstrual/GI losses."}
-{"instruction":"Interpret CBC","input":"Hb 11.4 g/dL, Hct 34%, RBC 3.9M/µL, WBC 14.1k/µL, Platelets 280k/µL, MCV 88 fL, MCH 29 pg, MCHC 33 g/dL, RDW 14%, Reticulocyte 1.2%, Neutrophils 82%, Lymphocytes 12%, Monocytes 4%, Eosinophils 1%, Basophils 1%, ANC 11.5k/µL","output":"Interpretation: Neutrophilic leukocytosis.\nClinical significance: Suggests acute bacterial infection or inflammation.\nFuture risks: Sepsis if untreated; persistent inflammation.\nLifestyle & follow-up: Identify infection source, hydrate, follow antibiotics if prescribed, repeat CBC in 1 week."}
-{"instruction":"Interpret CBC","input":"Hb 13.2 g/dL, Hct 40%, RBC 4.4M/µL, WBC 3.0k/µL, Platelets 165k/µL, MCV 92 fL, MCH 30 pg, MCHC 33 g/dL, RDW 13.5%, Reticulocyte 0.6%, Neutrophils 28%, Lymphocytes 57%, Monocytes 10%, Eosinophils 3%, Basophils 2%, ANC 0.84k/µL","output":"Interpretation: Moderate neutropenia.\nClinical significance: May be caused by viral illness, medications, or bone marrow suppression.\nFuture risks: Higher risk of infections.\nLifestyle & follow-up: Avoid crowded places, maintain hygiene, repeat CBC in 1–2 weeks."}
-{"instruction":"Interpret CBC","input":"Hb 16.8 g/dL, Hct 51%, RBC 5.9M/µL, WBC 9.4k/µL, Platelets 315k/µL, MCV 86 fL, MCH 28 pg, MCHC 33 g/dL, RDW 12.4%, Reticulocyte 1.1%, Neutrophils 60%, Lymphocytes 30%, Monocytes 6%, Eosinophils 2%, Basophils 2%, ANC 5.6k/µL","output":"Interpretation: Elevated hemoglobin and hematocrit.\nClinical significance: Indicates erythrocytosis—may be due to dehydration, smoking, or sleep apnea.\nFuture risks: Increased risk of clots, headaches, hypertension.\nLifestyle & follow-up: Hydrate well, evaluate oxygen saturation, consider sleep study, repeat CBC."}
-{"instruction":"Interpret CBC","input":"Hb 10.1 g/dL, Hct 31%, RBC 3.6M/µL, WBC 5.0k/µL, Platelets 450k/µL, MCV 76 fL, MCH 25 pg, MCHC 31 g/dL, RDW 16%, Reticulocyte 2.0%, Neutrophils 58%, Lymphocytes 32%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 2.9k/µL","output":"Interpretation: Microcytic anemia with thrombocytosis.\nClinical significance: Most consistent with iron deficiency anemia.\nFuture risks: Fatigue, hair loss, palpitations.\nLifestyle & follow-up: Iron-rich foods, ferritin testing, iron therapy if needed."}
-{"instruction":"Interpret CBC","input":"Hb 12.8 g/dL, Hct 38%, RBC 4.2M/µL, WBC 12.0k/µL, Platelets 220k/µL, MCV 89 fL, MCH 29 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 1.0%, Neutrophils 76%, Lymphocytes 18%, Monocytes 4%, Eosinophils 1%, Basophils 1%, ANC 9.1k/µL","output":"Interpretation: Neutrophilia.\nClinical significance: Suggests infection, inflammation, or physical stress.\nFuture risks: If chronic, may indicate autoimmune or hematologic conditions.\nLifestyle & follow-up: Check for fever/infection, hydrate, follow clinical evaluation."}
-{"instruction":"Interpret CBC","input":"Hb 9.4 g/dL, Hct 29%, RBC 3.0M/µL, WBC 4.9k/µL, Platelets 130k/µL, MCV 96 fL, MCH 32 pg, MCHC 33 g/dL, RDW 15%, Reticulocyte 0.5%, Neutrophils 55%, Lymphocytes 34%, Monocytes 7%, Eosinophils 3%, Basophils 1%, ANC 2.7k/µL","output":"Interpretation: Macrocytic anemia with borderline thrombocytopenia.\nClinical significance: Possible B12/folate deficiency or early marrow disorder.\nFuture risks: Neuropathy (if B12-related), fatigue.\nLifestyle & follow-up: Check B12, folate, liver function, and thyroid panel."}
-{"instruction":"Interpret CBC","input":"Hb 14.6 g/dL, Hct 44%, RBC 4.9M/µL, WBC 6.8k/µL, Platelets 310k/µL, MCV 87 fL, MCH 30 pg, MCHC 34 g/dL, RDW 12%, Reticulocyte 0.9%, Neutrophils 62%, Lymphocytes 28%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 4.2k/µL","output":"Interpretation: Normal CBC profile.\nClinical significance: All indices within expected ranges.\nFuture risks: None immediate.\nLifestyle & follow-up: Maintain regular health checkups and balanced diet."}
-{"instruction":"Interpret CBC","input":"Hb 8.9 g/dL, Hct 28%, RBC 3.1M/µL, WBC 13.5k/µL, Platelets 520k/µL, MCV 74 fL, MCH 23 pg, MCHC 30 g/dL, RDW 18%, Reticulocyte 2.8%, Neutrophils 80%, Lymphocytes 12%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 10.8k/µL","output":"Interpretation: Microcytic anemia with significant neutrophilia.\nClinical significance: Iron deficiency plus acute infection.\nFuture risks: Severe fatigue, worsening infection.\nLifestyle & follow-up: Iron therapy, infection workup, hydration."}
-{"instruction":"Interpret CBC","input":"Hb 11.7 g/dL, Hct 35%, RBC 3.8M/µL, WBC 2.8k/µL, Platelets 180k/µL, MCV 92 fL, MCH 31 pg, MCHC 33 g/dL, RDW 14%, Reticulocyte 0.7%, Neutrophils 30%, Lymphocytes 55%, Monocytes 10%, Eosinophils 3%, Basophils 2%, ANC 0.84k/µL","output":"Interpretation: Leukopenia with neutropenia.\nClinical significance: Viral illness or medication side effect likely.\nFuture risks: Infection risk increased.\nLifestyle & follow-up: Monitor temperature, avoid exposure, repeat CBC."}
-{"instruction":"Interpret CBC","input":"Hb 16.2 g/dL, Hct 49%, RBC 5.6M/µL, WBC 7.5k/µL, Platelets 230k/µL, MCV 88 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12.5%, Reticulocyte 1.0%, Neutrophils 58%, Lymphocytes 32%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 4.3k/µL","output":"Interpretation: High-normal hemoglobin and hematocrit.\nClinical significance: Could reflect mild dehydration.\nFuture risks: Thickened blood if Hct increases further.\nLifestyle & follow-up: Increase hydration, repeat CBC if symptoms persist."}
-{"instruction":"Interpret CBC","input":"Hb 10.9 g/dL, Hct 33%, RBC 3.7M/µL, WBC 8.2k/µL, Platelets 460k/µL, MCV 79 fL, MCH 27 pg, MCHC 32 g/dL, RDW 15%, Reticulocyte 1.8%, Neutrophils 65%, Lymphocytes 25%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 5.3k/µL","output":"Interpretation: Mild microcytic anemia with thrombocytosis.\nClinical significance: Suggests iron deficiency.\nFuture risks: Fatigue, hair loss.\nLifestyle & follow-up: Iron-rich diet, ferritin testing."}
-{"instruction":"Interpret CBC","input":"Hb 7.5 g/dL, Hct 24%, RBC 2.9M/µL, WBC 5.9k/µL, Platelets 150k/µL, MCV 104 fL, MCH 34 pg, MCHC 32 g/dL, RDW 17%, Reticulocyte 0.4%, Neutrophils 54%, Lymphocytes 36%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 3.2k/µL","output":"Interpretation: Severe macrocytic anemia.\nClinical significance: Strongly suggests B12/folate deficiency.\nFuture risks: Neuropathy, cognitive decline.\nLifestyle & follow-up: Begin supplementation, test B12/folate levels immediately."}
-{"instruction":"Interpret CBC","input":"Hb 13.9 g/dL, Hct 42%, RBC 4.6M/µL, WBC 16.2k/µL, Platelets 300k/µL, MCV 90 fL, MCH 30 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 1.2%, Neutrophils 84%, Lymphocytes 9%, Monocytes 4%, Eosinophils 2%, Basophils 1%, ANC 13.6k/µL","output":"Interpretation: Marked neutrophilic leukocytosis.\nClinical significance: Typical of acute bacterial infection.\nFuture risks: Worsening infection.\nLifestyle & follow-up: Seek medical evaluation, hydration, antibiotics if indicated."}
-{"instruction":"Interpret CBC","input":"Hb 14.8 g/dL, Hct 45%, RBC 5.0M/µL, WBC 6.5k/µL, Platelets 170k/µL, MCV 88 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 0.9%, Neutrophils 50%, Lymphocytes 38%, Monocytes 7%, Eosinophils 3%, Basophils 2%, ANC 3.2k/µL","output":"Interpretation: Normal CBC.\nClinical significance: All values stable.\nFuture risks: None.\nLifestyle & follow-up: Continue healthy lifestyle."}
-{"instruction":"Interpret CBC","input":"Hb 11.0 g/dL, Hct 33%, RBC 3.6M/µL, WBC 3.6k/µL, Platelets 110k/µL, MCV 100 fL, MCH 33 pg, MCHC 33 g/dL, RDW 16%, Reticulocyte 0.5%, Neutrophils 40%, Lymphocytes 48%, Monocytes 7%, Eosinophils 3%, Basophils 2%, ANC 1.4k/µL","output":"Interpretation: Macrocytosis with mild pancytopenia.\nClinical significance: Possible marrow suppression or severe B12 deficiency.\nFuture risks: Infection, bleeding tendency.\nLifestyle & follow-up: Urgent evaluation for marrow disorders; check B12, folate, liver tests."}
-{"instruction":"Interpret CBC","input":"Hb 15.0 g/dL, Hct 45%, RBC 4.9M/µL, WBC 7.0k/µL, Platelets 425k/µL, MCV 82 fL, MCH 27 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 1.1%, Neutrophils 55%, Lymphocytes 33%, Monocytes 7%, Eosinophils 3%, Basophils 2%, ANC 3.8k/µL","output":"Interpretation: Normal hemoglobin with mild thrombocytosis.\nClinical significance: Could indicate inflammation or iron deficiency onset.\nFuture risks: Slight clotting risk if platelets continue rising.\nLifestyle & follow-up: Recheck ferritin and inflammation markers."}
-{"instruction":"Interpret CBC","input":"Hb 12.2 g/dL, Hct 36%, RBC 4.0M/µL, WBC 9.8k/µL, Platelets 280k/µL, MCV 89 fL, MCH 30 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 1.0%, Neutrophils 72%, Lymphocytes 20%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 7.0k/µL","output":"Interpretation: Mild neutrophilia.\nClinical significance: Could be stress response or early infection.\nFuture risks: Progression of infection.\nLifestyle & follow-up: Monitor symptoms, stay hydrated."}
-{"instruction":"Interpret CBC","input":"Hb 8.7 g/dL, Hct 27%, RBC 2.8M/µL, WBC 5.3k/µL, Platelets 195k/µL, MCV 96 fL, MCH 33 pg, MCHC 33 g/dL, RDW 15%, Reticulocyte 0.6%, Neutrophils 52%, Lymphocytes 38%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 2.7k/µL","output":"Interpretation: Normocytic to macrocytic anemia.\nClinical significance: Consider anemia of chronic disease or early B12 deficiency.\nFuture risks: Fatigue, weakness.\nLifestyle & follow-up: Evaluate kidney function, inflammation markers, B12."}
-{"instruction":"Interpret CBC","input":"Hb 17.1 g/dL, Hct 52%, RBC 6.0M/µL, WBC 8.6k/µL, Platelets 240k/µL, MCV 87 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12.4%, Reticulocyte 1.1%, Neutrophils 60%, Lymphocytes 32%, Monocytes 6%, Eosinophils 1%, Basophils 1%, ANC 5.2k/µL","output":"Interpretation: Erythrocytosis.\nClinical significance: Could indicate smoking, dehydration, or sleep apnea.\nFuture risks: High clot risk.\nLifestyle & follow-up: Hydration, assess sleep quality, repeat CBC."}
-{"instruction":"Interpret CBC","input":"Hb 10.5 g/dL, Hct 32%, RBC 3.5M/µL, WBC 15.0k/µL, Platelets 480k/µL, MCV 75 fL, MCH 25 pg, MCHC 31 g/dL, RDW 17%, Reticulocyte 2.2%, Neutrophils 78%, Lymphocytes 14%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 11.7k/µL","output":"Interpretation: Microcytic anemia with marked neutrophilia.\nClinical significance: Iron deficiency + acute infection.\nFuture risks: Worsening anemia; infection complications.\nLifestyle & follow-up: Treat infection, start iron therapy, monitor CBC."}
-{"instruction":"Interpret CBC","input":"Hb 12.6 g/dL, Hct 38%, RBC 4.1M/µL, WBC 2.9k/µL, Platelets 145k/µL, MCV 90 fL, MCH 30 pg, MCHC 33 g/dL, RDW 13.5%, Reticulocyte 0.7%, Neutrophils 35%, Lymphocytes 50%, Monocytes 10%, Eosinophils 3%, Basophils 2%, ANC 1.0k/µL","output":"Interpretation: Leukopenia with neutropenia.\nClinical significance: Suggests viral suppression or medication impact.\nFuture risks: Infection vulnerability.\nLifestyle & follow-up: Monitor infections, repeat CBC in 1 week."}
-{"instruction":"Interpret CBC","input":"Hb 13.7 g/dL, Hct 41%, RBC 4.5M/µL, WBC 7.4k/µL, Platelets 460k/µL, MCV 86 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 1.0%, Neutrophils 58%, Lymphocytes 32%, Monocytes 5%, Eosinophils 3%, Basophils 2%, ANC 4.3k/µL","output":"Interpretation: Isolated thrombocytosis.\nClinical significance: Could reflect inflammation or iron deficiency.\nFuture risks: Mild clot risk.\nLifestyle & follow-up: Check CRP, ferritin, repeat CBC."}
-{"instruction":"Interpret CBC","input":"Hb 6.8 g/dL, Hct 22%, RBC 2.5M/µL, WBC 7.0k/µL, Platelets 230k/µL, MCV 68 fL, MCH 20 pg, MCHC 29 g/dL, RDW 20%, Reticulocyte 3.5%, Neutrophils 60%, Lymphocytes 30%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 4.2k/µL","output":"Interpretation: Severe iron deficiency anemia.\nClinical significance: Commonly due to blood loss or malabsorption.\nFuture risks: Heart strain, dizziness.\nLifestyle & follow-up: Urgent iron therapy, identify bleeding source."}
-{"instruction":"Interpret CBC","input":"Hb 15.3 g/dL, Hct 46%, RBC 5.3M/µL, WBC 6.6k/µL, Platelets 205k/µL, MCV 87 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 1.0%, Neutrophils 57%, Lymphocytes 34%, Monocytes 6%, Eosinophils 2%, Basophils 1%, ANC 3.8k/µL","output":"Interpretation: Normal CBC.\nClinical significance: Stable blood counts.\nFuture risks: None.\nLifestyle & follow-up: Routine checkups."}
-{"instruction":"Interpret CBC","input":"Hb 9.8 g/dL, Hct 30%, RBC 3.4M/µL, WBC 12.3k/µL, Platelets 150k/µL, MCV 100 fL, MCH 33 pg, MCHC 33 g/dL, RDW 16%, Reticulocyte 0.8%, Neutrophils 76%, Lymphocytes 16%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 9.3k/µL","output":"Interpretation: Macrocytic anemia with neutrophilia.\nClinical significance: May indicate B12 deficiency plus infection.\nFuture risks: Neurologic deficits and infection progression.\nLifestyle & follow-up: Check B12, treat infection."}
-{"instruction":"Interpret CBC","input":"Hb 10.4 g/dL, Hct 32%, RBC 3.5M/µL, WBC 2.5k/µL, Platelets 98k/µL, MCV 92 fL, MCH 30 pg, MCHC 33 g/dL, RDW 15%, Reticulocyte 0.4%, Neutrophils 28%, Lymphocytes 60%, Monocytes 8%, Eosinophils 3%, Basophils 1%, ANC 0.7k/µL","output":"Interpretation: Pancytopenia.\nClinical significance: Suggests marrow suppression.\nFuture risks: Infections, bleeding.\nLifestyle & follow-up: Urgent hematology referral."}
-{"instruction":"Interpret CBC","input":"Hb 17.0 g/dL, Hct 52%, RBC 6.2M/µL, WBC 10.1k/µL, Platelets 198k/µL, MCV 84 fL, MCH 27 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 1.2%, Neutrophils 68%, Lymphocytes 24%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 6.9k/µL","output":"Interpretation: Erythrocytosis with mild neutrophilia.\nClinical significance: Dehydration or hypoxia-related.\nFuture risks: Thrombosis.\nLifestyle & follow-up: Hydration, evaluate sleep apnea."}
-{"instruction":"Interpret CBC","input":"Hb 12.0 g/dL, Hct 36%, RBC 4.1M/µL, WBC 9.0k/µL, Platelets 420k/µL, MCV 89 fL, MCH 30 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 1.0%, Neutrophils 66%, Lymphocytes 26%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 5.9k/µL","output":"Interpretation: Mild thrombocytosis with normal RBC indices.\nClinical significance: Reactive process likely.\nFuture risks: Clot risk minimal.\nLifestyle & follow-up: Monitor inflammation markers."}
-{"instruction":"Interpret CBC","input":"Hb 6.9 g/dL, Hct 21%, RBC 2.4M/µL, WBC 3.9k/µL, Platelets 110k/µL, MCV 105 fL, MCH 34 pg, MCHC 32 g/dL, RDW 18%, Reticulocyte 0.4%, Neutrophils 45%, Lymphocytes 44%, Monocytes 7%, Eosinophils 3%, Basophils 1%, ANC 1.7k/µL","output":"Interpretation: Severe macrocytic anemia with leukopenia and thrombocytopenia.\nClinical significance: Possible bone marrow failure.\nFuture risks: High risk of infection and bleeding.\nLifestyle & follow-up: Immediate hematology evaluation."}
-{"instruction":"Interpret CBC","input":"Hb 14.4 g/dL, Hct 43%, RBC 4.7M/µL, WBC 11.3k/µL, Platelets 285k/µL, MCV 87 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 1.0%, Neutrophils 78%, Lymphocytes 14%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 8.8k/µL","output":"Interpretation: Neutrophilia.\nClinical significance: Likely infection or inflammation.\nFuture risks: Worsening infection.\nLifestyle & follow-up: Hydration and infection evaluation."}
-{"instruction":"Interpret CBC","input":"Hb 13.1 g/dL, Hct 39%, RBC 4.3M/µL, WBC 6.2k/µL, Platelets 170k/µL, MCV 90 fL, MCH 30 pg, MCHC 33 g/dL, RDW 13%, Reticulocyte 0.9%, Neutrophils 52%, Lymphocytes 38%, Monocytes 7%, Eosinophils 2%, Basophils 1%, ANC 3.2k/µL","output":"Interpretation: Normal CBC.\nClinical significance: No concerning abnormalities.\nFuture risks: None.\nLifestyle & follow-up: Maintain balanced lifestyle."}
-{"instruction":"Interpret CBC","input":"Hb 9.1 g/dL, Hct 29%, RBC 3.0M/µL, WBC 12.0k/µL, Platelets 515k/µL, MCV 78 fL, MCH 25 pg, MCHC 31 g/dL, RDW 17%, Reticulocyte 2.4%, Neutrophils 72%, Lymphocytes 20%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 8.6k/µL","output":"Interpretation: Microcytic anemia with thrombocytosis and neutrophilia.\nClinical significance: Iron deficiency with concurrent inflammation or infection.\nFuture risks: Worsening anemia.\nLifestyle & follow-up: Treat iron deficiency, check infection source."}
-{"instruction":"Interpret CBC","input":"Hb 15.7 g/dL, Hct 48%, RBC 5.5M/µL, WBC 4.0k/µL, Platelets 150k/µL, MCV 88 fL, MCH 29 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 1.0%, Neutrophils 38%, Lymphocytes 50%, Monocytes 8%, Eosinophils 3%, Basophils 1%, ANC 1.5k/µL","output":"Interpretation: Mild neutropenia.\nClinical significance: Could be viral.\nFuture risks: Infection risk.\nLifestyle & follow-up: Monitor CBC in 1 week."}
-{"instruction":"Interpret CBC","input":"Hb 10.8 g/dL, Hct 33%, RBC 3.4M/µL, WBC 9.1k/µL, Platelets 200k/µL, MCV 94 fL, MCH 31 pg, MCHC 33 g/dL, RDW 14.5%, Reticulocyte 0.7%, Neutrophils 68%, Lymphocytes 24%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 6.2k/µL","output":"Interpretation: Mild macrocytic anemia.\nClinical significance: Possible early B12 deficiency.\nFuture risks: Neuropathy.\nLifestyle & follow-up: Increase B12-rich foods, test levels."}
-{"instruction":"Interpret CBC","input":"Hb 16.4 g/dL, Hct 50%, RBC 6.0M/µL, WBC 10.5k/µL, Platelets 210k/µL, MCV 84 fL, MCH 28 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 1.2%, Neutrophils 70%, Lymphocytes 22%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 7.3k/µL","output":"Interpretation: Erythrocytosis with neutrophilia.\nClinical significance: Suggests dehydration or hypoxia.\nFuture risks: Clot formation.\nLifestyle & follow-up: Hydrate aggressively, check oxygen levels."}
-{"instruction":"Interpret CBC","input":"Hb 11.3 g/dL, Hct 35%, RBC 3.8M/µL, WBC 18.0k/µL, Platelets 195k/µL, MCV 90 fL, MCH 30 pg, MCHC 33 g/dL, RDW 14%, Reticulocyte 0.9%, Neutrophils 88%, Lymphocytes 7%, Monocytes 3%, Eosinophils 1%, Basophils 1%, ANC 15.8k/µL","output":"Interpretation: Severe neutrophilic leukocytosis.\nClinical significance: Strongly indicates acute bacterial infection.\nFuture risks: Sepsis.\nLifestyle & follow-up: Urgent clinical evaluation."}
-{"instruction":"Interpret CBC","input":"Hb 13.8 g/dL, Hct 42%, RBC 4.6M/µL, WBC 6.0k/µL, Platelets 135k/µL, MCV 89 fL, MCH 30 pg, MCHC 34 g/dL, RDW 12%, Reticulocyte 0.8%, Neutrophils 52%, Lymphocytes 38%, Monocytes 6%, Eosinophils 3%, Basophils 1%, ANC 3.1k/µL","output":"Interpretation: Mild thrombocytopenia.\nClinical significance: Could be viral or medication-related.\nFuture risks: Easy bruising.\nLifestyle & follow-up: Avoid NSAIDs, repeat CBC in 2 weeks."}
-{"instruction":"Interpret CBC","input":"Hb 9.9 g/dL, Hct 30%, RBC 3.2M/µL, WBC 4.5k/µL, Platelets 470k/µL, MCV 80 fL, MCH 26 pg, MCHC 31 g/dL, RDW 16.5%, Reticulocyte 1.5%, Neutrophils 56%, Lymphocytes 30%, Monocytes 7%, Eosinophils 5%, Basophils 2%, ANC 2.5k/µL","output":"Interpretation: Microcytic anemia with thrombocytosis and eosinophilia.\nClinical significance: Iron deficiency + allergy or parasitic exposure.\nFuture risks: Fatigue, inflammation.\nLifestyle & follow-up: Iron foods, check ferritin, rule out allergies."}
-{"instruction":"Interpret CBC","input":"Hb 14.9 g/dL, Hct 45%, RBC 5.1M/µL, WBC 11.8k/µL, Platelets 320k/µL, MCV 90 fL, MCH 30 pg, MCHC 33 g/dL, RDW 12%, Reticulocyte 1.1%, Neutrophils 75%, Lymphocytes 18%, Monocytes 4%, Eosinophils 2%, Basophils 1%, ANC 8.8k/µL","output":"Interpretation: Neutrophilia.\nClinical significance: Suggests infection or steroid effect.\nFuture risks: Worsening inflammation.\nLifestyle & follow-up: Identify source of inflammation."}
-{"instruction":"Interpret CBC","input":"Hb 7.1 g/dL, Hct 23%, RBC 2.6M/µL, WBC 9.0k/µL, Platelets 600k/µL, MCV 70 fL, MCH 22 pg, MCHC 30 g/dL, RDW 19%, Reticulocyte 3.0%, Neutrophils 68%, Lymphocytes 24%, Monocytes 5%, Eosinophils 2%, Basophils 1%, ANC 6.1k/µL","output":"Interpretation: Severe iron deficiency anemia with reactive thrombocytosis.\nClinical significance: Likely chronic blood loss.\nFuture risks: Syncope, exertional dyspnea.\nLifestyle & follow-up: Immediate iron therapy, evaluate bleeding source (GI or menstrual)."}
-{"instruction": "Interpret the CBC report", "input": "Hb 9.8 g/dL, RBC 3.6M/μL, Hct 30%, MCV 72 fL, MCH 23 pg, RDW 18%, Platelets 420k/μL", "output": "Interpretation: Microcytic anemia with elevated RDW.\nClinical significance: Suggests iron deficiency as the primary cause.\nFuture risks: Fatigue, decreased exercise tolerance, progression to severe anemia.\nLifestyle & follow-up: Increase dietary iron (greens, meat), take supplements if advised, recheck CBC and ferritin in 4–6 weeks."}
-{"instruction": "Interpret the CBC report", "input": "Hb 12.1 g/dL, RBC 4.9M/μL, Hct 41%, MCV 84 fL, WBC 6.1k/μL, Platelets 260k/μL", "output": "Interpretation: Normal CBC.\nClinical significance: Blood counts fall within standard healthy ranges.\nFuture risks: No immediate concerns.\nLifestyle & follow-up: Maintain balanced diet and routine annual checkups."}
-{"instruction": "Interpret CBC values", "input": "Hb 7.9 g/dL, Hct 25%, RBC 2.9M/μL, MCV 90 fL, WBC 3.2k/μL, Platelets 95k/μL", "output": "Interpretation: Pancytopenia.\nClinical significance: May indicate bone marrow suppression or chronic illness.\nFuture risks: Infections, bleeding, severe anemia.\nLifestyle & follow-up: Immediate evaluation by hematology, repeat CBC, possible bone marrow study."}
-{"instruction": "Interpret CBC values", "input": "Hb 15.8 g/dL, Hct 49%, RBC 5.9M/μL, WBC 7.2k/μL, Platelets 380k/μL", "output": "Interpretation: High-normal hemoglobin and RBC.\nClinical significance: Could indicate relative dehydration or early polycythemia.\nFuture risks: Blood thickening, clot risk if values increase.\nLifestyle & follow-up: Hydration and repeat CBC if symptoms like headache or dizziness occur."}
-{"instruction": "Interpret CBC", "input": "WBC 14.5k/μL, Neutrophils 82%, Lymphocytes 12%, Hb 12.9 g/dL", "output": "Interpretation: Neutrophilic leukocytosis.\nClinical significance: Suggestive of acute bacterial infection or inflammation.\nFuture risks: Abscess formation, sepsis if untreated.\nLifestyle & follow-up: Identify infection source, start antibiotics if indicated, monitor fever and WBC."}
-{"instruction": "Interpret CBC", "input": "WBC 3.1k/μL, Neutrophils 42%, Lymphocytes 50%, Platelets 160k/μL", "output": "Interpretation: Mild leukopenia.\nClinical significance: Possible viral suppression or medication effect.\nFuture risks: Increased infection susceptibility.\nLifestyle & follow-up: Monitor CBC, avoid exposure to infections, review medications."}
-{"instruction": "Interpret CBC", "input": "Platelets 98k/μL, Hb 13.1 g/dL, WBC 5.4k/μL", "output": "Interpretation: Thrombocytopenia.\nClinical significance: Could be immune, viral, or medication-related.\nFuture risks: Easy bruising, bleeding risk.\nLifestyle & follow-up: Avoid NSAIDs/alcohol, evaluate for infections, repeat CBC."}
-{"instruction": "Interpret CBC report", "input": "Hb 10.2 g/dL, MCV 105 fL, RBC 3.1M/μL, WBC 6.8k/μL, Platelets 240k/μL", "output": "Interpretation: Macrocytic anemia.\nClinical significance: Suggests B12 or folate deficiency.\nFuture risks: Neuropathy, cognitive changes.\nLifestyle & follow-up: Increase B12/folate-rich foods, supplements as advised, check B12 and folate levels."}
-{"instruction": "Interpret CBC report", "input": "Hb 16.2 g/dL, Hct 52%, RBC 6.2M/μL, Platelets 510k/μL", "output": "Interpretation: Erythrocytosis with thrombocytosis.\nClinical significance: Possible myeloproliferative disorder.\nFuture risks: High clot risk.\nLifestyle & follow-up: Refer hematology, evaluate JAK2 mutation, maintain hydration."}
-{"instruction": "Interpret CBC findings", "input": "Hb 8.3 g/dL, MCV 68 fL, RDW 20%, Ferritin low (not provided but assumed)", "output": "Interpretation: Iron deficiency anemia.\nClinical significance: Classic microcytic picture with high RDW.\nFuture risks: Severe fatigue, tachycardia.\nLifestyle & follow-up: Iron supplementation, high-iron diet, evaluate menstrual or GI blood loss."}
-{"instruction": "Interpret CBC", "input": "WBC 18.2k/μL, Neutrophils 88%, Bands 6%, Hb 13.9 g/dL", "output": "Interpretation: Neutrophilia with left shift.\nClinical significance: Suggests acute bacterial infection.\nFuture risks: Sepsis if untreated.\nLifestyle & follow-up: Immediate clinical evaluation, blood cultures if febrile."}
-{"instruction": "Interpret CBC", "input": "Hb 11.1 g/dL, MCV 79 fL, WBC 4.1k/μL, Platelets 510k/μL", "output": "Interpretation: Microcytosis with reactive thrombocytosis.\nClinical significance: Most commonly iron deficiency.\nFuture risks: Worsening anemia.\nLifestyle & follow-up: Iron studies, iron-rich foods, recheck CBC in 1 month."}
-{"instruction": "Interpret CBC", "input": "Hb 13.4 g/dL, WBC 2.9k/μL, ANC 0.8k/μL", "output": "Interpretation: Neutropenia.\nClinical significance: Higher infection risk.\nFuture risks: Febrile neutropenia.\nLifestyle & follow-up: Avoid exposure, monitor temperature, hematology referral if persistent."}
-{"instruction": "Interpret CBC", "input": "Hb 14.3 g/dL, Platelets 780k/μL, WBC 9.1k/μL", "output": "Interpretation: Marked thrombocytosis.\nClinical significance: Could be reactive or primary (MPN).\nFuture risks: Thrombosis.\nLifestyle & follow-up: Check CRP/ESR, evaluate iron, consider JAK2 study."}
-{"instruction": "Interpret CBC", "input": "Hb 12.2 g/dL, MCV 100 fL, Platelets 90k/μL, WBC 3.8k/μL", "output": "Interpretation: Macrocytopenia.\nClinical significance: Possible B12 deficiency or alcohol-related suppression.\nFuture risks: Anemia progression, neuropathy.\nLifestyle & follow-up: Reduce alcohol, test B12/folate, supplement if needed."}
-{"instruction": "Interpret CBC", "input": "Hb 9.2 g/dL, Reticulocyte count low, MCV 87 fL", "output": "Interpretation: Normocytic anemia with low reticulocytes.\nClinical significance: Suggests reduced bone marrow production.\nFuture risks: Severe anemia.\nLifestyle & follow-up: Evaluate kidney function, thyroid levels, chronic disease."}
-{"instruction": "Interpret CBC", "input": "Hb 11.7 g/dL, WBC 11.9k/μL, Neutrophils 78%, Platelets 330k/μL", "output": "Interpretation: Mild anemia with leukocytosis.\nClinical significance: Likely acute infection.\nFuture risks: Worsening inflammation.\nLifestyle & follow-up: Hydration, treat infection source, repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Hb 13.9 g/dL, WBC 22.1k/μL, Lymphocytes 68%", "output": "Interpretation: Lymphocytosis.\nClinical significance: Viral infection or early hematologic disorder.\nFuture risks: Persistent lymphocytosis may require evaluation.\nLifestyle & follow-up: Review medications, repeat CBC in 1–2 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 10.5 g/dL, MCV 95 fL, Platelets 130k/μL", "output": "Interpretation: Normo-macrocytic anemia with mild thrombocytopenia.\nClinical significance: Alcohol or liver-related marrow suppression possible.\nFuture risks: Worsening cytopenias.\nLifestyle & follow-up: Limit alcohol, check LFTs, nutritional assessment."}
-{"instruction": "Interpret CBC", "input": "Hb 15.1 g/dL, Hct 48%, RBC 6.0M/μL, WBC 6.8k/μL", "output": "Interpretation: Mild erythrocytosis.\nClinical significance: May be due to smoking or hypoxia.\nFuture risks: Thrombosis.\nLifestyle & follow-up: Encourage hydration and smoking cessation if applicable."}
-{"instruction": "Interpret CBC", "input": "Hb 7.4 g/dL, MCV 60 fL, RBC 3.9M/μL, RDW 21%, Platelets 480k/μL", "output": "Interpretation: Severe microcytic anemia.\nClinical significance: Strongly suggests iron deficiency with reactive thrombocytosis.\nFuture risks: Severe fatigue, breathlessness, cardiac strain.\nLifestyle & follow-up: Iron supplements, evaluate for blood loss, repeat CBC and ferritin in 4 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 13.8 g/dL, WBC 17.1k/μL, Neutrophils 84%, Platelets 401k/μL", "output": "Interpretation: Neutrophilic leukocytosis.\nClinical significance: Indicates acute bacterial infection or inflammation.\nFuture risks: Dehydration, abscess formation.\nLifestyle & follow-up: Treat infection source, maintain hydration, repeat CBC post-recovery."}
-{"instruction": "Interpret CBC", "input": "Hb 11.9 g/dL, MCV 108 fL, RBC 3.2M/μL, Platelets 150k/μL", "output": "Interpretation: Macrocytic anemia.\nClinical significance: Possible B12/folate deficiency or early liver disease.\nFuture risks: Neuropathy, cognitive issues.\nLifestyle & follow-up: Check B12, folate, LFTs; add supplements if needed."}
-{"instruction": "Interpret CBC", "input": "WBC 2.4k/μL, ANC 0.6k/μL, Hb 12.7 g/dL, Platelets 210k/μL", "output": "Interpretation: Moderate neutropenia.\nClinical significance: Increased infection risk; could be medication or viral cause.\nFuture risks: Sepsis if febrile.\nLifestyle & follow-up: Avoid infection exposure, seek care if fever develops, repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Platelets 640k/μL, Hb 14.2 g/dL, WBC 8.7k/μL", "output": "Interpretation: Significant thrombocytosis.\nClinical significance: May be reactive (infection, inflammation) or primary.\nFuture risks: Clot risk increases.\nLifestyle & follow-up: Check iron, CRP/ESR; refer if persistent."}
-{"instruction": "Interpret CBC", "input": "Hb 9.1 g/dL, MCV 88 fL, Reticulocyte count high, WBC 6.9k/μL", "output": "Interpretation: Normocytic anemia with high reticulocytes.\nClinical significance: Suggests hemolysis or blood loss.\nFuture risks: Jaundice, organ strain.\nLifestyle & follow-up: Check LDH, bilirubin, haptoglobin; evaluate for bleeding."}
-{"instruction": "Interpret CBC", "input": "Hb 16.5 g/dL, Hct 54%, RBC 6.5M/μL, Platelets 450k/μL", "output": "Interpretation: Erythrocytosis with borderline thrombocytosis.\nClinical significance: Possible polycythemia vera.\nFuture risks: Stroke, thrombosis.\nLifestyle & follow-up: JAK2 testing, hematology referral, hydration."}
-{"instruction": "Interpret CBC", "input": "Hb 12.5 g/dL, RBC 5.7M/μL, MCV 72 fL, RDW 13%", "output": "Interpretation: Microcytosis with normal RDW.\nClinical significance: Likely thalassemia trait.\nFuture risks: Mild anemia during stress.\nLifestyle & follow-up: Hemoglobin electrophoresis, family screening."}
-{"instruction": "Interpret CBC", "input": "Hb 10.8 g/dL, MCV 82 fL, WBC 12.2k/μL, Platelets 520k/μL", "output": "Interpretation: Mild anemia with reactive leukocytosis and thrombocytosis.\nClinical significance: Suggestive of infection or chronic inflammation.\nFuture risks: Persistence may progress to iron deficiency.\nLifestyle & follow-up: Check CRP/ESR, evaluate infection source."}
-{"instruction": "Interpret CBC", "input": "Hb 13.5 g/dL, WBC 4.0k/μL, ANC 1.2k/μL, Lymphocytes 46%", "output": "Interpretation: Mild neutropenia.\nClinical significance: Could be benign or post-viral.\nFuture risks: Infection risk slightly elevated.\nLifestyle & follow-up: Repeat CBC in 2–4 weeks, avoid unnecessary antibiotics."}
-{"instruction": "Interpret CBC", "input": "Hb 8.9 g/dL, Hct 28%, MCV 92 fL, Platelets 170k/μL", "output": "Interpretation: Normocytic anemia.\nClinical significance: Could indicate chronic disease anemia.\nFuture risks: Progressive fatigue.\nLifestyle & follow-up: Evaluate kidney function, iron panel, thyroid levels."}
-{"instruction": "Interpret CBC", "input": "WBC 21.4k/μL, Lymphocytes 61%, Hb 12.1 g/dL", "output": "Interpretation: Marked lymphocytosis.\nClinical significance: Viral infections or early hematologic disorder.\nFuture risks: Persistent lymphocytosis may require hematology review.\nLifestyle & follow-up: Repeat CBC in 2 weeks, monitor symptoms."}
-{"instruction": "Interpret CBC", "input": "Platelets 75k/μL, Hb 13.3 g/dL, WBC 6.0k/μL", "output": "Interpretation: Moderate thrombocytopenia.\nClinical significance: Possible immune thrombocytopenia or viral causes.\nFuture risks: Bleeding risk.\nLifestyle & follow-up: Avoid aspirin/NSAIDs, check viral markers."}
-{"instruction": "Interpret CBC", "input": "Hb 17.2 g/dL, Hct 55%, RBC 6.8M/μL", "output": "Interpretation: Significant erythrocytosis.\nClinical significance: Could indicate dehydration, smoking, OSA, or PV.\nFuture risks: Blood clots.\nLifestyle & follow-up: Hydration, check EPO levels, consider sleep study."}
-{"instruction": "Interpret CBC", "input": "Hb 9.7 g/dL, MCV 66 fL, RDW 19%, WBC 7.1k/μL", "output": "Interpretation: Severe microcytic anemia.\nClinical significance: Suggests iron deficiency.\nFuture risks: Tachycardia, poor concentration.\nLifestyle & follow-up: Iron-rich foods, supplement therapy, evaluate bleeding."}
-{"instruction": "Interpret CBC", "input": "Hb 13.2 g/dL, WBC 15.9k/μL, Neutrophils 80%, Platelets 420k/μL", "output": "Interpretation: Neutrophilic leukocytosis.\nClinical significance: Ongoing infection/inflammation.\nFuture risks: Dehydration, worsening infection.\nLifestyle & follow-up: Treat suspected infection, maintain fluids."}
-{"instruction": "Interpret CBC", "input": "Hb 11.3 g/dL, MCV 102 fL, Platelets 110k/μL, WBC 4.9k/μL", "output": "Interpretation: Macrocytic anemia with mild thrombocytopenia.\nClinical significance: Possible early megaloblastic anemia.\nFuture risks: Neuropathy.\nLifestyle & follow-up: Check B12, folate, minimize alcohol."}
-{"instruction": "Interpret CBC", "input": "Hb 12.9 g/dL, RBC 4.0M/μL, MCV 104 fL", "output": "Interpretation: Macrocytosis.\nClinical significance: Could be B12 deficiency or hypothyroidism.\nFuture risks: Cognitive issues.\nLifestyle & follow-up: Evaluate B12, TSH, alcohol intake."}
-{"instruction": "Interpret CBC", "input": "WBC 1.8k/μL, ANC 0.4k/μL, Hb 12.2 g/dL", "output": "Interpretation: Severe neutropenia.\nClinical significance: High infection risk.\nFuture risks: Sepsis.\nLifestyle & follow-up: Urgent evaluation, avoid crowds, temperature monitoring."}
-{"instruction": "Interpret CBC", "input": "Hb 10.4 g/dL, MCV 88 fL, Platelets 630k/μL, WBC 8.9k/μL", "output": "Interpretation: Normocytic anemia with thrombocytosis.\nClinical significance: Consistent with chronic inflammation or iron deficiency recovery.\nFuture risks: Thrombotic events if platelets remain high.\nLifestyle & follow-up: Check ferritin and CRP, repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Hb 11.0 g/dL, MCV 86 fL, WBC 13.1k/μL, Neutrophils 78%", "output": "Interpretation: Mild anemia with neutrophilic leukocytosis.\nClinical significance: Suggests acute bacterial infection.\nFuture risks: Increased fatigue and worsening infection.\nLifestyle & follow-up: Treat infection source, stay hydrated, repeat CBC after recovery."}
-{"instruction": "Interpret CBC", "input": "Hb 14.1 g/dL, WBC 3.9k/μL, Lymphocytes 52%", "output": "Interpretation: Mild leukopenia with relative lymphocytosis.\nClinical significance: Often post-viral.\nFuture risks: Temporary susceptibility to infections.\nLifestyle & follow-up: Rest, nutrition, repeat CBC in 3–4 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 7.8 g/dL, MCV 70 fL, Platelets 520k/μL", "output": "Interpretation: Severe iron deficiency anemia.\nClinical significance: Microcytosis with reactive thrombocytosis.\nFuture risks: Extreme fatigue, heart strain.\nLifestyle & follow-up: Iron therapy, evaluate heavy bleeding, recheck count in 4 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 10.5 g/dL, MCV 94 fL, WBC 18.4k/μL", "output": "Interpretation: Normocytic anemia with leukocytosis.\nClinical significance: Suggests infection or inflammation.\nFuture risks: Worsening anemia if untreated.\nLifestyle & follow-up: Investigate infection, hydrate, repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Hb 12.4 g/dL, Platelets 95k/μL, WBC 6.8k/μL", "output": "Interpretation: Mild thrombocytopenia.\nClinical significance: Possible viral suppression or immune thrombocytopenia.\nFuture risks: Bruising, bleeding risk.\nLifestyle & follow-up: Avoid NSAIDs, check viral markers, monitor platelets."}
-{"instruction": "Interpret CBC", "input": "Hb 16.8 g/dL, Hct 55%, RBC 6.7M/μL", "output": "Interpretation: Marked erythrocytosis.\nClinical significance: Possible dehydration, smoking, or polycythemia vera.\nFuture risks: Clotting events.\nLifestyle & follow-up: Improve hydration, check erythropoietin levels, evaluate OSA."}
-{"instruction": "Interpret CBC", "input": "WBC 23.0k/μL, Neutrophils 88%, Hb 12.5 g/dL", "output": "Interpretation: Severe neutrophilic leukocytosis.\nClinical significance: Indicates strong bacterial infection.\nFuture risks: Sepsis if untreated.\nLifestyle & follow-up: Start antibiotics as needed, monitor fever closely."}
-{"instruction": "Interpret CBC", "input": "Hb 13.3 g/dL, MCV 74 fL, RBC 5.8M/μL", "output": "Interpretation: Microcytosis with high RBC count.\nClinical significance: Suggests thalassemia trait.\nFuture risks: Mild anemia during stress.\nLifestyle & follow-up: Hemoglobin electrophoresis recommended."}
-{"instruction": "Interpret CBC", "input": "Hb 8.4 g/dL, MCV 101 fL, RDW normal", "output": "Interpretation: Macrocytic anemia.\nClinical significance: Possibly due to alcohol use or early B12 deficiency.\nFuture risks: Neurological symptoms.\nLifestyle & follow-up: Check B12, folate, reduce alcohol."}
-{"instruction": "Interpret CBC", "input": "WBC 1.5k/μL, ANC 0.3k/μL", "output": "Interpretation: Severe neutropenia.\nClinical significance: High risk of infection.\nFuture risks: Sepsis.\nLifestyle & follow-up: Immediate medical attention if fever occurs."}
-{"instruction": "Interpret CBC", "input": "Hb 10.9 g/dL, Platelets 720k/μL, WBC 9.9k/μL", "output": "Interpretation: Thrombocytosis with mild anemia.\nClinical significance: Could be reactive inflammation.\nFuture risks: Blood clot risk.\nLifestyle & follow-up: Evaluate iron stores, inflammatory markers."}
-{"instruction": "Interpret CBC", "input": "Hb 14.5 g/dL, WBC 11.2k/μL, Eosinophils 10%", "output": "Interpretation: Eosinophilia.\nClinical significance: Allergy, asthma, or parasitic infection.\nFuture risks: Chronic inflammation.\nLifestyle & follow-up: Check IgE, treat allergy triggers."}
-{"instruction": "Interpret CBC", "input": "Hb 9.4 g/dL, MCV 65 fL, RBC 4.2M/μL, RDW 22%", "output": "Interpretation: Microcytic, high-RDW anemia.\nClinical significance: Iron deficiency.\nFuture risks: Poor concentration, fatigue.\nLifestyle & follow-up: Iron-rich diet, supplements."}
-{"instruction": "Interpret CBC", "input": "Platelets 68k/μL, Hb 13.1 g/dL", "output": "Interpretation: Moderate thrombocytopenia.\nClinical significance: Likely viral or immune-mediated.\nFuture risks: Bruising, bleeding.\nLifestyle & follow-up: Avoid alcohol/NSAIDs, recheck in 1 week."}
-{"instruction": "Interpret CBC", "input": "Hb 15.2 g/dL, WBC 14.9k/μL, Monocytes 12%", "output": "Interpretation: Monocytosis.\nClinical significance: Chronic inflammation or recovery from infection.\nFuture risks: Rare malignancy risk if persistent.\nLifestyle & follow-up: Repeat CBC in 2–3 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 7.1 g/dL, Platelets 510k/μL, WBC 8.2k/μL", "output": "Interpretation: Severe anemia with thrombocytosis.\nClinical significance: Iron deficiency.\nFuture risks: Tachycardia, fainting.\nLifestyle & follow-up: Iron therapy, assess bleeding."}
-{"instruction": "Interpret CBC", "input": "WBC 17.2k/μL, Lymphocytes 62%", "output": "Interpretation: Lymphocytic leukocytosis.\nClinical significance: Viral infection.\nFuture risks: Temporary fatigue.\nLifestyle & follow-up: Rest and hydration, retest after illness."}
-{"instruction": "Interpret CBC", "input": "Hb 13.9 g/dL, Platelets 465k/μL", "output": "Interpretation: Mild thrombocytosis.\nClinical significance: Could be reactive due to stress.\nFuture risks: Minimal clot risk.\nLifestyle & follow-up: Monitor platelets."}
-{"instruction": "Interpret CBC", "input": "Hb 11.6 g/dL, MCV 95 fL, WBC 3.6k/μL", "output": "Interpretation: Mild anemia with leukopenia.\nClinical significance: Viral suppression or nutrient deficiencies.\nFuture risks: Susceptibility to infections.\nLifestyle & follow-up: Check B12, folate, repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Hb 16.3 g/dL, Hct 53%, WBC 10.1k/μL", "output": "Interpretation: Mild erythrocytosis.\nClinical significance: Dehydration or smoking-related.\nFuture risks: Clot risk.\nLifestyle & follow-up: Improve hydration, consider smoking cessation."}
-{"instruction": "Interpret CBC", "input": "Hb 12.8 g/dL, Platelets 690k/μL", "output": "Interpretation: Thrombocytosis.\nClinical significance: Likely reactive inflammation.\nFuture risks: Thrombosis.\nLifestyle & follow-up: Check CRP/ESR."}
-{"instruction": "Interpret CBC", "input": "Hb 10.3 g/dL, MCV 99 fL", "output": "Interpretation: Borderline macrocytic anemia.\nClinical significance: B12/folate issues.\nFuture risks: Neuropathy.\nLifestyle & follow-up: Evaluate B12 and folate levels."}
-{"instruction": "Interpret CBC", "input": "WBC 2.9k/μL, Lymphocytes 58%", "output": "Interpretation: Leukopenia with relative lymphocytosis.\nClinical significance: Viral infection.\nFuture risks: Fatigue.\nLifestyle & follow-up: Rest, hydration."}
-{"instruction": "Interpret CBC", "input": "Hb 6.9 g/dL, MCV 68 fL", "output": "Interpretation: Severe microcytic anemia.\nClinical significance: Iron deficiency.\nFuture risks: Heart strain.\nLifestyle & follow-up: Iron therapy, check ferritin."}
-{"instruction": "Interpret CBC", "input": "Hb 14.7 g/dL, WBC 12.1k/μL, Eosinophils 9%", "output": "Interpretation: Eosinophilia.\nClinical significance: Allergic reaction.\nFuture risks: Chronic sinus issues.\nLifestyle & follow-up: Identify triggers, consider antihistamines."}
-{"instruction": "Interpret CBC", "input": "Platelets 52k/μL, Hb 13.0 g/dL", "output": "Interpretation: Significant thrombocytopenia.\nClinical significance: Possible ITP.\nFuture risks: Spontaneous bleeding.\nLifestyle & follow-up: Seek hematology evaluation."}
-{"instruction": "Interpret CBC", "input": "WBC 20.0k/μL, Neutrophils 87%", "output": "Interpretation: Severe infection pattern.\nClinical significance: Bacterial infection.\nFuture risks: Sepsis.\nLifestyle & follow-up: Urgent medical care."}
-{"instruction": "Interpret CBC", "input": "Hb 8.8 g/dL, MCV 82 fL, RDW 17%", "output": "Interpretation: Mixed anemia.\nClinical significance: Iron deficiency + chronic disease.\nFuture risks: Progressive fatigue.\nLifestyle & follow-up: Iron studies, evaluate inflammation."}
-{"instruction": "Interpret CBC", "input": "Hb 12.0 g/dL, WBC 12.9k/μL, Platelets 450k/μL", "output": "Interpretation: Reactive blood count pattern.\nClinical significance: Infection/inflammation.\nFuture risks: None major.\nLifestyle & follow-up: Manage infection, repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Hb 17.0 g/dL, RBC 6.9M/μL", "output": "Interpretation: Erythrocytosis.\nClinical significance: Could be PV.\nFuture risks: Stroke.\nLifestyle & follow-up: JAK2 testing."}
-{"instruction": "Interpret CBC", "input": "Hb 9.9 g/dL, MCV 59 fL", "output": "Interpretation: Marked microcytosis.\nClinical significance: Iron deficiency.\nFuture risks: Severe tiredness.\nLifestyle & follow-up: Iron-rich diet."}
-{"instruction": "Interpret CBC", "input": "WBC 4.2k/μL, Platelets 81k/μL", "output": "Interpretation: Leukopenia with thrombocytopenia.\nClinical significance: Viral or bone marrow suppression.\nFuture risks: Infection/bleeding.\nLifestyle & follow-up: Viral panel."}
-{"instruction": "Interpret CBC", "input": "Hb 14.0 g/dL, Eosinophils 11%", "output": "Interpretation: Eosinophilia.\nClinical significance: Allergies.\nFuture risks: Asthma exacerbation.\nLifestyle & follow-up: Allergen avoidance."}
-{"instruction": "Interpret CBC", "input": "Hb 10.2 g/dL, Platelets 155k/μL", "output": "Interpretation: Mild anemia.\nClinical significance: Chronic disease.\nFuture risks: Fatigue.\nLifestyle & follow-up: Evaluate renal and thyroid."}
-{"instruction": "Interpret CBC", "input": "Hb 13.4 g/dL, WBC 22.5k/μL", "output": "Interpretation: Leukocytosis.\nClinical significance: Infection.\nFuture risks: Dehydration.\nLifestyle & follow-up: Manage infection."}
-{"instruction": "Interpret CBC", "input": "Hb 15.6 g/dL, Platelets 502k/μL", "output": "Interpretation: Thrombocytosis.\nClinical significance: Reactive.\nFuture risks: Clot risk.\nLifestyle & follow-up: Monitor."}
-{"instruction": "Interpret CBC", "input": "RBC 3.1M/μL, Hb 10.0 g/dL", "output": "Interpretation: Anemia.\nClinical significance: Nutritional.\nFuture risks: Fatigue.\nLifestyle & follow-up: Iron and B12 check."}
-{"instruction": "Interpret CBC", "input": "Hb 7.5 g/dL, Platelets 600k/μL", "output": "Interpretation: Severe anemia.\nClinical significance: Iron deficiency.\nFuture risks: Collapse.\nLifestyle & follow-up: Iron therapy urgently."}
-{"instruction": "Interpret CBC", "input": "Hb 12.7 g/dL, WBC 1.9k/μL", "output": "Interpretation: Leukopenia.\nClinical significance: Viral or medication.\nFuture risks: Infection.\nLifestyle & follow-up: Review medications."}
-{"instruction": "Interpret CBC", "input": "WBC 18.5k/μL, Monocytes 10%", "output": "Interpretation: Monocytosis.\nClinical significance: Chronic inflammation.\nFuture risks: Rare hematologic issues.\nLifestyle & follow-up: Repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Hb 6.8 g/dL, RDW 24%", "output": "Interpretation: Severe iron deficiency anemia.\nClinical significance: Chronic bleeding.\nFuture risks: Heart failure.\nLifestyle & follow-up: Urgent iron replacement."}
-{"instruction": "Interpret CBC", "input": "Hb 10.7 g/dL, MCHC 28 g/dL", "output": "Interpretation: Hypochromic anemia.\nClinical significance: Iron deficiency.\nFuture risks: Fatigue.\nLifestyle & follow-up: Iron therapy."}
-{"instruction": "Interpret CBC", "input": "Hb 13.9 g/dL, Platelets 89k/μL", "output": "Interpretation: Mild thrombocytopenia.\nClinical significance: Viral.\nFuture risks: Bleeding risk.\nLifestyle & follow-up: Avoid aspirin."}
-{"instruction": "Interpret CBC", "input": "Hb 12.1 g/dL, Basophils 3%", "output": "Interpretation: Basophilia.\nClinical significance: Allergic or inflammatory disorders.\nFuture risks: Chronic pruritus.\nLifestyle & follow-up: Evaluate allergy history."}
-{"instruction": "Interpret CBC", "input": "Hb 16.4 g/dL, WBC 12.8k/μL", "output": "Interpretation: Mild infection + erythrocytosis.\nClinical significance: Stress response.\nFuture risks: Dehydration.\nLifestyle & follow-up: Hydrate."}
-{"instruction": "Interpret CBC", "input": "Hb 10.0 g/dL, Platelets 710k/μL", "output": "Interpretation: Iron deficiency with thrombocytosis.\nClinical significance: Chronic blood loss.\nFuture risks: Clotting.\nLifestyle & follow-up: Investigate bleeding."}
-{"instruction": "Interpret CBC", "input": "Hb 14.2 g/dL, WBC 13.7k/μL", "output": "Interpretation: Infection pattern.\nClinical significance: Bacterial.\nFuture risks: Fever.\nLifestyle & follow-up: Treat infection."}
-{"instruction": "Interpret CBC", "input": "Hb 9.5 g/dL, MCV 90 fL", "output": "Interpretation: Normocytic anemia.\nClinical significance: Chronic disease.\nFuture risks: Poor energy.\nLifestyle & follow-up: Kidney/thyroid evaluation."}
-{"instruction": "Interpret CBC", "input": "Hb 15.9 g/dL, Platelets 540k/μL", "output": "Interpretation: Thrombocytosis.\nClinical significance: Reactive.\nFuture risks: Clots.\nLifestyle & follow-up: CRP, ferritin check."}
-{"instruction": "Interpret CBC", "input": "Hb 12.3 g/dL, WBC 4.1k/μL", "output": "Interpretation: Mild leukopenia.\nClinical significance: Post-viral.\nFuture risks: Infection susceptibility.\nLifestyle & follow-up: Repeat CBC."}
-{"instruction": "Interpret CBC", "input": "Hb 9.2 g/dL, MCV 100 fL", "output": "Interpretation: Macrocytic anemia.\nClinical significance: B12 deficiency.\nFuture risks: Nerve issues.\nLifestyle & follow-up: B12 supplementation."}
-{"instruction": "Interpret CBC", "input": "WBC 30.1k/μL, Neutrophils 92%", "output": "Interpretation: Severe leukocytosis.\nClinical significance: Serious infection.\nFuture risks: Sepsis.\nLifestyle & follow-up: Emergency evaluation."}
-{"instruction": "Interpret CBC", "input": "Hb 7.0 g/dL, Platelets 430k/μL", "output": "Interpretation: Severe anemia.\nClinical significance: Iron deficiency.\nFuture risks: Collapse.\nLifestyle & follow-up: Iron therapy immediately."}
-{"instruction": "Interpret CBC", "input": "Hb 12.5 g/dL, WBC 11.8k/μL", "output": "Interpretation: Mild leukocytosis.\nClinical significance: Infection.\nFuture risks: Fever.\nLifestyle & follow-up: Manage symptoms."}
-{"instruction": "Interpret CBC", "input": "Hb 15.0 g/dL, Platelets 95k/μL", "output": "Interpretation: Mild thrombocytopenia.\nClinical significance: Viral.\nFuture risks: Bruising.\nLifestyle & follow-up: Repeat CBC in 1–2 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 8.9 g/dL, MCV 67 fL, Platelets 445k/μL, WBC 7.2k/μL", "output": "Interpretation: Microcytic anemia with reactive thrombocytosis.\nClinical significance: Classic pattern of iron deficiency anemia.\nFuture risks: Worsening fatigue, palpitations, reduced exercise tolerance.\nLifestyle & follow-up: Start iron supplementation, evaluate menstrual or GI blood loss, recheck CBC in 4 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 13.7 g/dL, WBC 2.8k/μL, ANC 0.9k/μL, Platelets 210k/μL", "output": "Interpretation: Neutropenia with normal hemoglobin and platelets.\nClinical significance: Most commonly due to viral suppression or medication effect.\nFuture risks: Increased risk of bacterial infections.\nLifestyle & follow-up: Review recent infections or drugs, maintain good hygiene, repeat CBC in 1–2 weeks."}
-{"instruction": "Interpret CBC", "input": "Hb 11.5 g/dL, MCV 103 fL, RDW normal, WBC 5.6k/μL", "output": "Interpretation: Mild isolated macrocytosis.\nClinical significance: Possible early folate/B12 deficiency or mild alcohol-related effect.\nFuture risks: Progressive anemia if untreated.\nLifestyle & follow-up: Check serum B12, folate, reduce alcohol intake if applicable."}
-{"instruction": "Interpret CBC", "input": "Hb 14.2 g/dL, WBC 15.6k/μL, Platelets 480k/μL, Neutrophils 82%", "output": "Interpretation: Neutrophilic leukocytosis with reactive thrombocytosis.\nClinical significance: Indicates active bacterial infection or inflammation.\nFuture risks: Dehydration, fever spikes, clot risk if inflammation persists.\nLifestyle & follow-up: Identify infection source, start appropriate therapy, repeat CBC after recovery."}
-{"instruction": "Interpret CBC", "input": "Hb 9.1 g/dL, MCV 88 fL, WBC 9.8k/μL, Platelets 130k/μL", "output": "Interpretation: Normocytic anemia with borderline thrombocytopenia.\nClinical significance: Could be due to chronic disease, early bone marrow suppression, or infection.\nFuture risks: Worsening anemia and increased bleeding tendency.\nLifestyle & follow-up: Check kidney function, thyroid panel, ferritin, and consider viral testing; monitor CBC."}
-
-
-
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 24 years. Hb 12.8 g/dL, Hct 38%, RBC 4.3 M/µL, WBC 6.5 k/µL, Platelets 260 k/µL, MCV 88 fL, MCH 29 pg.",
+  "output": "Interpretation:\nThe CBC values are within normal limits.\n\nClinical Significance:\nThis indicates healthy red blood cells, white blood cells, and platelets.\n\nPossible Causes:\nNo abnormalities detected.\n\nFuture Risks:\nNo immediate risks based on this report.\n\nLifestyle & Follow-up:\nMaintain a balanced diet and routine health checkups."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 22 years. Hb 8.6 g/dL, Hct 27%, RBC 3.1 M/µL, MCV 68 fL, MCH 22 pg, RDW 18%, Platelets 480 k/µL.",
+  "output": "Interpretation:\nThe report shows microcytic anemia with elevated RDW and platelet count.\n\nClinical Significance:\nThese findings strongly suggest iron deficiency anemia.\n\nPossible Causes:\nLow dietary iron intake, menstrual blood loss, or poor iron absorption.\n\nFuture Risks:\nFatigue, breathlessness, and reduced concentration if untreated.\n\nLifestyle & Follow-up:\nIncrease iron-rich foods, test serum ferritin, and repeat CBC after treatment."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 35 years. WBC 15.2 k/µL, Neutrophils 82%, Hb 14.2 g/dL, Platelets 300 k/µL.",
+  "output": "Interpretation:\nElevated white blood cells with neutrophil predominance.\n\nClinical Significance:\nThis pattern is commonly associated with acute bacterial infection or inflammation.\n\nPossible Causes:\nBacterial infection, physical stress, or inflammation.\n\nFuture Risks:\nProgression of infection if untreated.\n\nLifestyle & Follow-up:\nSeek medical evaluation, stay hydrated, and repeat CBC after recovery."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. Hb 9.9 g/dL, MCV 104 fL, RBC 3.2 M/µL, Platelets 190 k/µL.",
+  "output": "Interpretation:\nMacrocytic anemia is present.\n\nClinical Significance:\nThis suggests a deficiency affecting red blood cell maturation.\n\nPossible Causes:\nVitamin B12 deficiency, folate deficiency, or liver disease.\n\nFuture Risks:\nNeurological symptoms if B12 deficiency persists.\n\nLifestyle & Follow-up:\nCheck vitamin B12 and folate levels and improve dietary intake."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. WBC 3.0 k/µL, Neutrophils 30%, ANC 0.9 k/µL, Hb 13.0 g/dL.",
+  "output": "Interpretation:\nReduced white blood cell count with neutropenia.\n\nClinical Significance:\nThis may reduce the body's ability to fight infections.\n\nPossible Causes:\nRecent viral infection or medication effect.\n\nFuture Risks:\nHigher susceptibility to infections.\n\nLifestyle & Follow-up:\nMaintain hygiene, avoid exposure to illness, and repeat CBC in 1–2 weeks."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 40 years. Platelets 95 k/µL, Hb 14.0 g/dL, WBC 6.2 k/µL.",
+  "output": "Interpretation:\nLow platelet count is noted.\n\nClinical Significance:\nThis can increase bleeding tendency.\n\nPossible Causes:\nViral illness, immune-related platelet destruction, or medication effects.\n\nFuture Risks:\nEasy bruising or bleeding.\n\nLifestyle & Follow-up:\nAvoid NSAIDs, monitor bleeding symptoms, and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. Hb 17.2 g/dL, Hct 54%, RBC 6.1 M/µL.",
+  "output": "Interpretation:\nElevated hemoglobin and hematocrit indicate erythrocytosis.\n\nClinical Significance:\nBlood may become thicker than normal.\n\nPossible Causes:\nDehydration, smoking, or sleep apnea.\n\nFuture Risks:\nIncreased risk of blood clots.\n\nLifestyle & Follow-up:\nImprove hydration, stop smoking, and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. Hb 10.8 g/dL, MCV 90 fL, Reticulocyte count low.",
+  "output": "Interpretation:\nNormocytic anemia with reduced red cell production.\n\nClinical Significance:\nOften seen in chronic medical conditions.\n\nPossible Causes:\nChronic inflammation, kidney disease, or autoimmune disorders.\n\nFuture Risks:\nPersistent fatigue.\n\nLifestyle & Follow-up:\nEvaluate kidney function and inflammatory markers."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 21 years. WBC 12.8 k/µL, Lymphocytes 65%, Hb 13.5 g/dL.",
+  "output": "Interpretation:\nElevated lymphocyte count.\n\nClinical Significance:\nCommonly associated with viral infections.\n\nPossible Causes:\nRecent viral illness or immune response.\n\nFuture Risks:\nUsually self-limiting.\n\nLifestyle & Follow-up:\nRest well and repeat CBC if symptoms persist."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. Hb 9.5 g/dL, WBC 2.8 k/µL, Platelets 90 k/µL.",
+  "output": "Interpretation:\nReduction in red cells, white cells, and platelets.\n\nClinical Significance:\nThis suggests bone marrow suppression.\n\nPossible Causes:\nNutritional deficiency, medication effect, or marrow disorder.\n\nFuture Risks:\nInfection, anemia-related fatigue, and bleeding.\n\nLifestyle & Follow-up:\nUrgent medical evaluation and repeat testing required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 30 years. Hb 11.2 g/dL, Hct 34%, RBC 3.9 M/µL, MCV 86 fL.",
+  "output": "Interpretation:\nMild anemia is present.\n\nClinical Significance:\nHemoglobin is slightly below the normal range.\n\nPossible Causes:\nEarly iron deficiency or recent illness.\n\nFuture Risks:\nFatigue if levels decline further.\n\nLifestyle & Follow-up:\nImprove nutrition and repeat CBC in 3 months."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 48 years. Hb 6.9 g/dL, RBC 2.6 M/µL, Hct 22%, MCV 70 fL.",
+  "output": "Interpretation:\nSevere microcytic anemia is observed.\n\nClinical Significance:\nOxygen-carrying capacity of blood is significantly reduced.\n\nPossible Causes:\nChronic blood loss or severe iron deficiency.\n\nFuture Risks:\nShortness of breath and cardiovascular strain.\n\nLifestyle & Follow-up:\nUrgent medical evaluation and iron studies recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. Platelets 520 k/µL, Hb 12.0 g/dL, WBC 8.0 k/µL.",
+  "output": "Interpretation:\nElevated platelet count is noted.\n\nClinical Significance:\nThis may represent a reactive process.\n\nPossible Causes:\nRecent infection, inflammation, or iron deficiency.\n\nFuture Risks:\nUsually low risk if temporary.\n\nLifestyle & Follow-up:\nRepeat CBC and evaluate inflammatory markers."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 42 years. WBC 3.5 k/µL, Hb 14.1 g/dL, Platelets 210 k/µL.",
+  "output": "Interpretation:\nLow white blood cell count is present.\n\nClinical Significance:\nThis may affect immune defense.\n\nPossible Causes:\nRecent viral infection or medication effects.\n\nFuture Risks:\nIncreased susceptibility to infection.\n\nLifestyle & Follow-up:\nMonitor symptoms and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 29 years. WBC 13.8 k/µL, Neutrophils 78%, Hb 15.0 g/dL.",
+  "output": "Interpretation:\nElevated WBC with neutrophilia.\n\nClinical Significance:\nThis can occur during physical or emotional stress.\n\nPossible Causes:\nStress response or acute inflammation.\n\nFuture Risks:\nUsually temporary.\n\nLifestyle & Follow-up:\nRest and repeat CBC if symptoms continue."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 26 years. Hb 12.4 g/dL, MCV 76 fL, RBC 5.0 M/µL.",
+  "output": "Interpretation:\nMicrocytosis without anemia.\n\nClinical Significance:\nRed cells are smaller than normal.\n\nPossible Causes:\nIron deficiency or thalassemia trait.\n\nFuture Risks:\nMay progress to anemia.\n\nLifestyle & Follow-up:\nCheck iron studies and family history."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. Hb 11.8 g/dL, RDW 19%, MCV 85 fL.",
+  "output": "Interpretation:\nAnemia with increased red cell size variation.\n\nClinical Significance:\nSuggests mixed or evolving anemia.\n\nPossible Causes:\nIron or vitamin deficiency.\n\nFuture Risks:\nProgressive anemia.\n\nLifestyle & Follow-up:\nEvaluate iron and vitamin B12 levels."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. Platelets 145 k/µL, Hb 13.2 g/dL.",
+  "output": "Interpretation:\nPlatelet count is slightly below normal.\n\nClinical Significance:\nUsually clinically insignificant if asymptomatic.\n\nPossible Causes:\nLab variation or mild viral illness.\n\nFuture Risks:\nLow risk.\n\nLifestyle & Follow-up:\nRepeat CBC if bruising occurs."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 27 years. Eosinophils 9%, WBC 8.2 k/µL.",
+  "output": "Interpretation:\nElevated eosinophil count.\n\nClinical Significance:\nAssociated with allergic or parasitic conditions.\n\nPossible Causes:\nAllergy, asthma, or parasitic infection.\n\nFuture Risks:\nUsually low if mild.\n\nLifestyle & Follow-up:\nEvaluate allergy history and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. Basophils 2.5%, WBC 9.0 k/µL.",
+  "output": "Interpretation:\nIncreased basophil count.\n\nClinical Significance:\nMay be associated with chronic inflammation.\n\nPossible Causes:\nAllergic conditions or endocrine disorders.\n\nFuture Risks:\nGenerally low.\n\nLifestyle & Follow-up:\nMonitor symptoms and repeat testing if needed."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 33 years. WBC 4.5 k/µL, Neutrophils 40%, Lymphocytes 48%.",
+  "output": "Interpretation:\nCBC shows recovery phase pattern.\n\nClinical Significance:\nCommon after recent infection.\n\nPossible Causes:\nPost-viral immune response.\n\nFuture Risks:\nNone expected.\n\nLifestyle & Follow-up:\nMaintain hydration and rest."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. Hb 16.1 g/dL, Hct 49%, RBC 5.7 M/µL.",
+  "output": "Interpretation:\nElevated hemoglobin and hematocrit.\n\nClinical Significance:\nLikely due to dehydration.\n\nPossible Causes:\nReduced fluid intake or fluid loss.\n\nFuture Risks:\nTemporary blood thickening.\n\nLifestyle & Follow-up:\nIncrease hydration and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 28 years (pregnant). Hb 10.9 g/dL, MCV 88 fL.",
+  "output": "Interpretation:\nMild normocytic anemia.\n\nClinical Significance:\nCommon during pregnancy due to hemodilution.\n\nPossible Causes:\nIncreased plasma volume.\n\nFuture Risks:\nFatigue if worsens.\n\nLifestyle & Follow-up:\nEnsure adequate nutrition and prenatal follow-up."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 39 years (smoker). Hb 16.8 g/dL, RBC 5.9 M/µL.",
+  "output": "Interpretation:\nElevated red blood cell parameters.\n\nClinical Significance:\nMay reflect chronic hypoxia from smoking.\n\nPossible Causes:\nLong-term tobacco exposure.\n\nFuture Risks:\nIncreased cardiovascular risk.\n\nLifestyle & Follow-up:\nSmoking cessation and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. Hb 11.5 g/dL, WBC 4.8 k/µL, Platelets 180 k/µL.",
+  "output": "Interpretation:\nCBC parameters show recovery trend.\n\nClinical Significance:\nBlood counts are improving.\n\nPossible Causes:\nRecovery after illness or treatment.\n\nFuture Risks:\nLow.\n\nLifestyle & Follow-up:\nContinue monitoring and healthy lifestyle."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. WBC 11.5 k/µL, Neutrophils 65%.",
+  "output": "Interpretation:\nMild elevation in white blood cell count.\n\nClinical Significance:\nMay indicate chronic inflammation.\n\nPossible Causes:\nSmoking, obesity, or chronic stress.\n\nFuture Risks:\nLow if stable.\n\nLifestyle & Follow-up:\nAddress risk factors and periodic CBC monitoring."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 31 years. Hb 11.9 g/dL, MCHC 30 g/dL.",
+  "output": "Interpretation:\nLow mean corpuscular hemoglobin concentration.\n\nClinical Significance:\nRed cells contain less hemoglobin than normal.\n\nPossible Causes:\nIron deficiency.\n\nFuture Risks:\nWorsening anemia.\n\nLifestyle & Follow-up:\nDietary iron intake and iron studies recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 24 years. WBC 10.9 k/µL, Neutrophils 70%, CRP pending.",
+  "output": "Interpretation:\nBorderline leukocytosis with neutrophil predominance.\n\nClinical Significance:\nMay suggest early infection.\n\nPossible Causes:\nAcute inflammatory response.\n\nFuture Risks:\nProgression if untreated.\n\nLifestyle & Follow-up:\nClinical correlation and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 68 years. Hb 11.6 g/dL, RBC 3.8 M/µL.",
+  "output": "Interpretation:\nMild anemia in older adult.\n\nClinical Significance:\nCommon with aging.\n\nPossible Causes:\nNutritional deficiency or chronic disease.\n\nFuture Risks:\nReduced physical stamina.\n\nLifestyle & Follow-up:\nNutritional assessment and monitoring."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years (post-surgery). Hb 10.4 g/dL, WBC 9.8 k/µL.",
+  "output": "Interpretation:\nMild anemia with normal white cell count.\n\nClinical Significance:\nLikely postoperative blood loss.\n\nPossible Causes:\nRecent surgical procedure.\n\nFuture Risks:\nTemporary fatigue.\n\nLifestyle & Follow-up:\nAdequate nutrition and follow-up CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. Hb 10.6 g/dL, RBC 3.7 M/µL, MCV 90 fL, MCHC 33 g/dL.",
+  "output": "Interpretation:\nNormocytic normochromic anemia is present.\n\nClinical Significance:\nRed blood cells are normal in size and hemoglobin content, but reduced in number.\n\nPossible Causes:\nChronic disease, kidney impairment, or recent blood loss.\n\nFuture Risks:\nPersistent fatigue and reduced exercise tolerance.\n\nLifestyle & Follow-up:\nEvaluate renal function and inflammatory markers."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 21 years. Hb 11.7 g/dL, MCV 82 fL, RDW 17.5%.",
+  "output": "Interpretation:\nEarly-stage anemia with increased red cell size variation.\n\nClinical Significance:\nMay represent early iron deficiency before severe anemia develops.\n\nPossible Causes:\nLow dietary iron or menstrual blood loss.\n\nFuture Risks:\nProgression to overt anemia.\n\nLifestyle & Follow-up:\nIron-rich diet and ferritin testing recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. WBC 18.4 k/µL, Neutrophils 88%, Bands present.",
+  "output": "Interpretation:\nMarked leukocytosis with neutrophil predominance.\n\nClinical Significance:\nStrongly suggests acute bacterial infection or inflammation.\n\nPossible Causes:\nBacterial infection or tissue injury.\n\nFuture Risks:\nSystemic infection if untreated.\n\nLifestyle & Follow-up:\nImmediate medical evaluation advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 19 years. WBC 9.2 k/µL, Lymphocytes 58%, Atypical lymphocytes noted.",
+  "output": "Interpretation:\nRelative lymphocytosis with atypical lymphocytes.\n\nClinical Significance:\nCommonly seen in viral infections.\n\nPossible Causes:\nRecent viral illness.\n\nFuture Risks:\nTypically self-limiting.\n\nLifestyle & Follow-up:\nRest, hydration, and clinical monitoring."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. Hb 10.2 g/dL, WBC 3.9 k/µL, Platelets 130 k/µL.",
+  "output": "Interpretation:\nReduction in all three blood cell lines.\n\nClinical Significance:\nMay indicate early bone marrow suppression.\n\nPossible Causes:\nMedication effect, nutritional deficiency, or marrow disorder.\n\nFuture Risks:\nInfection and bleeding risk.\n\nLifestyle & Follow-up:\nPrompt hematology consultation recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 27 years. Hb 11.9 g/dL, MCV 68 fL, RBC 5.6 M/µL, RDW normal.",
+  "output": "Interpretation:\nMicrocytosis with relatively preserved hemoglobin.\n\nClinical Significance:\nPattern suggests thalassemia trait rather than iron deficiency.\n\nPossible Causes:\nInherited hemoglobin disorder.\n\nFuture Risks:\nGenerally asymptomatic.\n\nLifestyle & Follow-up:\nHemoglobin electrophoresis may be considered."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. Hb 9.8 g/dL, MCV 92 fL, Known CKD.",
+  "output": "Interpretation:\nNormocytic anemia in a patient with kidney disease.\n\nClinical Significance:\nReduced erythropoietin production.\n\nPossible Causes:\nChronic kidney disease.\n\nFuture Risks:\nProgressive anemia.\n\nLifestyle & Follow-up:\nRenal management and anemia monitoring required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 44 years. Platelets 85 k/µL, WBC 4.1 k/µL, ANA positive.",
+  "output": "Interpretation:\nIsolated thrombocytopenia.\n\nClinical Significance:\nMay be immune-mediated.\n\nPossible Causes:\nAutoimmune platelet destruction.\n\nFuture Risks:\nBleeding tendencies.\n\nLifestyle & Follow-up:\nRheumatology and hematology follow-up advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. WBC 2.1 k/µL, ANC 0.7 k/µL, Hb 10.5 g/dL.",
+  "output": "Interpretation:\nLeukopenia with neutropenia.\n\nClinical Significance:\nReduced immune defense.\n\nPossible Causes:\nBone marrow suppression after chemotherapy.\n\nFuture Risks:\nHigh infection risk.\n\nLifestyle & Follow-up:\nInfection precautions and urgent monitoring required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 32 years (pregnant). WBC 13.0 k/µL, Neutrophils 72%.",
+  "output": "Interpretation:\nMild leukocytosis during pregnancy.\n\nClinical Significance:\nPhysiological response in pregnancy.\n\nPossible Causes:\nHormonal and immune changes.\n\nFuture Risks:\nNone if asymptomatic.\n\nLifestyle & Follow-up:\nRoutine prenatal follow-up."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 28 years. Hb 15.8 g/dL, Hct 50%, Clinical dehydration present.",
+  "output": "Interpretation:\nElevated hemoglobin due to hemoconcentration.\n\nClinical Significance:\nUnderlying anemia may be masked.\n\nPossible Causes:\nDehydration.\n\nFuture Risks:\nMisinterpretation of blood status.\n\nLifestyle & Follow-up:\nRehydrate and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. Hb 12.1 g/dL, MCV 102 fL, Known alcohol use.",
+  "output": "Interpretation:\nMacrocytosis with mild anemia.\n\nClinical Significance:\nCommon in chronic alcohol use.\n\nPossible Causes:\nAlcohol-induced marrow changes or folate deficiency.\n\nFuture Risks:\nProgressive anemia.\n\nLifestyle & Follow-up:\nReduce alcohol intake and assess vitamin levels."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 53 years. Hb 11.0 g/dL, MCV 88 fL, ESR elevated.",
+  "output": "Interpretation:\nNormocytic anemia.\n\nClinical Significance:\nLikely anemia of chronic inflammation.\n\nPossible Causes:\nAutoimmune or inflammatory disease.\n\nFuture Risks:\nPersistent fatigue.\n\nLifestyle & Follow-up:\nManage underlying condition."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 71 years. Hb 9.9 g/dL, MCV 105 fL, Platelets 140 k/µL.",
+  "output": "Interpretation:\nMacrocytic anemia with borderline thrombocytopenia.\n\nClinical Significance:\nMay indicate bone marrow dysregulation.\n\nPossible Causes:\nAge-related marrow changes or vitamin deficiency.\n\nFuture Risks:\nProgressive cytopenias.\n\nLifestyle & Follow-up:\nHematology evaluation recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 37 years. Hb 9.2 g/dL, RBC 3.1 M/µL, Recent surgery noted.",
+  "output": "Interpretation:\nAnemia consistent with recent blood loss.\n\nClinical Significance:\nReduced circulating red blood cells.\n\nPossible Causes:\nSurgical bleeding.\n\nFuture Risks:\nDelayed recovery.\n\nLifestyle & Follow-up:\nMonitor hemoglobin and ensure adequate nutrition."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 26 years. Eosinophils 11%, WBC 7.8 k/µL, History of asthma.",
+  "output": "Interpretation:\nMarked eosinophilia.\n\nClinical Significance:\nAssociated with allergic conditions.\n\nPossible Causes:\nAsthma or allergic response.\n\nFuture Risks:\nExacerbation of symptoms.\n\nLifestyle & Follow-up:\nAvoid triggers and follow allergy management plan."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 33 years. Hb increased from 9.8 to 11.6 g/dL in 6 weeks.",
+  "output": "Interpretation:\nImproving hemoglobin levels.\n\nClinical Significance:\nSuggests positive response to therapy.\n\nPossible Causes:\nCorrection of iron deficiency.\n\nFuture Risks:\nLow if improvement continues.\n\nLifestyle & Follow-up:\nContinue treatment and monitor CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 59 years. Platelets 110 k/µL, WBC 4.0 k/µL, Enlarged spleen noted.",
+  "output": "Interpretation:\nCytopenias associated with splenic sequestration.\n\nClinical Significance:\nBlood cells may be trapped in enlarged spleen.\n\nPossible Causes:\nChronic liver disease or hematologic condition.\n\nFuture Risks:\nBleeding risk.\n\nLifestyle & Follow-up:\nFurther imaging and specialist consultation."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 61 years. Hb 10.9 g/dL, WBC 3.6 k/µL, Platelets 95 k/µL.",
+  "output": "Interpretation:\nPancytopenia pattern.\n\nClinical Significance:\nSuggests hypersplenism.\n\nPossible Causes:\nPortal hypertension or chronic liver disease.\n\nFuture Risks:\nBleeding and infection.\n\nLifestyle & Follow-up:\nHepatic evaluation recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 31 years. WBC decreased from 14.5 to 8.6 k/µL.",
+  "output": "Interpretation:\nNormalizing white blood cell count.\n\nClinical Significance:\nIndicates recovery phase.\n\nPossible Causes:\nResolution of infection.\n\nFuture Risks:\nLow.\n\nLifestyle & Follow-up:\nComplete recovery expected."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 45 years. Hb stable at 11.2 g/dL for 1 year.",
+  "output": "Interpretation:\nChronic mild anemia.\n\nClinical Significance:\nLong-standing reduced hemoglobin.\n\nPossible Causes:\nChronic disease or nutritional deficiency.\n\nFuture Risks:\nLow if stable.\n\nLifestyle & Follow-up:\nRegular monitoring and dietary optimization."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. WBC 10.8 k/µL, Neutrophils 62%.",
+  "output": "Interpretation:\nBorderline elevated white blood cell count.\n\nClinical Significance:\nMay be reactive.\n\nPossible Causes:\nStress or mild infection.\n\nFuture Risks:\nUsually minimal.\n\nLifestyle & Follow-up:\nObserve and repeat CBC if symptoms develop."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 66 years. Lymphocytes 52%, WBC 9.5 k/µL.",
+  "output": "Interpretation:\nPersistent lymphocytosis.\n\nClinical Significance:\nRequires monitoring.\n\nPossible Causes:\nChronic immune stimulation.\n\nFuture Risks:\nProgression possible.\n\nLifestyle & Follow-up:\nRegular hematologic follow-up advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years (postpartum). Hb 9.7 g/dL, MCV 86 fL.",
+  "output": "Interpretation:\nPostpartum anemia.\n\nClinical Significance:\nCommon after delivery.\n\nPossible Causes:\nBlood loss during childbirth.\n\nFuture Risks:\nFatigue.\n\nLifestyle & Follow-up:\nIron-rich diet and follow-up CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. WBC 3.2 k/µL, Platelets 120 k/µL, On chemotherapy.",
+  "output": "Interpretation:\nReduced white cells and platelets.\n\nClinical Significance:\nDrug-induced marrow suppression.\n\nPossible Causes:\nChemotherapeutic agents.\n\nFuture Risks:\nInfection and bleeding.\n\nLifestyle & Follow-up:\nClose monitoring required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 57 years. Hb 17.5 g/dL, RBC 6.0 M/µL, Ferritin elevated.",
+  "output": "Interpretation:\nElevated hemoglobin and red cell count.\n\nClinical Significance:\nMay indicate iron overload.\n\nPossible Causes:\nGenetic or secondary iron excess.\n\nFuture Risks:\nOrgan damage if untreated.\n\nLifestyle & Follow-up:\nSpecialist evaluation recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. Hb 10.5 g/dL, WBC 11.8 k/µL, ESR elevated.",
+  "output": "Interpretation:\nAnemia with elevated inflammatory markers.\n\nClinical Significance:\nSuggests chronic infection or inflammation.\n\nPossible Causes:\nPersistent inflammatory condition.\n\nFuture Risks:\nProgressive anemia.\n\nLifestyle & Follow-up:\nIdentify and manage underlying cause."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 23 years. CBC within normal limits, persistent fatigue.",
+  "output": "Interpretation:\nNormal CBC.\n\nClinical Significance:\nBlood counts do not explain symptoms.\n\nPossible Causes:\nPost-viral fatigue syndrome.\n\nFuture Risks:\nNone indicated.\n\nLifestyle & Follow-up:\nGradual activity increase and rest."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. MCV 98 fL, Hb 12.6 g/dL.",
+  "output": "Interpretation:\nBorderline increase in red cell size.\n\nClinical Significance:\nMay be early macrocytosis.\n\nPossible Causes:\nAlcohol intake or vitamin deficiency.\n\nFuture Risks:\nProgression if untreated.\n\nLifestyle & Follow-up:\nAssess vitamin levels."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 25 years (athlete). Hb 15.9 g/dL, RBC 5.5 M/µL.",
+  "output": "Interpretation:\nCBC parameters within high-normal range.\n\nClinical Significance:\nCommon in physically active individuals.\n\nPossible Causes:\nPhysiological adaptation to training.\n\nFuture Risks:\nNone.\n\nLifestyle & Follow-up:\nMaintain hydration and routine monitoring."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. Hb 7.8 g/dL, RBC 3.0 M/µL, MCV 68 fL, RDW 19.8%.",
+  "output": "Interpretation:\nSevere microcytic anemia with marked red cell size variation.\n\nClinical Significance:\nLow hemoglobin and small red blood cells indicate reduced oxygen-carrying capacity.\n\nPossible Causes:\nChronic iron deficiency due to inadequate intake, malabsorption, or blood loss.\n\nPotential Risks:\nSevere fatigue, shortness of breath, and reduced work capacity.\n\nLifestyle & Follow-up:\nUrgent medical evaluation, iron studies, and dietary optimization are advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 29 years. WBC 11.6 k/µL, Neutrophils 70%, No fever reported.",
+  "output": "Interpretation:\nMild elevation in white blood cell count.\n\nClinical Significance:\nSuggests a reactive physiological response rather than severe pathology.\n\nPossible Causes:\nRecent stress, mild infection, or inflammation.\n\nPotential Risks:\nUsually minimal if transient.\n\nLifestyle & Follow-up:\nRepeat CBC if symptoms persist or worsen."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 56 years. Hb 10.8 g/dL, MCV 108 fL, MCH elevated.",
+  "output": "Interpretation:\nMacrocytic anemia with increased red blood cell size.\n\nClinical Significance:\nLarge red blood cells may indicate impaired DNA synthesis.\n\nPossible Causes:\nVitamin B12 or folate deficiency, liver disease, or alcohol use.\n\nPotential Risks:\nNeurological symptoms if vitamin deficiency remains untreated.\n\nLifestyle & Follow-up:\nAssess vitamin levels and liver function."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 48 years. Platelets 520 k/µL, Hb normal, WBC normal.",
+  "output": "Interpretation:\nIsolated elevation in platelet count.\n\nClinical Significance:\nMay represent reactive thrombocytosis.\n\nPossible Causes:\nInflammation, iron deficiency, or recent surgery.\n\nPotential Risks:\nIncreased clotting tendency if persistent.\n\nLifestyle & Follow-up:\nEvaluate inflammatory markers and repeat CBC."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 37 years. WBC 3.5 k/µL, Neutrophils 52%, Hb normal.",
+  "output": "Interpretation:\nMild reduction in white blood cell count.\n\nClinical Significance:\nImmune cell levels slightly below reference range.\n\nPossible Causes:\nRecent viral infection or medication effect.\n\nPotential Risks:\nIncreased infection risk if counts fall further.\n\nLifestyle & Follow-up:\nMonitor counts and review medication history."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. Hb 11.0 g/dL, MCV 86 fL, CRP elevated.",
+  "output": "Interpretation:\nNormocytic normochromic anemia.\n\nClinical Significance:\nAnemia likely related to chronic inflammatory processes.\n\nPossible Causes:\nChronic infection, autoimmune disease, or malignancy.\n\nPotential Risks:\nReduced physical endurance and quality of life.\n\nLifestyle & Follow-up:\nAddress underlying inflammatory condition."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 42 years. Hb 17.2 g/dL, Hct 52%, History of smoking.",
+  "output": "Interpretation:\nElevated hemoglobin and hematocrit.\n\nClinical Significance:\nIncreased red cell concentration.\n\nPossible Causes:\nSmoking-related hypoxia or dehydration.\n\nPotential Risks:\nIncreased blood viscosity.\n\nLifestyle & Follow-up:\nSmoking cessation and hydration recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. Hb 12.0 g/dL, MCV 100 fL, Tingling sensation reported.",
+  "output": "Interpretation:\nBorderline macrocytosis with neurological symptoms.\n\nClinical Significance:\nEarly vitamin B12 deficiency suspected.\n\nPossible Causes:\nDietary insufficiency or malabsorption.\n\nPotential Risks:\nProgressive nerve damage if untreated.\n\nLifestyle & Follow-up:\nVitamin B12 testing advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 35 years. WBC 12.2 k/µL, Neutrophils 78%, Lymphocytes reduced.",
+  "output": "Interpretation:\nNeutrophil-predominant leukocytosis.\n\nClinical Significance:\nPattern consistent with physiological stress response.\n\nPossible Causes:\nAcute stress, trauma, or corticosteroid exposure.\n\nPotential Risks:\nTypically transient.\n\nLifestyle & Follow-up:\nRe-evaluate after stress resolution."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 24 years. Hb 10.2 g/dL, MCHC 30 g/dL, MCV 75 fL.",
+  "output": "Interpretation:\nHypochromic microcytic anemia.\n\nClinical Significance:\nRed cells contain less hemoglobin than normal.\n\nPossible Causes:\nIron deficiency.\n\nPotential Risks:\nFatigue and impaired concentration.\n\nLifestyle & Follow-up:\nIron studies and nutritional counseling recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Platelets 145 k/µL, Hb normal, WBC normal.",
+  "output": "Interpretation:\nPlatelet count at the lower limit of normal.\n\nClinical Significance:\nOften clinically insignificant if stable.\n\nPossible Causes:\nLaboratory variation or mild viral illness.\n\nPotential Risks:\nLow bleeding risk.\n\nLifestyle & Follow-up:\nPeriodic monitoring advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 39 years. ANC 1.4 k/µL, Asymptomatic.",
+  "output": "Interpretation:\nMild neutropenia.\n\nClinical Significance:\nReduced neutrophil reserve.\n\nPossible Causes:\nBenign ethnic neutropenia or medication effect.\n\nPotential Risks:\nLow infection risk if stable.\n\nLifestyle & Follow-up:\nRoutine follow-up sufficient."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 27 years. Eosinophils 9%, Recent allergic symptoms.",
+  "output": "Interpretation:\nModerate eosinophilia.\n\nClinical Significance:\nCommon in allergic conditions.\n\nPossible Causes:\nAllergic rhinitis or asthma.\n\nPotential Risks:\nSymptom recurrence.\n\nLifestyle & Follow-up:\nAllergen avoidance and monitoring."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 31 years (pregnant). Hb 10.9 g/dL, MCV normal.",
+  "output": "Interpretation:\nMild anemia of pregnancy.\n\nClinical Significance:\nPlasma volume expansion leads to dilutional effect.\n\nPossible Causes:\nPhysiological changes in pregnancy.\n\nPotential Risks:\nUsually minimal.\n\nLifestyle & Follow-up:\nRoutine prenatal monitoring."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. Hb 11.8 g/dL improving from 9.5 g/dL.",
+  "output": "Interpretation:\nImproving anemia.\n\nClinical Significance:\nIndicates recovery process.\n\nPossible Causes:\nPost-treatment response.\n\nPotential Risks:\nLow if trend continues.\n\nLifestyle & Follow-up:\nContinue monitoring until normalization."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. Hb 12.6 g/dL, WBC 4.2 k/µL, Platelets 180 k/µL. Recently recovered from viral illness.",
+  "output": "Interpretation:\nCBC parameters are within lower-normal limits.\n\nClinical Significance:\nCounts suggest bone marrow recovery following recent infection.\n\nPossible Causes:\nTransient bone marrow suppression during viral illness.\n\nPotential Risks:\nMinimal if counts continue to normalize.\n\nLifestyle & Follow-up:\nBalanced nutrition and repeat CBC if symptoms recur."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. Hb 13.4 g/dL, MCV 104 fL, Normal B12 levels. History of alcohol use.",
+  "output": "Interpretation:\nIsolated macrocytosis without anemia.\n\nClinical Significance:\nEnlarged red blood cells suggest altered erythropoiesis.\n\nPossible Causes:\nChronic alcohol consumption affecting marrow function.\n\nPotential Risks:\nProgression to anemia or liver-related complications.\n\nLifestyle & Follow-up:\nAlcohol reduction and liver function monitoring advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 28 years. WBC 14.8 k/µL, Neutrophils 82%, Fever present.",
+  "output": "Interpretation:\nMarked leukocytosis with neutrophil predominance.\n\nClinical Significance:\nPattern strongly suggests acute bacterial infection.\n\nPossible Causes:\nLocalized or systemic bacterial illness.\n\nPotential Risks:\nRisk of systemic spread if untreated.\n\nLifestyle & Follow-up:\nPrompt medical evaluation and treatment required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 28 years. WBC 14.8 k/µL, Neutrophils 82%, Fever present.",
+  "output": "Interpretation:\nMarked leukocytosis with neutrophil predominance.\n\nClinical Significance:\nPattern strongly suggests acute bacterial infection.\n\nPossible Causes:\nLocalized or systemic bacterial illness.\n\nPotential Risks:\nRisk of systemic spread if untreated.\n\nLifestyle & Follow-up:\nPrompt medical evaluation and treatment required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. Platelets 580 k/µL, Post-operative status, Hb normal.",
+  "output": "Interpretation:\nMarked elevation in platelet count.\n\nClinical Significance:\nLikely reactive thrombocytosis.\n\nPossible Causes:\nRecent surgery and inflammatory response.\n\nPotential Risks:\nTemporary increased clotting risk.\n\nLifestyle & Follow-up:\nPlatelet counts usually normalize over weeks."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. Hb 10.6 g/dL, MCV 88 fL, Known CKD.",
+  "output": "Interpretation:\nNormocytic normochromic anemia.\n\nClinical Significance:\nReduced erythropoietin production.\n\nPossible Causes:\nChronic kidney disease.\n\nPotential Risks:\nReduced exercise tolerance and fatigue.\n\nLifestyle & Follow-up:\nNephrology-guided anemia management recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. Hb 11.2 g/dL, WBC 3.9 k/µL, Platelets 135 k/µL.",
+  "output": "Interpretation:\nMild reduction across all blood cell lines.\n\nClinical Significance:\nSuggests generalized bone marrow suppression.\n\nPossible Causes:\nMedication effect or viral infection.\n\nPotential Risks:\nLow but requires monitoring.\n\nLifestyle & Follow-up:\nRepeat CBC and clinical correlation advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 30 years. Hb 17.8 g/dL, Hct 54%, Recent vomiting reported.",
+  "output": "Interpretation:\nElevated hemoglobin and hematocrit.\n\nClinical Significance:\nSuggests hemoconcentration.\n\nPossible Causes:\nDehydration due to fluid loss.\n\nPotential Risks:\nTemporary increased blood viscosity.\n\nLifestyle & Follow-up:\nAdequate hydration and reassessment recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 19 years. WBC 10.9 k/µL, Lymphocytes 48%, Sore throat present.",
+  "output": "Interpretation:\nRelative lymphocytosis.\n\nClinical Significance:\nCommon in viral infections.\n\nPossible Causes:\nUpper respiratory viral illness.\n\nPotential Risks:\nUsually self-limiting.\n\nLifestyle & Follow-up:\nSymptomatic care and rest advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. Hb 9.4 g/dL, MCV 70 fL, Platelets 480 k/µL.",
+  "output": "Interpretation:\nMicrocytic anemia with elevated platelet count.\n\nClinical Significance:\nIron deficiency affecting erythropoiesis.\n\nPossible Causes:\nChronic blood loss.\n\nPotential Risks:\nFatigue and clotting imbalance.\n\nLifestyle & Follow-up:\nIron replacement and cause evaluation required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 78 years. Hb 12.1 g/dL, MCV normal.",
+  "output": "Interpretation:\nMild anemia in elderly patient.\n\nClinical Significance:\nCommon age-related hematologic change.\n\nPossible Causes:\nReduced marrow reserve or chronic disease.\n\nPotential Risks:\nUsually low if stable.\n\nLifestyle & Follow-up:\nMonitor trends and assess nutritional status."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 40 years. Hb dropped from 14.8 to 10.9 g/dL post-trauma.",
+  "output": "Interpretation:\nSignificant acute anemia.\n\nClinical Significance:\nRapid hemoglobin drop suggests blood loss.\n\nPossible Causes:\nRecent trauma or bleeding.\n\nPotential Risks:\nHemodynamic instability.\n\nLifestyle & Follow-up:\nImmediate medical management required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. ANC 0.9 k/µL, Undergoing chemotherapy.",
+  "output": "Interpretation:\nModerate neutropenia.\n\nClinical Significance:\nReduced infection-fighting capacity.\n\nPossible Causes:\nChemotherapy-induced marrow suppression.\n\nPotential Risks:\nHigh infection risk.\n\nLifestyle & Follow-up:\nProtective precautions and monitoring required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. Hb 10.1 g/dL, Post-delivery.",
+  "output": "Interpretation:\nMild postpartum anemia.\n\nClinical Significance:\nCommon after childbirth.\n\nPossible Causes:\nBlood loss during delivery.\n\nPotential Risks:\nFatigue.\n\nLifestyle & Follow-up:\nIron supplementation and rest advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. WBC 12.5 k/µL, CRP elevated, No infection symptoms.",
+  "output": "Interpretation:\nPersistent leukocytosis.\n\nClinical Significance:\nSuggests chronic inflammatory state.\n\nPossible Causes:\nAutoimmune or inflammatory disorder.\n\nPotential Risks:\nOngoing tissue damage.\n\nLifestyle & Follow-up:\nFurther inflammatory evaluation recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 33 years. ANC 1.3 k/µL, Asymptomatic, Repeated stable values.",
+  "output": "Interpretation:\nChronic mild neutropenia.\n\nClinical Significance:\nLikely benign variant.\n\nPossible Causes:\nEthnic or genetic factors.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nNo intervention required if asymptomatic."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 26 years. WBC 13.0 k/µL, Neutrophils 80%, Recent trauma.",
+  "output": "Interpretation:\nStress-induced leukocytosis.\n\nClinical Significance:\nPhysiological response.\n\nPossible Causes:\nAcute physical stress.\n\nPotential Risks:\nTransient.\n\nLifestyle & Follow-up:\nRepeat testing after recovery."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 44 years. Hb 11.0 g/dL, MCV 110 fL, Poor diet history.",
+  "output": "Interpretation:\nMacrocytic anemia.\n\nClinical Significance:\nImpaired red cell maturation.\n\nPossible Causes:\nFolate deficiency.\n\nPotential Risks:\nProgressive anemia.\n\nLifestyle & Follow-up:\nDietary improvement and supplementation advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 57 years. Platelets 110 k/µL, MCV elevated, Known liver disease.",
+  "output": "Interpretation:\nThrombocytopenia with macrocytosis.\n\nClinical Significance:\nCommon in chronic liver disease.\n\nPossible Causes:\nPortal hypertension and marrow changes.\n\nPotential Risks:\nBleeding tendency.\n\nLifestyle & Follow-up:\nSpecialist follow-up recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. Hb improved from 9.2 to 12.4 g/dL after treatment.",
+  "output": "Interpretation:\nImproved hemoglobin levels.\n\nClinical Significance:\nEffective iron therapy response.\n\nPossible Causes:\nCorrected iron deficiency.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nContinue maintenance therapy as advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. Basophils 1.8%, Other counts normal.",
+  "output": "Interpretation:\nMild basophilia.\n\nClinical Significance:\nOften benign.\n\nPossible Causes:\nAllergic or inflammatory response.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nClinical correlation advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 50 years. Hb 10.8 g/dL, WBC 3.8 k/µL, Platelets 120 k/µL, Enlarged spleen.",
+  "output": "Interpretation:\nMild pancytopenia.\n\nClinical Significance:\nSuggestive of hypersplenism.\n\nPossible Causes:\nSplenic sequestration.\n\nPotential Risks:\nBleeding and infection risk.\n\nLifestyle & Follow-up:\nSpecialist evaluation recommended."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. Hb 9.8 g/dL, Reticulocyte count elevated.",
+  "output": "Interpretation:\nAnemia with increased reticulocytes.\n\nClinical Significance:\nSuggests ongoing red cell destruction.\n\nPossible Causes:\nHemolytic processes.\n\nPotential Risks:\nWorsening anemia.\n\nLifestyle & Follow-up:\nUrgent diagnostic evaluation required."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 65 years. Hb stable at 11.5 g/dL over 2 years.",
+  "output": "Interpretation:\nChronic mild anemia.\n\nClinical Significance:\nLikely stable condition.\n\nPossible Causes:\nChronic disease or age-related changes.\n\nPotential Risks:\nLow if asymptomatic.\n\nLifestyle & Follow-up:\nPeriodic monitoring advised."
+}
+{
+  "instruction": "Interpret the following CBC report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 27 years. Hb 15.1 g/dL, WBC 6.4 k/µL, Platelets 250 k/µL.",
+  "output": "Interpretation:\nAll CBC parameters are within normal reference ranges.\n\nClinical Significance:\nIndicates healthy hematological status.\n\nPossible Causes:\nNormal physiological findings.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine health maintenance advised."
+}
