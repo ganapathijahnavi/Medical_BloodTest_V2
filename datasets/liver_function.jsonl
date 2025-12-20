@@ -1,3 +1,610 @@
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. ALT: 68 U/L, AST: 55 U/L, ALP: 110 U/L, Total Bilirubin: 1.2 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nElevation of transaminases indicates liver cell inflammation.\n\nPossible Causes:\nAlcohol use or fatty liver disease.\n\nPotential Risks:\nProgression to chronic liver disease if untreated.\n\nLifestyle & Follow-up:\nReduce alcohol intake and repeat liver function tests."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 38 years. ALT: 22 U/L, AST: 20 U/L, ALP: 95 U/L, Total Bilirubin: 0.7 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nAll parameters within reference range.\n\nPossible Causes:\nHealthy liver metabolism.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine monitoring only."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. ALT: 120 U/L, AST: 135 U/L, ALP: 140 U/L, Total Bilirubin: 2.4 mg/dL.",
+  "output": "Interpretation:\nSevere liver dysfunction.\n\nClinical Significance:\nMarked elevation suggests significant hepatocellular damage.\n\nPossible Causes:\nViral hepatitis or drug-induced liver injury.\n\nPotential Risks:\nAcute liver failure.\n\nLifestyle & Follow-up:\nUrgent hepatology consultation required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 52 years. ALT: 48 U/L, AST: 42 U/L, ALP: 160 U/L, Total Bilirubin: 1.8 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver pattern.\n\nClinical Significance:\nDisproportionate ALP elevation suggests biliary involvement.\n\nPossible Causes:\nGallstone disease or biliary obstruction.\n\nPotential Risks:\nCholangitis.\n\nLifestyle & Follow-up:\nImaging studies and specialist evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 35 years. ALT: 75 U/L, AST: 40 U/L, ALP: 100 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nIsolated ALT elevation.\n\nClinical Significance:\nSuggests mild hepatic inflammation.\n\nPossible Causes:\nNon-alcoholic fatty liver disease.\n\nPotential Risks:\nProgression to steatohepatitis.\n\nLifestyle & Follow-up:\nWeight management and dietary modification recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 64 years. ALT: 32 U/L, AST: 30 U/L, ALP: 180 U/L, Total Bilirubin: 1.1 mg/dL.",
+  "output": "Interpretation:\nElevated alkaline phosphatase.\n\nClinical Significance:\nMay indicate biliary or bone-related pathology.\n\nPossible Causes:\nCholestasis or age-related changes.\n\nPotential Risks:\nUnderlying biliary disease.\n\nLifestyle & Follow-up:\nFurther diagnostic evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. ALT: 90 U/L, AST: 95 U/L, ALP: 115 U/L, Total Bilirubin: 1.5 mg/dL.",
+  "output": "Interpretation:\nHepatocellular injury.\n\nClinical Significance:\nModerate transaminase elevation suggests liver inflammation.\n\nPossible Causes:\nChronic alcohol consumption.\n\nPotential Risks:\nFibrosis with continued exposure.\n\nLifestyle & Follow-up:\nAlcohol cessation and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. ALT: 18 U/L, AST: 16 U/L, ALP: 85 U/L, Total Bilirubin: 0.6 mg/dL.",
+  "output": "Interpretation:\nNormal liver profile.\n\nClinical Significance:\nHealthy hepatic function.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health checkups advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 67 years. ALT: 140 U/L, AST: 160 U/L, ALP: 170 U/L, Total Bilirubin: 3.1 mg/dL.",
+  "output": "Interpretation:\nSevere mixed liver injury.\n\nClinical Significance:\nBoth hepatocellular and cholestatic involvement.\n\nPossible Causes:\nAdvanced liver disease or obstruction.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nImmediate hospital evaluation required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 43 years. ALT: 55 U/L, AST: 50 U/L, ALP: 105 U/L, Total Bilirubin: 1.0 mg/dL.",
+  "output": "Interpretation:\nMild liver enzyme elevation.\n\nClinical Significance:\nSuggests early hepatic stress.\n\nPossible Causes:\nMedication-induced liver injury.\n\nPotential Risks:\nProgression if exposure continues.\n\nLifestyle & Follow-up:\nReview medications and monitor LFTs."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. ALT: 65 U/L, AST: 60 U/L, ALP: 125 U/L, Total Bilirubin: 1.4 mg/dL.",
+  "output": "Interpretation:\nMild mixed liver injury.\n\nClinical Significance:\nCombined enzyme elevation suggests hepatic stress.\n\nPossible Causes:\nAlcohol use or metabolic syndrome.\n\nPotential Risks:\nChronic liver disease.\n\nLifestyle & Follow-up:\nLifestyle modification and repeat testing recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. ALT: 28 U/L, AST: 30 U/L, ALP: 145 U/L, Total Bilirubin: 1.6 mg/dL.",
+  "output": "Interpretation:\nPredominantly cholestatic pattern.\n\nClinical Significance:\nSuggests impaired bile flow.\n\nPossible Causes:\nBiliary obstruction or gallstones.\n\nPotential Risks:\nCholangitis.\n\nLifestyle & Follow-up:\nImaging studies recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. ALT: 80 U/L, AST: 42 U/L, ALP: 98 U/L, Total Bilirubin: 0.8 mg/dL.",
+  "output": "Interpretation:\nIsolated ALT elevation.\n\nClinical Significance:\nEarly liver inflammation.\n\nPossible Causes:\nNon-alcoholic fatty liver disease.\n\nPotential Risks:\nProgression without intervention.\n\nLifestyle & Follow-up:\nWeight loss and dietary changes advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 66 years. ALT: 38 U/L, AST: 36 U/L, ALP: 190 U/L, Total Bilirubin: 2.0 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nSignificant ALP and bilirubin elevation.\n\nPossible Causes:\nBiliary obstruction.\n\nPotential Risks:\nSecondary liver damage.\n\nLifestyle & Follow-up:\nUrgent diagnostic evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 53 years. ALT: 105 U/L, AST: 98 U/L, ALP: 120 U/L, Total Bilirubin: 1.7 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing liver inflammation.\n\nPossible Causes:\nAlcohol-related liver disease.\n\nPotential Risks:\nFibrosis progression.\n\nLifestyle & Follow-up:\nAlcohol cessation and medical follow-up advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 31 years. ALT: 20 U/L, AST: 22 U/L, ALP: 90 U/L, Total Bilirubin: 0.5 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nAll liver parameters within normal limits.\n\nPossible Causes:\nHealthy liver physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health screening recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 70 years. ALT: 130 U/L, AST: 145 U/L, ALP: 165 U/L, Total Bilirubin: 2.8 mg/dL.",
+  "output": "Interpretation:\nAdvanced liver dysfunction.\n\nClinical Significance:\nSevere enzyme and bilirubin elevation.\n\nPossible Causes:\nCirrhosis or advanced hepatitis.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nImmediate specialist care required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. ALT: 58 U/L, AST: 54 U/L, ALP: 110 U/L, Total Bilirubin: 1.3 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nEarly liver inflammation.\n\nPossible Causes:\nMedication or metabolic factors.\n\nPotential Risks:\nProgression if untreated.\n\nLifestyle & Follow-up:\nMonitor liver enzymes and modify risk factors."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 39 years. ALT: 45 U/L, AST: 40 U/L, ALP: 100 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nBorderline liver enzyme elevation.\n\nClinical Significance:\nMay indicate early hepatic stress.\n\nPossible Causes:\nDietary factors or mild fatty liver.\n\nPotential Risks:\nMinimal if addressed early.\n\nLifestyle & Follow-up:\nLifestyle modification and follow-up testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 48 years. ALT: 72 U/L, AST: 65 U/L, ALP: 118 U/L, Total Bilirubin: 1.4 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nElevated transaminases indicate liver inflammation.\n\nPossible Causes:\nAlcohol use or fatty liver disease.\n\nPotential Risks:\nProgression to chronic liver disease.\n\nLifestyle & Follow-up:\nLifestyle modification and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 56 years. ALT: 34 U/L, AST: 32 U/L, ALP: 155 U/L, Total Bilirubin: 1.9 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver pattern.\n\nClinical Significance:\nElevated ALP and bilirubin suggest impaired bile flow.\n\nPossible Causes:\nGallstones or biliary obstruction.\n\nPotential Risks:\nCholangitis.\n\nLifestyle & Follow-up:\nUltrasound and specialist evaluation recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. ALT: 110 U/L, AST: 120 U/L, ALP: 135 U/L, Total Bilirubin: 2.2 mg/dL.",
+  "output": "Interpretation:\nModerate to severe hepatocellular injury.\n\nClinical Significance:\nSignificant liver cell damage present.\n\nPossible Causes:\nViral hepatitis or drug toxicity.\n\nPotential Risks:\nAcute liver dysfunction.\n\nLifestyle & Follow-up:\nImmediate medical assessment required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 33 years. ALT: 19 U/L, AST: 18 U/L, ALP: 92 U/L, Total Bilirubin: 0.6 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nAll parameters within normal range.\n\nPossible Causes:\nHealthy hepatic physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine monitoring advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. ALT: 85 U/L, AST: 90 U/L, ALP: 140 U/L, Total Bilirubin: 1.6 mg/dL.",
+  "output": "Interpretation:\nMixed hepatocellular and cholestatic injury.\n\nClinical Significance:\nCombined enzyme elevation suggests significant liver stress.\n\nPossible Causes:\nAlcohol-related liver disease.\n\nPotential Risks:\nProgression to fibrosis.\n\nLifestyle & Follow-up:\nAlcohol cessation and hepatology follow-up advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 61 years. ALT: 30 U/L, AST: 28 U/L, ALP: 170 U/L, Total Bilirubin: 2.1 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nElevated ALP and bilirubin indicate bile duct involvement.\n\nPossible Causes:\nObstructive biliary disease.\n\nPotential Risks:\nSecondary liver injury.\n\nLifestyle & Follow-up:\nUrgent imaging and evaluation recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 40 years. ALT: 60 U/L, AST: 45 U/L, ALP: 102 U/L, Total Bilirubin: 1.0 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nEarly liver inflammation detected.\n\nPossible Causes:\nNon-alcoholic fatty liver disease.\n\nPotential Risks:\nReversible with early intervention.\n\nLifestyle & Follow-up:\nDietary modification and exercise recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 49 years. ALT: 95 U/L, AST: 88 U/L, ALP: 120 U/L, Total Bilirubin: 1.7 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing liver inflammation.\n\nPossible Causes:\nMedication-induced liver injury.\n\nPotential Risks:\nChronic liver damage.\n\nLifestyle & Follow-up:\nReview medications and monitor liver enzymes."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 68 years. ALT: 150 U/L, AST: 165 U/L, ALP: 180 U/L, Total Bilirubin: 3.0 mg/dL.",
+  "output": "Interpretation:\nSevere liver dysfunction.\n\nClinical Significance:\nMarked enzyme and bilirubin elevation.\n\nPossible Causes:\nAdvanced cirrhosis or acute hepatitis.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nEmergency hospital care required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. ALT: 42 U/L, AST: 40 U/L, ALP: 100 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nBorderline liver enzyme elevation.\n\nClinical Significance:\nMild hepatic stress.\n\nPossible Causes:\nDietary factors or mild fatty liver.\n\nPotential Risks:\nLow if addressed early.\n\nLifestyle & Follow-up:\nLifestyle improvement advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. ALT: 115 U/L, AST: 108 U/L, ALP: 130 U/L, Total Bilirubin: 2.0 mg/dL.",
+  "output": "Interpretation:\nSignificant hepatocellular injury.\n\nClinical Significance:\nActive liver damage.\n\nPossible Causes:\nChronic alcohol use or viral hepatitis.\n\nPotential Risks:\nFibrosis progression.\n\nLifestyle & Follow-up:\nAlcohol cessation and specialist consultation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 59 years. ALT: 26 U/L, AST: 25 U/L, ALP: 165 U/L, Total Bilirubin: 1.8 mg/dL.",
+  "output": "Interpretation:\nPredominantly cholestatic pattern.\n\nClinical Significance:\nSuggests bile duct involvement.\n\nPossible Causes:\nGallbladder disease.\n\nPotential Risks:\nAscending cholangitis.\n\nLifestyle & Follow-up:\nFurther imaging advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. ALT: 70 U/L, AST: 68 U/L, ALP: 115 U/L, Total Bilirubin: 1.2 mg/dL.",
+  "output": "Interpretation:\nMild liver injury.\n\nClinical Significance:\nModerate enzyme elevation.\n\nPossible Causes:\nAlcohol or metabolic syndrome.\n\nPotential Risks:\nChronic liver disease.\n\nLifestyle & Follow-up:\nLifestyle modification recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 27 years. ALT: 16 U/L, AST: 18 U/L, ALP: 88 U/L, Total Bilirubin: 0.5 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nHealthy hepatic status.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine care advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 63 years. ALT: 100 U/L, AST: 112 U/L, ALP: 150 U/L, Total Bilirubin: 2.5 mg/dL.",
+  "output": "Interpretation:\nAdvanced liver injury.\n\nClinical Significance:\nSignificant hepatobiliary dysfunction.\n\nPossible Causes:\nCirrhosis or biliary obstruction.\n\nPotential Risks:\nLiver decompensation.\n\nLifestyle & Follow-up:\nImmediate specialist referral required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 42 years. ALT: 52 U/L, AST: 48 U/L, ALP: 108 U/L, Total Bilirubin: 1.1 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nEarly liver inflammation.\n\nPossible Causes:\nMedication use or fatty liver.\n\nPotential Risks:\nReversible with intervention.\n\nLifestyle & Follow-up:\nMonitor liver enzymes periodically."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 57 years. ALT: 135 U/L, AST: 142 U/L, ALP: 160 U/L, Total Bilirubin: 2.9 mg/dL.",
+  "output": "Interpretation:\nSevere mixed liver injury.\n\nClinical Significance:\nExtensive hepatic damage.\n\nPossible Causes:\nAdvanced alcoholic liver disease.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nUrgent hospital admission recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. ALT: 46 U/L, AST: 44 U/L, ALP: 98 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nBorderline liver enzyme elevation.\n\nClinical Significance:\nMild hepatic stress.\n\nPossible Causes:\nDietary or lifestyle factors.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nHealthy lifestyle maintenance advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. ALT: 58 U/L, AST: 55 U/L, ALP: 105 U/L, Total Bilirubin: 1.0 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular enzyme elevation.\n\nClinical Significance:\nSuggests early liver inflammation.\n\nPossible Causes:\nNon-alcoholic fatty liver disease.\n\nPotential Risks:\nProgression if untreated.\n\nLifestyle & Follow-up:\nWeight management and periodic monitoring advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 52 years. ALT: 88 U/L, AST: 92 U/L, ALP: 128 U/L, Total Bilirubin: 1.5 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing liver inflammation.\n\nPossible Causes:\nMedication-induced liver injury.\n\nPotential Risks:\nChronic liver damage.\n\nLifestyle & Follow-up:\nMedication review and repeat LFTs recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 61 years. ALT: 35 U/L, AST: 32 U/L, ALP: 168 U/L, Total Bilirubin: 2.0 mg/dL.",
+  "output": "Interpretation:\nPredominantly cholestatic liver pattern.\n\nClinical Significance:\nIndicates impaired bile flow.\n\nPossible Causes:\nGallstone disease.\n\nPotential Risks:\nAscending cholangitis.\n\nLifestyle & Follow-up:\nUltrasound evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 39 years. ALT: 22 U/L, AST: 24 U/L, ALP: 96 U/L, Total Bilirubin: 0.7 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nAll values within normal limits.\n\nPossible Causes:\nHealthy hepatic function.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health maintenance advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. ALT: 120 U/L, AST: 130 U/L, ALP: 145 U/L, Total Bilirubin: 2.3 mg/dL.",
+  "output": "Interpretation:\nSevere hepatocellular injury.\n\nClinical Significance:\nSignificant liver cell damage.\n\nPossible Causes:\nChronic alcohol use.\n\nPotential Risks:\nLiver fibrosis and cirrhosis.\n\nLifestyle & Follow-up:\nAlcohol cessation and hepatology referral advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 64 years. ALT: 28 U/L, AST: 30 U/L, ALP: 175 U/L, Total Bilirubin: 2.4 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nSuggests biliary obstruction.\n\nPossible Causes:\nBile duct narrowing or stones.\n\nPotential Risks:\nSecondary liver injury.\n\nLifestyle & Follow-up:\nImaging and specialist review recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 34 years. ALT: 68 U/L, AST: 60 U/L, ALP: 110 U/L, Total Bilirubin: 1.2 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nEarly-stage liver inflammation.\n\nPossible Causes:\nFatty liver or alcohol intake.\n\nPotential Risks:\nReversible if addressed early.\n\nLifestyle & Follow-up:\nLifestyle modification advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. ALT: 98 U/L, AST: 90 U/L, ALP: 135 U/L, Total Bilirubin: 1.9 mg/dL.",
+  "output": "Interpretation:\nModerate mixed liver injury.\n\nClinical Significance:\nCombined hepatocellular and cholestatic involvement.\n\nPossible Causes:\nDrug-induced liver injury.\n\nPotential Risks:\nPersistent enzyme elevation.\n\nLifestyle & Follow-up:\nClose monitoring and medication adjustment recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 70 years. ALT: 155 U/L, AST: 170 U/L, ALP: 190 U/L, Total Bilirubin: 3.2 mg/dL.",
+  "output": "Interpretation:\nSevere liver dysfunction.\n\nClinical Significance:\nAdvanced hepatobiliary injury.\n\nPossible Causes:\nDecompensated cirrhosis.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nEmergency medical management required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. ALT: 40 U/L, AST: 38 U/L, ALP: 98 U/L, Total Bilirubin: 0.8 mg/dL.",
+  "output": "Interpretation:\nBorderline liver enzyme elevation.\n\nClinical Significance:\nMild hepatic stress.\n\nPossible Causes:\nRecent illness or medication use.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nRepeat testing if symptoms persist."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. ALT: 90 U/L, AST: 95 U/L, ALP: 140 U/L, Total Bilirubin: 2.1 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nActive liver inflammation present.\n\nPossible Causes:\nAlcohol-related liver disease.\n\nPotential Risks:\nProgression to fibrosis.\n\nLifestyle & Follow-up:\nAlcohol avoidance and follow-up testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. ALT: 32 U/L, AST: 30 U/L, ALP: 162 U/L, Total Bilirubin: 2.0 mg/dL.",
+  "output": "Interpretation:\nCholestatic pattern of liver injury.\n\nClinical Significance:\nIndicates bile flow obstruction.\n\nPossible Causes:\nGallbladder disease.\n\nPotential Risks:\nBiliary infection.\n\nLifestyle & Follow-up:\nFurther diagnostic evaluation recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 42 years. ALT: 75 U/L, AST: 70 U/L, ALP: 115 U/L, Total Bilirubin: 1.1 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nIndicates early liver inflammation.\n\nPossible Causes:\nNon-alcoholic fatty liver disease.\n\nPotential Risks:\nProgression if lifestyle factors persist.\n\nLifestyle & Follow-up:\nDietary modification and follow-up testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. ALT: 26 U/L, AST: 24 U/L, ALP: 92 U/L, Total Bilirubin: 0.6 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nAll parameters within normal limits.\n\nPossible Causes:\nHealthy hepatic metabolism.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine monitoring recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 59 years. ALT: 140 U/L, AST: 135 U/L, ALP: 150 U/L, Total Bilirubin: 2.5 mg/dL.",
+  "output": "Interpretation:\nSevere hepatocellular injury.\n\nClinical Significance:\nSignificant liver cell damage.\n\nPossible Causes:\nChronic alcohol consumption.\n\nPotential Risks:\nCirrhosis development.\n\nLifestyle & Follow-up:\nImmediate alcohol cessation and specialist referral advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 50 years. ALT: 60 U/L, AST: 58 U/L, ALP: 140 U/L, Total Bilirubin: 1.8 mg/dL.",
+  "output": "Interpretation:\nMixed hepatocellular and cholestatic injury.\n\nClinical Significance:\nSuggests combined liver and bile duct involvement.\n\nPossible Causes:\nDrug-induced liver injury.\n\nPotential Risks:\nPersistent enzyme elevation.\n\nLifestyle & Follow-up:\nMedication review and repeat testing recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 65 years. ALT: 30 U/L, AST: 28 U/L, ALP: 170 U/L, Total Bilirubin: 2.2 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nImpaired bile flow suspected.\n\nPossible Causes:\nBiliary obstruction.\n\nPotential Risks:\nSecondary hepatic damage.\n\nLifestyle & Follow-up:\nUltrasound and hepatology evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. ALT: 48 U/L, AST: 45 U/L, ALP: 102 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nBorderline liver enzyme elevation.\n\nClinical Significance:\nMild hepatic stress.\n\nPossible Causes:\nRecent infection or medication use.\n\nPotential Risks:\nLow if transient.\n\nLifestyle & Follow-up:\nRepeat testing if abnormalities persist."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 53 years. ALT: 110 U/L, AST: 105 U/L, ALP: 138 U/L, Total Bilirubin: 2.0 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nActive inflammatory liver process.\n\nPossible Causes:\nViral hepatitis or alcohol use.\n\nPotential Risks:\nFibrosis progression.\n\nLifestyle & Follow-up:\nFurther evaluation including viral markers recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 68 years. ALT: 35 U/L, AST: 34 U/L, ALP: 185 U/L, Total Bilirubin: 2.6 mg/dL.",
+  "output": "Interpretation:\nCholestatic pattern.\n\nClinical Significance:\nSuggests bile duct pathology.\n\nPossible Causes:\nPrimary biliary cholangitis.\n\nPotential Risks:\nChronic liver disease.\n\nLifestyle & Follow-up:\nAutoimmune workup and specialist care advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 31 years. ALT: 52 U/L, AST: 50 U/L, ALP: 108 U/L, Total Bilirubin: 1.0 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular elevation.\n\nClinical Significance:\nEarly liver involvement.\n\nPossible Causes:\nFatty liver disease.\n\nPotential Risks:\nReversible with intervention.\n\nLifestyle & Follow-up:\nWeight control and dietary changes advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 57 years. ALT: 95 U/L, AST: 90 U/L, ALP: 125 U/L, Total Bilirubin: 1.7 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing liver inflammation.\n\nPossible Causes:\nAutoimmune hepatitis.\n\nPotential Risks:\nChronic liver damage.\n\nLifestyle & Follow-up:\nImmunological evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 72 years. ALT: 160 U/L, AST: 175 U/L, ALP: 200 U/L, Total Bilirubin: 3.8 mg/dL.",
+  "output": "Interpretation:\nSevere mixed liver injury.\n\nClinical Significance:\nAdvanced hepatic dysfunction.\n\nPossible Causes:\nDecompensated cirrhosis.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nUrgent hospital admission required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 45 years. ALT: 42 U/L, AST: 40 U/L, ALP: 98 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nNear-normal liver function.\n\nClinical Significance:\nNo major abnormalities detected.\n\nPossible Causes:\nPhysiological variation.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nRoutine follow-up sufficient."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. ALT: 88 U/L, AST: 82 U/L, ALP: 145 U/L, Total Bilirubin: 2.1 mg/dL.",
+  "output": "Interpretation:\nMixed liver injury.\n\nClinical Significance:\nHepatobiliary involvement.\n\nPossible Causes:\nAlcohol and metabolic syndrome.\n\nPotential Risks:\nDisease progression.\n\nLifestyle & Follow-up:\nLifestyle modification and monitoring advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 63 years. ALT: 28 U/L, AST: 30 U/L, ALP: 160 U/L, Total Bilirubin: 2.3 mg/dL.",
+  "output": "Interpretation:\nCholestatic dysfunction.\n\nClinical Significance:\nImpaired bile excretion.\n\nPossible Causes:\nGallbladder disease.\n\nPotential Risks:\nBiliary infection.\n\nLifestyle & Follow-up:\nFurther imaging studies recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 37 years. ALT: 65 U/L, AST: 60 U/L, ALP: 112 U/L, Total Bilirubin: 1.3 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nEarly inflammatory changes.\n\nPossible Causes:\nAlcohol intake or fatty liver.\n\nPotential Risks:\nReversible with early care.\n\nLifestyle & Follow-up:\nAlcohol moderation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 54 years. ALT: 102 U/L, AST: 98 U/L, ALP: 132 U/L, Total Bilirubin: 1.9 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing liver inflammation.\n\nPossible Causes:\nMedication-related toxicity.\n\nPotential Risks:\nChronic enzyme elevation.\n\nLifestyle & Follow-up:\nMedication review essential."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 66 years. ALT: 40 U/L, AST: 38 U/L, ALP: 178 U/L, Total Bilirubin: 2.7 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver injury.\n\nClinical Significance:\nBiliary obstruction suspected.\n\nPossible Causes:\nMalignancy or strictures.\n\nPotential Risks:\nSevere complications.\n\nLifestyle & Follow-up:\nUrgent diagnostic workup advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 33 years. ALT: 36 U/L, AST: 34 U/L, ALP: 95 U/L, Total Bilirubin: 0.7 mg/dL.",
+  "output": "Interpretation:\nNormal liver profile.\n\nClinical Significance:\nHealthy liver status.\n\nPossible Causes:\nNormal physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine care advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. ALT: 58 U/L, AST: 54 U/L, ALP: 118 U/L, Total Bilirubin: 1.1 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular enzyme elevation.\n\nClinical Significance:\nIndicates low-grade liver inflammation.\n\nPossible Causes:\nNon-alcoholic fatty liver disease.\n\nPotential Risks:\nProgression if untreated.\n\nLifestyle & Follow-up:\nDietary changes and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 62 years. ALT: 32 U/L, AST: 30 U/L, ALP: 165 U/L, Total Bilirubin: 2.1 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nSuggests impaired bile flow.\n\nPossible Causes:\nGallstone disease.\n\nPotential Risks:\nBiliary infection.\n\nLifestyle & Follow-up:\nImaging studies recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. ALT: 115 U/L, AST: 108 U/L, ALP: 142 U/L, Total Bilirubin: 2.3 mg/dL.",
+  "output": "Interpretation:\nModerate to severe hepatocellular injury.\n\nClinical Significance:\nActive inflammatory liver condition.\n\nPossible Causes:\nChronic alcohol consumption.\n\nPotential Risks:\nFibrosis and cirrhosis.\n\nLifestyle & Follow-up:\nAlcohol cessation and hepatology referral advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 38 years. ALT: 28 U/L, AST: 26 U/L, ALP: 94 U/L, Total Bilirubin: 0.7 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nAll parameters within reference range.\n\nPossible Causes:\nNormal hepatic physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health monitoring sufficient."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 69 years. ALT: 40 U/L, AST: 42 U/L, ALP: 180 U/L, Total Bilirubin: 2.8 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver injury.\n\nClinical Significance:\nSuggests biliary obstruction.\n\nPossible Causes:\nBile duct stricture or malignancy.\n\nPotential Risks:\nSevere hepatic complications.\n\nLifestyle & Follow-up:\nUrgent diagnostic imaging advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. ALT: 72 U/L, AST: 68 U/L, ALP: 120 U/L, Total Bilirubin: 1.4 mg/dL.",
+  "output": "Interpretation:\nMild to moderate hepatocellular injury.\n\nClinical Significance:\nSuggests ongoing liver inflammation.\n\nPossible Causes:\nMedication-induced liver stress.\n\nPotential Risks:\nPersistent enzyme elevation.\n\nLifestyle & Follow-up:\nMedication review and monitoring recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 33 years. ALT: 64 U/L, AST: 60 U/L, ALP: 110 U/L, Total Bilirubin: 1.2 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nEarly liver involvement.\n\nPossible Causes:\nFatty liver or alcohol use.\n\nPotential Risks:\nReversible if addressed early.\n\nLifestyle & Follow-up:\nLifestyle modification advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. ALT: 98 U/L, AST: 92 U/L, ALP: 138 U/L, Total Bilirubin: 2.0 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing hepatic inflammation.\n\nPossible Causes:\nAutoimmune hepatitis.\n\nPotential Risks:\nChronic liver disease.\n\nLifestyle & Follow-up:\nImmunological evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 71 years. ALT: 160 U/L, AST: 170 U/L, ALP: 195 U/L, Total Bilirubin: 3.5 mg/dL.",
+  "output": "Interpretation:\nSevere mixed liver injury.\n\nClinical Significance:\nAdvanced hepatic dysfunction.\n\nPossible Causes:\nDecompensated cirrhosis.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nImmediate hospital care required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. ALT: 45 U/L, AST: 42 U/L, ALP: 100 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nBorderline liver enzyme elevation.\n\nClinical Significance:\nMild hepatic stress.\n\nPossible Causes:\nTransient illness or medication use.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nRepeat testing if abnormalities persist."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 51 years. ALT: 85 U/L, AST: 80 U/L, ALP: 130 U/L, Total Bilirubin: 1.8 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing liver inflammation.\n\nPossible Causes:\nAlcohol-related liver disease.\n\nPotential Risks:\nProgression to fibrosis.\n\nLifestyle & Follow-up:\nAlcohol avoidance and monitoring advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 66 years. ALT: 34 U/L, AST: 36 U/L, ALP: 172 U/L, Total Bilirubin: 2.6 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nSuggests biliary pathology.\n\nPossible Causes:\nPrimary biliary cholangitis.\n\nPotential Risks:\nChronic cholestasis.\n\nLifestyle & Follow-up:\nAutoimmune evaluation recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. ALT: 58 U/L, AST: 54 U/L, ALP: 118 U/L, Total Bilirubin: 1.1 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular enzyme elevation.\n\nClinical Significance:\nIndicates low-grade liver inflammation.\n\nPossible Causes:\nNon-alcoholic fatty liver disease.\n\nPotential Risks:\nProgression if untreated.\n\nLifestyle & Follow-up:\nDietary changes and repeat testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 62 years. ALT: 32 U/L, AST: 30 U/L, ALP: 165 U/L, Total Bilirubin: 2.1 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nSuggests impaired bile flow.\n\nPossible Causes:\nGallstone disease.\n\nPotential Risks:\nBiliary infection.\n\nLifestyle & Follow-up:\nImaging studies recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 55 years. ALT: 115 U/L, AST: 108 U/L, ALP: 142 U/L, Total Bilirubin: 2.3 mg/dL.",
+  "output": "Interpretation:\nModerate to severe hepatocellular injury.\n\nClinical Significance:\nActive inflammatory liver condition.\n\nPossible Causes:\nChronic alcohol consumption.\n\nPotential Risks:\nFibrosis and cirrhosis.\n\nLifestyle & Follow-up:\nAlcohol cessation and hepatology referral advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 38 years. ALT: 28 U/L, AST: 26 U/L, ALP: 94 U/L, Total Bilirubin: 0.7 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nAll parameters within reference range.\n\nPossible Causes:\nNormal hepatic physiology.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health monitoring sufficient."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 69 years. ALT: 40 U/L, AST: 42 U/L, ALP: 180 U/L, Total Bilirubin: 2.8 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver injury.\n\nClinical Significance:\nSuggests biliary obstruction.\n\nPossible Causes:\nBile duct stricture or malignancy.\n\nPotential Risks:\nSevere hepatic complications.\n\nLifestyle & Follow-up:\nUrgent diagnostic imaging advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. ALT: 72 U/L, AST: 68 U/L, ALP: 120 U/L, Total Bilirubin: 1.4 mg/dL.",
+  "output": "Interpretation:\nMild to moderate hepatocellular injury.\n\nClinical Significance:\nSuggests ongoing liver inflammation.\n\nPossible Causes:\nMedication-induced liver stress.\n\nPotential Risks:\nPersistent enzyme elevation.\n\nLifestyle & Follow-up:\nMedication review and monitoring recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 33 years. ALT: 64 U/L, AST: 60 U/L, ALP: 110 U/L, Total Bilirubin: 1.2 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular injury.\n\nClinical Significance:\nEarly liver involvement.\n\nPossible Causes:\nFatty liver or alcohol use.\n\nPotential Risks:\nReversible if addressed early.\n\nLifestyle & Follow-up:\nLifestyle modification advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. ALT: 98 U/L, AST: 92 U/L, ALP: 138 U/L, Total Bilirubin: 2.0 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing hepatic inflammation.\n\nPossible Causes:\nAutoimmune hepatitis.\n\nPotential Risks:\nChronic liver disease.\n\nLifestyle & Follow-up:\nImmunological evaluation advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 71 years. ALT: 160 U/L, AST: 170 U/L, ALP: 195 U/L, Total Bilirubin: 3.5 mg/dL.",
+  "output": "Interpretation:\nSevere mixed liver injury.\n\nClinical Significance:\nAdvanced hepatic dysfunction.\n\nPossible Causes:\nDecompensated cirrhosis.\n\nPotential Risks:\nLiver failure.\n\nLifestyle & Follow-up:\nImmediate hospital care required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. ALT: 45 U/L, AST: 42 U/L, ALP: 100 U/L, Total Bilirubin: 0.9 mg/dL.",
+  "output": "Interpretation:\nBorderline liver enzyme elevation.\n\nClinical Significance:\nMild hepatic stress.\n\nPossible Causes:\nTransient illness or medication use.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nRepeat testing if abnormalities persist."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 51 years. ALT: 85 U/L, AST: 80 U/L, ALP: 130 U/L, Total Bilirubin: 1.8 mg/dL.",
+  "output": "Interpretation:\nModerate hepatocellular injury.\n\nClinical Significance:\nOngoing liver inflammation.\n\nPossible Causes:\nAlcohol-related liver disease.\n\nPotential Risks:\nProgression to fibrosis.\n\nLifestyle & Follow-up:\nAlcohol avoidance and monitoring advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 66 years. ALT: 34 U/L, AST: 36 U/L, ALP: 172 U/L, Total Bilirubin: 2.6 mg/dL.",
+  "output": "Interpretation:\nCholestatic liver dysfunction.\n\nClinical Significance:\nSuggests biliary pathology.\n\nPossible Causes:\nPrimary biliary cholangitis.\n\nPotential Risks:\nChronic cholestasis.\n\nLifestyle & Follow-up:\nAutoimmune evaluation recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 46 years. ALT: 58 U/L, AST: 55 U/L, ALP: 120 U/L, Total Bilirubin: 1.4 mg/dL.",
+  "output": "Interpretation:\nMild hepatocellular enzyme elevation.\n\nClinical Significance:\nSuggests low-grade liver inflammation.\n\nPossible Causes:\nEarly non-alcoholic fatty liver disease.\n\nPotential Risks:\nProgression if unmanaged.\n\nLifestyle & Follow-up:\nWeight management and follow-up testing advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. ALT: 42 U/L, AST: 40 U/L, ALP: 172 U/L, Total Bilirubin: 2.6 mg/dL.",
+  "output": "Interpretation:\nCholestatic pattern of liver injury.\n\nClinical Significance:\nImpaired bile excretion suspected.\n\nPossible Causes:\nBiliary obstruction.\n\nPotential Risks:\nAscending biliary infection.\n\nLifestyle & Follow-up:\nImaging studies and hepatology referral recommended."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 71 years. ALT: 98 U/L, AST: 92 U/L, ALP: 150 U/L, Total Bilirubin: 2.3 mg/dL.",
+  "output": "Interpretation:\nModerate mixed liver injury.\n\nClinical Significance:\nBoth hepatocellular and cholestatic involvement.\n\nPossible Causes:\nChronic liver disease.\n\nPotential Risks:\nProgressive hepatic dysfunction.\n\nLifestyle & Follow-up:\nRegular monitoring and specialist care advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. ALT: 34 U/L, AST: 36 U/L, ALP: 104 U/L, Total Bilirubin: 0.8 mg/dL.",
+  "output": "Interpretation:\nNormal liver function.\n\nClinical Significance:\nNo biochemical evidence of liver disease.\n\nPossible Causes:\nPhysiological liver metabolism.\n\nPotential Risks:\nNone identified.\n\nLifestyle & Follow-up:\nRoutine health maintenance advised."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 59 years. ALT: 132 U/L, AST: 125 U/L, ALP: 145 U/L, Total Bilirubin: 2.8 mg/dL.",
+  "output": "Interpretation:\nSevere hepatocellular injury.\n\nClinical Significance:\nActive and significant liver inflammation.\n\nPossible Causes:\nAutoimmune or viral hepatitis.\n\nPotential Risks:\nProgression to liver failure.\n\nLifestyle & Follow-up:\nUrgent hepatology evaluation required."
+}
+{
+  "instruction": "Interpret the following liver function test report for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 78 years. ALT: 210 U/L, AST: 220 U/L, ALP: 240 U/L, Total Bilirubin: 5.1 mg/dL.",
+  "output": "Interpretation:\nCritical mixed liver injury.\n\nClinical Significance:\nSevere hepatic decompensation.\n\nPossible Causes:\nAdvanced cirrhosis with acute insult.\n\nPotential Risks:\nLife-threatening liver failure.\n\nLifestyle & Follow-up:\nImmediate emergency management required."
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {"instruction": "Interpret liver function profile", "input": "Male, 28 years\nALT 18 U/L, AST 20 U/L, ALP 90 U/L, GGT 24 U/L, Total bilirubin 0.7 mg/dL (Direct 0.2), Albumin 4.5 g/dL, Total protein 7.2 g/dL", "output": "Interpretation: Liver enzymes and proteins are within normal limits.\nClinical significance: No biochemical evidence of liver inflammation, cholestasis, or synthetic dysfunction.\nFuture risks: Low current risk of liver disease if other risk factors (alcohol, obesity, viral hepatitis) are controlled.\nLifestyle & follow-up: Maintain a balanced diet, avoid excessive alcohol and unnecessary medications, and repeat LFTs as part of routine checkups."}
 {"instruction": "Interpret liver function profile", "input": "Female, 35 years, BMI 32\nALT 56 U/L, AST 49 U/L, ALP 105 U/L, GGT 38 U/L, Total bilirubin 0.8 mg/dL (Direct 0.3), Albumin 4.1 g/dL, Total protein 7.0 g/dL", "output": "Interpretation: Mild elevation of ALT and AST with otherwise preserved liver function.\nClinical significance: Pattern suggests mild hepatocellular injury, commonly seen in fatty liver disease or early metabolic liver injury.\nFuture risks: Risk of progression to non-alcoholic steatohepatitis (NASH), fibrosis, and long-term cirrhosis if metabolic risk factors are not addressed.\nLifestyle & follow-up: Aim for gradual weight loss, regular exercise, control of diabetes and cholesterol, avoid alcohol, and repeat LFTs and ultrasound in 3–6 months."}
 {"instruction": "Interpret liver function profile", "input": "Male, 45 years, regular alcohol use\nALT 42 U/L, AST 88 U/L, ALP 120 U/L, GGT 210 U/L, Total bilirubin 1.1 mg/dL (Direct 0.4), Albumin 4.0 g/dL, Total protein 7.4 g/dL", "output": "Interpretation: AST is higher than ALT with markedly elevated GGT, suggesting alcohol-related liver injury.\nClinical significance: This pattern is typical of alcoholic liver disease or alcohol-induced hepatocellular stress.\nFuture risks: Ongoing alcohol use may lead to alcoholic hepatitis, cirrhosis, portal hypertension, and liver failure.\nLifestyle & follow-up: Strongly reduce and ideally stop alcohol completely, seek support for de-addiction if needed, maintain a nutrient-rich diet, and follow up with a liver specialist for monitoring and possible imaging."}
