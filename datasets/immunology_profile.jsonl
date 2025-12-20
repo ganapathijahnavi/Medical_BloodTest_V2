@@ -1,101 +1,500 @@
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 620 mg/dL, IgA 105 mg/dL, IgM 65 mg/dL, IgE 22 IU/mL","output":"Interpretation: IgG slightly low, others normal. Clinical significance: May suggest mild secondary immunodeficiency or recent infection recovery. Future risks: Increased susceptibility to respiratory infections. Lifestyle & follow-up: Improve sleep, nutrition, hydration; monitor infections; repeat IgG in 2–3 months."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1550 mg/dL, IgA 360 mg/dL, IgM 150 mg/dL, IgE 180 IU/mL","output":"Interpretation: Elevated IgG, IgA, and IgE. Clinical significance: Suggestive of chronic inflammation, possible autoimmune activity, or allergic disorders. Future risks: Progressive autoimmune disease or persistent allergy symptoms. Lifestyle & follow-up: Reduce inflammatory foods, manage allergies, evaluate ANA/CRP if symptomatic."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 840 mg/dL, IgA 80 mg/dL, IgM 40 mg/dL, IgE 10 IU/mL","output":"Interpretation: Low IgA and IgM. Clinical significance: Possible selective IgA deficiency or early immunodeficiency. Future risks: Recurrent sinus, gut infections, and food allergies. Lifestyle & follow-up: Monitor infections, avoid unnecessary antibiotics, consider immunology referral."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1750 mg/dL, IgA 400 mg/dL, IgM 200 mg/dL, IgE 350 IU/mL","output":"Interpretation: Globally elevated immunoglobulins. Clinical significance: Consistent with chronic immune activation—autoimmune disease, chronic infection, or strong allergic state. Future risks: Autoimmune flare-ups, chronic inflammatory damage. Lifestyle & follow-up: Anti-inflammatory diet, reduce allergens, check ESR/CRP and autoimmune markers."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 500 mg/dL, IgA 20 mg/dL, IgM 15 mg/dL, IgE 8 IU/mL","output":"Interpretation: Marked reduction in all major immunoglobulins. Clinical significance: Concerning for primary immunodeficiency (e.g., CVID). Future risks: Severe recurrent infections, poor vaccine response. Lifestyle & follow-up: Immunology referral, consider Ig replacement therapy, avoid exposure to sick contacts."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 900 mg/dL, IgA 250 mg/dL, IgM 130 mg/dL, IgE 500 IU/mL","output":"Interpretation: Normal IgG/IgA/IgM with elevated IgE. Clinical significance: Indicates strong allergic sensitization (asthma, eczema, allergic rhinitis). Future risks: Severe allergy flares or asthma exacerbations. Lifestyle & follow-up: Identify allergens, use HEPA filters, discuss antihistamines with clinician."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1420 mg/dL, IgA 130 mg/dL, IgM 55 mg/dL, IgE 12 IU/mL","output":"Interpretation: IgG elevated, IgM mildly low. Clinical significance: Suggestive of chronic inflammation with reduced acute-phase response. Future risks: Poor early immune response to new infections. Lifestyle & follow-up: Stress management, adequate protein intake, follow-up IgM if infections recur."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 600 mg/dL, IgA 300 mg/dL, IgM 190 mg/dL, IgE 40 IU/mL","output":"Interpretation: Low IgG with elevated IgA and IgM. Clinical significance: May suggest immune compensation after IgG decline, possible chronic gut inflammation. Future risks: Sinus infections, malabsorption, inflammatory bowel symptoms. Lifestyle & follow-up: Improve gut health, avoid alcohol, evaluate stool calprotectin if symptoms."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1300 mg/dL, IgA 65 mg/dL, IgM 50 mg/dL, IgE 15 IU/mL","output":"Interpretation: Low IgA/IgM with normal IgG. Clinical significance: Possible selective IgA deficiency or medication impact. Future risks: Higher risk of respiratory allergies and GI infections. Lifestyle & follow-up: Avoid NSAID overuse, track recurrent symptoms, recheck immunoglobulins yearly."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1700 mg/dL, IgA 390 mg/dL, IgM 230 mg/dL, IgE 700 IU/mL","output":"Interpretation: Strongly elevated immunoglobulins, especially IgE. Clinical significance: Indicates allergy-dominant inflammation or parasitic exposure. Future risks: Severe eczema, asthma attacks, chronic inflammation. Lifestyle & follow-up: Allergy testing, avoid triggers, omega-3 rich diet, consider dermatology referral."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 850 mg/dL, IgA 150 mg/dL, IgM 40 mg/dL, IgE 300 IU/mL","output":"Interpretation: Low IgM with high IgE. Clinical significance: Allergic predisposition with weakened early immune response. Future risks: Persistent allergies and prolonged infections. Lifestyle & follow-up: Manage allergies proactively, include zinc-rich foods, strengthen immunity habits."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 980 mg/dL, IgA 310 mg/dL, IgM 210 mg/dL, IgE 30 IU/mL","output":"Interpretation: Elevated IgA/IgM with normal IgG. Clinical significance: Can indicate chronic mucosal inflammation or recent infection. Future risks: Recurrent sinus pain, gut inflammation. Lifestyle & follow-up: Hydration, probiotics, evaluate chronic sinusitis if present."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 440 mg/dL, IgA 40 mg/dL, IgM 25 mg/dL, IgE 5 IU/mL","output":"Interpretation: Pan-hypogammaglobulinemia. Clinical significance: Suggestive of severe immune deficiency. Future risks: Frequent pneumonia, chronic infections. Lifestyle & follow-up: Seek immunology assessment urgently, consider Ig therapy."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1450 mg/dL, IgA 380 mg/dL, IgM 140 mg/dL, IgE 60 IU/mL","output":"Interpretation: High IgG/IgA. Clinical significance: Indicates chronic inflammation or autoimmune tendency. Future risks: Joint issues, fatigue, autoimmune flare. Lifestyle & follow-up: Anti-inflammatory diet, regular exercise, check ANA/CRP if symptoms persist."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1100 mg/dL, IgA 90 mg/dL, IgM 35 mg/dL, IgE 25 IU/mL","output":"Interpretation: Mild IgM deficiency. Clinical significance: Reduced rapid immune defense. Future risks: Frequent colds, sinus infections. Lifestyle & follow-up: Adequate sleep, vitamin C foods, monitor infection frequency."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 780 mg/dL, IgA 20 mg/dL, IgM 60 mg/dL, IgE 18 IU/mL","output":"Interpretation: Isolated low IgA. Clinical significance: Classic selective IgA deficiency. Future risks: GI infections, allergies, celiac-like symptoms. Lifestyle & follow-up: Monitor gut symptoms, avoid unnecessary antibiotics, evaluate for celiac if symptomatic."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1500 mg/dL, IgA 340 mg/dL, IgM 180 mg/dL, IgE 120 IU/mL","output":"Interpretation: High IgG and IgA. Clinical significance: Chronic inflammation, possibly autoimmune. Future risks: Persistent fatigue, inflammatory joint pain. Lifestyle & follow-up: Reduce refined carbs, add omega-3s, monitor autoimmune markers."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1000 mg/dL, IgA 250 mg/dL, IgM 38 mg/dL, IgE 400 IU/mL","output":"Interpretation: Low IgM and high IgE. Clinical significance: Suggests allergic hyperreactivity with reduced first-line immune defense. Future risks: Recurrent colds, severe eczema. Lifestyle & follow-up: Manage allergies aggressively, add zinc foods, hydrate well."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1800 mg/dL, IgA 420 mg/dL, IgM 260 mg/dL, IgE 900 IU/mL","output":"Interpretation: All immunoglobulins elevated. Clinical significance: Significant immune activation—autoimmune, infection, or high allergy burden. Future risks: Chronic inflammation, asthma, autoimmune flare. Lifestyle & follow-up: Anti-inflammatory diet, stress control, allergy screening."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 700 mg/dL, IgA 90 mg/dL, IgM 55 mg/dL, IgE 12 IU/mL","output":"Interpretation: Mild low IgG. Clinical significance: Reduced long-term immune memory. Future risks: Frequent respiratory infections. Lifestyle & follow-up: Improve protein intake, exercise moderately, repeat test in 3 months."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 620 mg/dL, IgA 65 mg/dL, IgM 45 mg/dL, IgE 310 IU/mL","output":"Interpretation: Normal IgG with low IgA/IgM and high IgE. Clinical significance: Suggests allergic predisposition with weakened mucosal immunity. Future risks: Seasonal allergies, recurrent sinus infections. Lifestyle & follow-up: Avoid allergens, boost immunity with vitamin C and zinc, consider ENT evaluation if infections frequent."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1400 mg/dL, IgA 290 mg/dL, IgM 120 mg/dL, IgE 55 IU/mL","output":"Interpretation: Mildly elevated IgG/IgA. Clinical significance: Indicates chronic inflammation or past persistent infections. Future risks: Joint inflammation and chronic fatigue. Lifestyle & follow-up: Anti-inflammatory diet, regular walking, hydration, evaluate inflammatory markers if symptoms persist."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 500 mg/dL, IgA 30 mg/dL, IgM 20 mg/dL, IgE 6 IU/mL","output":"Interpretation: Markedly low levels of IgG, IgA, and IgM. Clinical significance: Suggestive of serious immune deficiency (possible CVID). Future risks: Chronic bacterial infections, poor vaccine response. Lifestyle & follow-up: Refer to immunologist, consider immunoglobulin replacement therapy."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 900 mg/dL, IgA 210 mg/dL, IgM 150 mg/dL, IgE 220 IU/mL","output":"Interpretation: Normal IgG with elevated IgE. Clinical significance: Strong allergic sensitization or atopic tendency. Future risks: Asthma attacks, skin flare-ups. Lifestyle & follow-up: Allergen testing, antihistamines as needed, avoid dust/pollutants."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1350 mg/dL, IgA 140 mg/dL, IgM 40 mg/dL, IgE 18 IU/mL","output":"Interpretation: Low IgM with mildly high IgG. Clinical significance: May indicate reduced early immune response with chronic immune activation. Future risks: Repeated viral infections. Lifestyle & follow-up: Improve sleep, balanced diet, repeat IgM in 6 months."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 750 mg/dL, IgA 22 mg/dL, IgM 65 mg/dL, IgE 14 IU/mL","output":"Interpretation: Low IgA. Clinical significance: Suggestive of selective IgA deficiency. Future risks: GI infections, food allergies. Lifestyle & follow-up: Probiotics, avoid unnecessary antibiotics, test for celiac if symptoms appear."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1600 mg/dL, IgA 420 mg/dL, IgM 200 mg/dL, IgE 300 IU/mL","output":"Interpretation: All levels high. Clinical significance: Sign of autoimmune activation or chronic inflammation. Future risks: Tissue inflammation, autoimmune progression. Lifestyle & follow-up: Anti-inflammatory diet, stress reduction, autoimmune panel if symptomatic."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 890 mg/dL, IgA 170 mg/dL, IgM 30 mg/dL, IgE 450 IU/mL","output":"Interpretation: Low IgM with high IgE. Clinical significance: Strong allergic tendency with weak rapid immune defense. Future risks: Prolonged infections, eczema. Lifestyle & follow-up: Manage allergies, hydrate well, track symptoms."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1000 mg/dL, IgA 320 mg/dL, IgM 190 mg/dL, IgE 40 IU/mL","output":"Interpretation: Elevated IgA and IgM. Clinical significance: Suggestive of recent infection or chronic mucosal inflammation. Future risks: Chronic sinus or gut issues. Lifestyle & follow-up: Hydrate, improve gut health, evaluate chronic symptoms."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 420 mg/dL, IgA 15 mg/dL, IgM 10 mg/dL, IgE 3 IU/mL","output":"Interpretation: Severe hypogammaglobulinemia. Clinical significance: Strong suspicion of primary immunodeficiency. Future risks: Persistent pneumonia, severe infections. Lifestyle & follow-up: Urgent immunology referral, Ig therapy consideration."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1300 mg/dL, IgA 330 mg/dL, IgM 100 mg/dL, IgE 55 IU/mL","output":"Interpretation: Elevated IgG/IgA. Clinical significance: Consistent with chronic immune activation. Future risks: Fatigue, inflammatory symptoms. Lifestyle & follow-up: Stress control, anti-inflammatory foods, periodic monitoring."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 950 mg/dL, IgA 110 mg/dL, IgM 42 mg/dL, IgE 250 IU/mL","output":"Interpretation: Low IgM with high IgE. Clinical significance: Allergic state with compromised early immune response. Future risks: Viral infections, asthma. Lifestyle & follow-up: Manage allergies, increase zinc/selenium intake."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1800 mg/dL, IgA 450 mg/dL, IgM 250 mg/dL, IgE 680 IU/mL","output":"Interpretation: Strongly elevated immunoglobulins. Clinical significance: Suggestive of autoimmune activity or chronic strong allergy. Future risks: Autoimmune complications or severe asthma. Lifestyle & follow-up: Anti-inflammatory diet, allergy testing, check autoimmune markers."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 650 mg/dL, IgA 70 mg/dL, IgM 33 mg/dL, IgE 15 IU/mL","output":"Interpretation: Low IgM with mildly low IgA. Clinical significance: Possible secondary immune suppression. Future risks: Mild infections. Lifestyle & follow-up: Adequate rest, hydrating fluids, repeat in 3–6 months."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1200 mg/dL, IgA 260 mg/dL, IgM 160 mg/dL, IgE 80 IU/mL","output":"Interpretation: Slightly elevated IgA/IgM. Clinical significance: Indicates recent infection recovery or mucosal irritation. Future risks: Recurrent sinus issues. Lifestyle & follow-up: Nasal hygiene, hydration, probiotics."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 720 mg/dL, IgA 28 mg/dL, IgM 45 mg/dL, IgE 10 IU/mL","output":"Interpretation: Low IgA. Clinical significance: Selective IgA deficiency suspected. Future risks: Allergies, GI infections. Lifestyle & follow-up: Avoid high-risk raw foods, maintain gut health."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1420 mg/dL, IgA 360 mg/dL, IgM 120 mg/dL, IgE 140 IU/mL","output":"Interpretation: Elevated IgG/IgA/IgE. Clinical significance: Chronic inflammation with allergy overlay. Future risks: Persistent respiratory irritation, skin issues. Lifestyle & follow-up: Identify allergens, anti-inflammatory diet, periodic monitoring."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 500 mg/dL, IgA 60 mg/dL, IgM 20 mg/dL, IgE 20 IU/mL","output":"Interpretation: Significant IgG and IgM reduction. Clinical significance: Possible early immune deficiency. Future risks: Frequent infections. Lifestyle & follow-up: Discuss immunology referral, maintain hand hygiene, adequate protein intake."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1650 mg/dL, IgA 410 mg/dL, IgM 160 mg/dL, IgE 260 IU/mL","output":"Interpretation: All values elevated. Clinical significance: Represents chronic immune stimulation or autoimmune condition. Future risks: Flare-ups, inflammation. Lifestyle & follow-up: Stress management, whole-food diet, monitor symptoms."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 820 mg/dL, IgA 190 mg/dL, IgM 35 mg/dL, IgE 390 IU/mL","output":"Interpretation: Low IgM with high IgE. Clinical significance: Allergy-driven inflammation with weakened first-line immunity. Future risks: Recurring viral infections. Lifestyle & follow-up: Allergy control, zinc supplementation, good hydration."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 900 mg/dL, IgA 310 mg/dL, IgM 140 mg/dL, IgE 45 IU/mL","output":"Interpretation: Elevated IgA. Clinical significance: Suggestive of mucosal inflammation or chronic sinusitis. Future risks: Long-term sinus discomfort. Lifestyle & follow-up: Steam inhalation, probiotics, avoid smoking exposure."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 480 mg/dL, IgA 15 mg/dL, IgM 18 mg/dL, IgE 2 IU/mL","output":"Interpretation: Severely depressed IgG/IgA/IgM. Clinical significance: Strong indication of immunodeficiency. Future risks: Life-threatening infections. Lifestyle & follow-up: Immunology consult, possible IVIG therapy, avoid crowds."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1350 mg/dL, IgA 280 mg/dL, IgM 130 mg/dL, IgE 75 IU/mL","output":"Interpretation: Mild overall elevation. Clinical significance: Suggests systemic inflammation. Future risks: Fatigue, muscle pain. Lifestyle & follow-up: Anti-inflammatory foods, hydration, monitor symptoms."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 950 mg/dL, IgA 95 mg/dL, IgM 40 mg/dL, IgE 210 IU/mL","output":"Interpretation: Low IgM with high IgE. Clinical significance: Atopic tendency with mild immunodeficiency. Future risks: Asthma, eczema. Lifestyle & follow-up: Reduce dust/allergens, consider ENT evaluation."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1750 mg/dL, IgA 330 mg/dL, IgM 210 mg/dL, IgE 520 IU/mL","output":"Interpretation: Marked elevations across all classes. Clinical significance: Autoimmune trigger or chronic allergic inflammation. Future risks: Organ inflammation or severe allergic reactions. Lifestyle & follow-up: Anti-inflammatory diet, sleep hygiene, allergy testing."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 610 mg/dL, IgA 90 mg/dL, IgM 25 mg/dL, IgE 8 IU/mL","output":"Interpretation: Low IgG and IgM. Clinical significance: Weak humoral immunity. Future risks: Respiratory infections. Lifestyle & follow-up: Vitamin-rich diet, adequate rest, re-evaluation in 3 months."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1550 mg/dL, IgA 270 mg/dL, IgM 160 mg/dL, IgE 300 IU/mL","output":"Interpretation: Elevated IgG and IgE. Clinical significance: Indicates allergic inflammation or chronic immune stimulation. Future risks: Asthma, eczema. Lifestyle & follow-up: Avoid triggers, hydration, regular exercise."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 850 mg/dL, IgA 250 mg/dL, IgM 110 mg/dL, IgE 15 IU/mL","output":"Interpretation: Elevated IgA. Clinical significance: GI inflammation or chronic sinus irritation. Future risks: Recurrent gut symptoms. Lifestyle & follow-up: High-fiber diet, hydration, evaluate for IBS if symptomatic."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 500 mg/dL, IgA 25 mg/dL, IgM 22 mg/dL, IgE 4 IU/mL","output":"Interpretation: Low levels across all immunoglobulins. Clinical significance: Strong possibility of primary immune deficiency. Future risks: Chronic infections. Lifestyle & follow-up: Immunology referral, avoid infection exposure."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1650 mg/dL, IgA 420 mg/dL, IgM 150 mg/dL, IgE 80 IU/mL","output":"Interpretation: Elevated IgG and IgA. Clinical significance: Chronic inflammation or autoimmune activation. Future risks: Fatigue, inflammatory symptoms. Lifestyle & follow-up: Anti-inflammatory habits, regular walking, monitor markers."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 780 mg/dL, IgA 20 mg/dL, IgM 40 mg/dL, IgE 25 IU/mL","output":"Interpretation: Low IgA. Clinical significance: Selective IgA deficiency likely. Future risks: Gut infections or allergies. Lifestyle & follow-up: Probiotics, hydration, regular dental hygiene."}
-{"instruction":"Interpret immunoglobulin profile","input":"IgG 1200 mg/dL, IgA 270 mg/dL, IgM 180 mg/dL, IgE 55 IU/mL","output":"Interpretation: Slight elevation across classes. Clinical significance: Systemic immune activation. Future risks: Chronic inflammation. Lifestyle & follow-up: Good sleep, stress control, regular physical activity."}
-{"instruction":"Interpret immunology profile","input":"IgG 1400 mg/dL, IgA 220 mg/dL, IgM 110 mg/dL, IgE 45 IU/mL","output":"Interpretation: All immunoglobulin levels are within normal limits.\nClinical significance: Healthy immune function without evidence of deficiency or allergy.\nFuture risks: No major risks.\nLifestyle & follow-up: Maintain general wellness, balanced diet, and yearly checkups."}
-{"instruction":"Interpret immunology profile","input":"IgG 620 mg/dL, IgA 85 mg/dL, IgM 40 mg/dL, IgE 12 IU/mL","output":"Interpretation: Low IgG, IgA, and IgM suggesting combined immunoglobulin deficiency.\nClinical significance: Possible primary immunodeficiency such as CVID.\nFuture risks: Recurrent infections, chronic sinusitis, autoimmune disorders.\nLifestyle & follow-up: Immunologist referral, vaccinations review, avoid exposure to infections."}
-{"instruction":"Interpret immunology profile","input":"IgG 2100 mg/dL, IgA 410 mg/dL, IgM 105 mg/dL, IgE 30 IU/mL","output":"Interpretation: Elevated IgG and IgA levels.\nClinical significance: May indicate chronic inflammation or autoimmune disease.\nFuture risks: Risk of autoimmune manifestations.\nLifestyle & follow-up: Check ESR/CRP, autoimmune screening, reduce chronic stress."}
-{"instruction":"Interpret immunology profile","input":"IgG 430 mg/dL, IgA 35 mg/dL, IgM 28 mg/dL, IgE 8 IU/mL","output":"Interpretation: Markedly low immunoglobulins.\nClinical significance: Suggestive of significant immunodeficiency.\nFuture risks: Pneumonia, severe infections, malabsorption.\nLifestyle & follow-up: Avoid crowded areas, frequent handwashing, immunology consultation."}
-{"instruction":"Interpret immunology profile","input":"IgG 1500 mg/dL, IgA 250 mg/dL, IgM 160 mg/dL, IgE 310 IU/mL","output":"Interpretation: Elevated IgE indicating allergic tendency.\nClinical significance: Likely atopy or allergic hypersensitivity.\nFuture risks: Asthma, dermatitis, food or environmental allergies.\nLifestyle & follow-up: Allergen avoidance, antihistamines if needed, consider allergy testing."}
-{"instruction":"Interpret immunology profile","input":"IgG 900 mg/dL, IgA 110 mg/dL, IgM 120 mg/dL, IgE 520 IU/mL","output":"Interpretation: Isolated high IgE.\nClinical significance: Associated with allergic reactions or parasitic infection.\nFuture risks: Eczema flares or asthma development.\nLifestyle & follow-up: Identify triggers, maintain skin hydration, deworm if indicated."}
-{"instruction":"Interpret immunology profile","input":"IgG 3000 mg/dL, IgA 95 mg/dL, IgM 90 mg/dL, IgE 25 IU/mL","output":"Interpretation: Very high IgG level.\nClinical significance: Could be monoclonal gammopathy or chronic infection.\nFuture risks: MGUS progression, neuropathy.\nLifestyle & follow-up: Serum electrophoresis recommended, avoid smoking, stay hydrated."}
-{"instruction":"Interpret immunology profile","input":"IgG 1350 mg/dL, IgA 600 mg/dL, IgM 75 mg/dL, IgE 20 IU/mL","output":"Interpretation: Elevated IgA.\nClinical significance: Often seen in chronic liver disease or mucosal inflammation.\nFuture risks: Kidney involvement (IgA nephropathy).\nLifestyle & follow-up: Kidney function monitoring, reduce alcohol intake."}
-{"instruction":"Interpret immunology profile","input":"IgG 1100 mg/dL, IgA 45 mg/dL, IgM 160 mg/dL, IgE 12 IU/mL","output":"Interpretation: Low IgA with normal IgG and IgM.\nClinical significance: Selective IgA deficiency.\nFuture risks: Sinus infections, food allergies, celiac disease.\nLifestyle & follow-up: Avoid unnecessary antibiotics, check for gluten sensitivity."}
-{"instruction":"Interpret immunology profile","input":"IgG 950 mg/dL, IgA 130 mg/dL, IgM 320 mg/dL, IgE 18 IU/mL","output":"Interpretation: Elevated IgM.\nClinical significance: Suggests acute infection or hyper-IgM syndrome.\nFuture risks: Opportunistic infections.\nLifestyle & follow-up: Repeat after illness recovery, maintain vaccinations."}
-{"instruction":"Interpret immunology profile","input":"IgG 1600 mg/dL, IgA 230 mg/dL, IgM 95 mg/dL, IgE 5 IU/mL","output":"Interpretation: Mildly high IgG.\nClinical significance: Chronic immune stimulation.\nFuture risks: Autoimmune symptoms.\nLifestyle & follow-up: Anti-inflammatory diet, regular exercise."}
-{"instruction":"Interpret immunology profile","input":"IgG 780 mg/dL, IgA 270 mg/dL, IgM 45 mg/dL, IgE 400 IU/mL","output":"Interpretation: Low IgM with elevated IgE.\nClinical significance: Allergic tendency with weak early immune response.\nFuture risks: Sinus allergies, respiratory infections.\nLifestyle & follow-up: Allergen control, nasal saline rinses."}
-{"instruction":"Interpret immunology profile","input":"IgG 200 mg/dL, IgA 20 mg/dL, IgM 10 mg/dL, IgE 2 IU/mL","output":"Interpretation: Severe pan-hypogammaglobulinemia.\nClinical significance: Major immunodeficiency.\nFuture risks: Life-threatening infections.\nLifestyle & follow-up: Urgent IVIG therapy evaluation, avoid crowds, immunologist referral."}
-{"instruction":"Interpret immunology profile","input":"IgG 2600 mg/dL, IgA 330 mg/dL, IgM 145 mg/dL, IgE 11 IU/mL","output":"Interpretation: Elevated IgG and IgA.\nClinical significance: Possible autoimmune or inflammatory disease.\nFuture risks: Chronic joint or organ inflammation.\nLifestyle & follow-up: Autoimmune panel testing recommended."}
-{"instruction":"Interpret immunology profile","input":"IgG 890 mg/dL, IgA 90 mg/dL, IgM 25 mg/dL, IgE 1800 IU/mL","output":"Interpretation: Extremely elevated IgE.\nClinical significance: Strong allergic diathesis or parasitic disease.\nFuture risks: Severe eczema, asthma.\nLifestyle & follow-up: Allergen testing, dermatology referral."}
-{"instruction":"Interpret immunology profile","input":"IgG 150 mg/dL, IgA 80 mg/dL, IgM 300 mg/dL, IgE 6 IU/mL","output":"Interpretation: Low IgG with high IgM.\nClinical significance: Hyper-IgM immunodeficiency.\nFuture risks: Bacterial and opportunistic infections.\nLifestyle & follow-up: Specialist review, prophylactic antibiotics."}
-{"instruction":"Interpret immunology profile","input":"IgG 1300 mg/dL, IgA 150 mg/dL, IgM 95 mg/dL, IgE 900 IU/mL","output":"Interpretation: High IgE with normal other immunoglobulins.\nClinical significance: Strong allergy profile.\nFuture risks: Asthma, dermatitis.\nLifestyle & follow-up: Remove dust allergens, HEPA filters."}
-{"instruction":"Interpret immunology profile","input":"IgG 1700 mg/dL, IgA 450 mg/dL, IgM 70 mg/dL, IgE 4 IU/mL","output":"Interpretation: Elevated IgA and IgG.\nClinical significance: Could be due to chronic liver disease.\nFuture risks: Portal hypertension, kidney impact.\nLifestyle & follow-up: Reduce alcohol, liver function evaluation."}
-{"instruction":"Interpret immunology profile","input":"IgG 980 mg/dL, IgA 410 mg/dL, IgM 155 mg/dL, IgE 17 IU/mL","output":"Interpretation: High IgA.\nClinical significance: Often mucosal inflammation.\nFuture risks: Sinusitis.\nLifestyle & follow-up: Hydration, reduce processed foods."}
-{"instruction":"Interpret immunology profile","input":"IgG 600 mg/dL, IgA 200 mg/dL, IgM 400 mg/dL, IgE 13 IU/mL","output":"Interpretation: Elevated IgM.\nClinical significance: Acute infectious response.\nFuture risks: Temporary immune stress.\nLifestyle & follow-up: Rest, hydration, repeat test in recovery."}
-{"instruction":"Interpret immunology profile","input":"IgG 1250 mg/dL, IgA 210 mg/dL, IgM 95 mg/dL, IgE 15 IU/mL","output":"Interpretation: All immunoglobulins within normal range.\nClinical significance: Indicates stable immune health.\nFuture risks: No significant immune-related risks.\nLifestyle & follow-up: Maintain balanced diet, exercise, routine yearly checkup."}
-{"instruction":"Interpret immunology profile","input":"IgG 400 mg/dL, IgA 25 mg/dL, IgM 15 mg/dL, IgE 5 IU/mL","output":"Interpretation: Globally low immunoglobulin levels.\nClinical significance: Suggestive of severe combined immunodeficiency or secondary immunosuppression.\nFuture risks: High risk of recurrent respiratory and GI infections.\nLifestyle & follow-up: Seek immunologist consultation, consider IVIG therapy, avoid infection exposure."}
-{"instruction":"Interpret immunology profile","input":"IgG 1800 mg/dL, IgA 350 mg/dL, IgM 150 mg/dL, IgE 22 IU/mL","output":"Interpretation: Elevated IgG and IgA.\nClinical significance: May indicate chronic inflammation or autoimmune disease.\nFuture risks: Arthritis, inflammatory bowel disease.\nLifestyle & follow-up: Anti-inflammatory diet, stress reduction, autoimmune screening."}
-{"instruction":"Interpret immunology profile","input":"IgG 800 mg/dL, IgA 40 mg/dL, IgM 60 mg/dL, IgE 9 IU/mL","output":"Interpretation: Markedly low IgA.\nClinical significance: Selective IgA deficiency.\nFuture risks: Sinus infections, allergies, celiac disease.\nLifestyle & follow-up: Avoid unnecessary antibiotics, maintain good nasal hygiene."}
-{"instruction":"Interpret immunology profile","input":"IgG 1550 mg/dL, IgA 275 mg/dL, IgM 65 mg/dL, IgE 780 IU/mL","output":"Interpretation: High IgE with normal IgG/A/M.\nClinical significance: Strong atopic/allergic predisposition.\nFuture risks: Allergic rhinitis, eczema, asthma.\nLifestyle & follow-up: Allergen avoidance, use HEPA filters, consider immunotherapy."}
-{"instruction":"Interpret immunology profile","input":"IgG 2600 mg/dL, IgA 600 mg/dL, IgM 80 mg/dL, IgE 7 IU/mL","output":"Interpretation: Markedly elevated IgG and IgA.\nClinical significance: Suggestive of chronic liver disease or autoimmune disorder.\nFuture risks: Cirrhosis, kidney inflammation.\nLifestyle & follow-up: Avoid alcohol, liver panel recommended."}
-{"instruction":"Interpret immunology profile","input":"IgG 1050 mg/dL, IgA 130 mg/dL, IgM 55 mg/dL, IgE 1500 IU/mL","output":"Interpretation: Isolated very high IgE.\nClinical significance: Severe allergic hypersensitivity.\nFuture risks: Dermatitis, allergic asthma.\nLifestyle & follow-up: Skin moisturization, avoid allergens, take antihistamines."}
-{"instruction":"Interpret immunology profile","input":"IgG 500 mg/dL, IgA 180 mg/dL, IgM 210 mg/dL, IgE 10 IU/mL","output":"Interpretation: Low IgG with high IgM.\nClinical significance: Could indicate hyper-IgM syndrome.\nFuture risks: Frequent bacterial infections.\nLifestyle & follow-up: Evaluate for immunodeficiency, maintain vaccination schedule."}
-{"instruction":"Interpret immunology profile","input":"IgG 1350 mg/dL, IgA 145 mg/dL, IgM 120 mg/dL, IgE 600 IU/mL","output":"Interpretation: Elevated IgE.\nClinical significance: Likely allergic sensitization.\nFuture risks: Asthma or seasonal allergies.\nLifestyle & follow-up: Reduce dust exposure, perform allergy panel testing."}
-{"instruction":"Interpret immunology profile","input":"IgG 180 mg/dL, IgA 15 mg/dL, IgM 8 mg/dL, IgE 1 IU/mL","output":"Interpretation: Profound immunoglobulin deficiency.\nClinical significance: Severe primary immunodeficiency.\nFuture risks: Dangerous infections requiring hospitalization.\nLifestyle & follow-up: Requires urgent immunologist management and possible IVIG therapy."}
-{"instruction":"Interpret immunology profile","input":"IgG 1600 mg/dL, IgA 320 mg/dL, IgM 140 mg/dL, IgE 25 IU/mL","output":"Interpretation: High IgG and IgA.\nClinical significance: Chronic inflammation.\nFuture risks: Autoimmune flare-ups.\nLifestyle & follow-up: Anti-inflammatory nutrition and regular monitoring."}
-{"instruction":"Interpret immunology profile","input":"IgG 920 mg/dL, IgA 480 mg/dL, IgM 100 mg/dL, IgE 11 IU/mL","output":"Interpretation: Elevated IgA.\nClinical significance: May be due to chronic mucosal irritation or liver disease.\nFuture risks: Kidney implications like IgA nephropathy.\nLifestyle & follow-up: Monitor urine protein, reduce salt intake."}
-{"instruction":"Interpret immunology profile","input":"IgG 1120 mg/dL, IgA 170 mg/dL, IgM 38 mg/dL, IgE 400 IU/mL","output":"Interpretation: Low IgM and high IgE.\nClinical significance: Weakened early immune response with strong allergic background.\nFuture risks: Recurrent sinus infections.\nLifestyle & follow-up: Probiotics, humidifier use, allergy management."}
-{"instruction":"Interpret immunology profile","input":"IgG 2000 mg/dL, IgA 120 mg/dL, IgM 50 mg/dL, IgE 18 IU/mL","output":"Interpretation: High IgG.\nClinical significance: Suggestive of chronic immune activation.\nFuture risks: Autoimmune diseases.\nLifestyle & follow-up: Prioritize sleep, check ANA/autoimmune markers."}
-{"instruction":"Interpret immunology profile","input":"IgG 850 mg/dL, IgA 10 mg/dL, IgM 20 mg/dL, IgE 14 IU/mL","output":"Interpretation: Very low IgA and IgM.\nClinical significance: Possible selective IgA deficiency with mild IgM suppression.\nFuture risks: Recurrent ear and sinus infections.\nLifestyle & follow-up: Nasal saline rinses, avoid smoking exposure."}
-{"instruction":"Interpret immunology profile","input":"IgG 1480 mg/dL, IgA 210 mg/dL, IgM 310 mg/dL, IgE 20 IU/mL","output":"Interpretation: Elevated IgM.\nClinical significance: Indicates acute infection or hyper-IgM disorder.\nFuture risks: Opportunistic infections.\nLifestyle & follow-up: Monitor symptoms and consider infection workup."}
-{"instruction":"Interpret immunology profile","input":"IgG 980 mg/dL, IgA 300 mg/dL, IgM 25 mg/dL, IgE 1200 IU/mL","output":"Interpretation: Low IgM and very high IgE.\nClinical significance: Allergic profile with weak early immune response.\nFuture risks: Asthma, eczema.\nLifestyle & follow-up: Environmental allergy management."}
-{"instruction":"Interpret immunology profile","input":"IgG 2400 mg/dL, IgA 90 mg/dL, IgM 40 mg/dL, IgE 8 IU/mL","output":"Interpretation: High IgG with low IgM.\nClinical significance: Possible monoclonal gammopathy or chronic infection.\nFuture risks: MGUS or multiple myeloma progression.\nLifestyle & follow-up: Serum protein electrophoresis advised."}
-{"instruction":"Interpret immunology profile","input":"IgG 920 mg/dL, IgA 200 mg/dL, IgM 195 mg/dL, IgE 7 IU/mL","output":"Interpretation: Elevated IgM.\nClinical significance: Suggestive of early immune activation.\nFuture risks: Potential viral illness.\nLifestyle & follow-up: Hydrate, rest, repeat test in 2–3 weeks."}
-{"instruction":"Interpret immunology profile","input":"IgG 1020 mg/dL, IgA 130 mg/dL, IgM 110 mg/dL, IgE 880 IU/mL","output":"Interpretation: High IgE.\nClinical significance: Allergic predisposition.\nFuture risks: Sinus allergies, asthma.\nLifestyle & follow-up: Use hypoallergenic bedding, allergy testing."}
-{"instruction":"Interpret immunology profile","input":"IgG 3100 mg/dL, IgA 400 mg/dL, IgM 85 mg/dL, IgE 10 IU/mL","output":"Interpretation: Markedly elevated IgG and IgA.\nClinical significance: Could indicate autoimmune hepatitis or chronic inflammation.\nFuture risks: Liver complications.\nLifestyle & follow-up: Avoid hepatotoxins, perform liver panel."}
-{"instruction":"Interpret immunology profile","input":"IgG 650 mg/dL, IgA 250 mg/dL, IgM 10 mg/dL, IgE 6 IU/mL","output":"Interpretation: Very low IgM.\nClinical significance: Weakened early immune response.\nFuture risks: Bacterial infections.\nLifestyle & follow-up: Avoid sick contacts, consider immunologist referral."}
-{"instruction":"Interpret immunology profile","input":"IgG 1700 mg/dL, IgA 150 mg/dL, IgM 160 mg/dL, IgE 40 IU/mL","output":"Interpretation: Mildly elevated IgG.\nClinical significance: Chronic immune stimulation.\nFuture risks: Low-grade autoimmune tendency.\nLifestyle & follow-up: Stress management, anti-inflammatory diet."}
-{"instruction":"Interpret immunology profile","input":"IgG 740 mg/dL, IgA 30 mg/dL, IgM 180 mg/dL, IgE 25 IU/mL","output":"Interpretation: Low IgA with high IgM.\nClinical significance: Possible IgA deficiency with compensatory IgM response.\nFuture risks: Respiratory infections.\nLifestyle & follow-up: Nasal hygiene, probiotics."}
-{"instruction":"Interpret immunology profile","input":"IgG 2500 mg/dL, IgA 270 mg/dL, IgM 60 mg/dL, IgE 14 IU/mL","output":"Interpretation: High IgG with mildly elevated IgA.\nClinical significance: Suggests chronic inflammation.\nFuture risks: Autoimmune dysfunction.\nLifestyle & follow-up: Regular checkups and inflammatory marker testing."}
-{"instruction":"Interpret immunology profile","input":"IgG 900 mg/dL, IgA 125 mg/dL, IgM 450 mg/dL, IgE 11 IU/mL","output":"Interpretation: Markedly high IgM.\nClinical significance: Could indicate hyper-IgM syndrome or acute infection.\nFuture risks: Chronic infections if immune dysfunction persists.\nLifestyle & follow-up: Infectious disease evaluation recommended."}
-{"instruction":"Interpret immunology profile","input":"IgG 1200 mg/dL, IgA 420 mg/dL, IgM 70 mg/dL, IgE 30 IU/mL","output":"Interpretation: Elevated IgA.\nClinical significance: Often linked to mucosal inflammation.\nFuture risks: Kidney involvement.\nLifestyle & follow-up: Increase hydration, kidney function tests."}
-{"instruction":"Interpret immunology profile","input":"IgG 720 mg/dL, IgA 430 mg/dL, IgM 55 mg/dL, IgE 9 IU/mL","output":"Interpretation: High IgA with low IgM.\nClinical significance: Could indicate chronic mucosal disease.\nFuture risks: Recurrent sinus issues.\nLifestyle & follow-up: Humidifier use, saline nasal rinses."}
-{"instruction":"Interpret immunology profile","input":"IgG 190 mg/dL, IgA 18 mg/dL, IgM 22 mg/dL, IgE 4 IU/mL","output":"Interpretation: Severe low IgG and IgA.\nClinical significance: Significant immunodeficiency.\nFuture risks: Pneumonia, GI infections.\nLifestyle & follow-up: Urgent specialist evaluation, IVIG consideration."}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. ANA positive (1:160, speckled pattern), Joint pain present.",
+  "output": "Interpretation:\nPositive antinuclear antibody test.\n\nClinical Significance:\nSuggests possible autoimmune connective tissue disorder.\n\nPossible Causes:\nSystemic lupus erythematosus or related autoimmune disease.\n\nPotential Risks:\nProgressive autoimmune organ involvement.\n\nLifestyle & Follow-up:\nRheumatology consultation and further autoimmune panel testing recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. CRP 18 mg/L, ESR 42 mm/hr, Fever present.",
+  "output": "Interpretation:\nElevated inflammatory markers.\n\nClinical Significance:\nIndicates active systemic inflammation.\n\nPossible Causes:\nAcute infection or inflammatory disorder.\n\nPotential Risks:\nProgression of underlying disease.\n\nLifestyle & Follow-up:\nIdentify source of inflammation and initiate appropriate treatment."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 28 years. IgE 520 IU/mL, History of allergic rhinitis.",
+  "output": "Interpretation:\nElevated IgE levels.\n\nClinical Significance:\nSuggests allergic predisposition.\n\nPossible Causes:\nAtopic conditions such as allergic rhinitis.\n\nPotential Risks:\nExacerbation of allergic symptoms.\n\nLifestyle & Follow-up:\nAllergen avoidance and allergy management advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Rheumatoid factor 96 IU/mL, Morning stiffness reported.",
+  "output": "Interpretation:\nPositive rheumatoid factor.\n\nClinical Significance:\nSupports diagnosis of inflammatory arthritis.\n\nPossible Causes:\nRheumatoid arthritis.\n\nPotential Risks:\nJoint damage and functional limitation.\n\nLifestyle & Follow-up:\nEarly rheumatologic evaluation and disease-modifying therapy recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 61 years. Anti-dsDNA positive, Low complement levels.",
+  "output": "Interpretation:\nAutoantibody positivity with complement consumption.\n\nClinical Significance:\nIndicates active autoimmune disease.\n\nPossible Causes:\nActive systemic lupus erythematosus.\n\nPotential Risks:\nRenal and systemic involvement.\n\nLifestyle & Follow-up:\nUrgent rheumatology follow-up and disease activity monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 39 years. CRP 3 mg/L, ESR 8 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory markers.\n\nClinical Significance:\nNo evidence of active systemic inflammation.\n\nPossible Causes:\nNormal immune status.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine monitoring sufficient."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. Anti-CCP antibodies positive, Hand joint pain.",
+  "output": "Interpretation:\nAnti-CCP antibody positivity.\n\nClinical Significance:\nHighly specific for rheumatoid arthritis.\n\nPossible Causes:\nEarly rheumatoid arthritis.\n\nPotential Risks:\nProgressive joint erosion.\n\nLifestyle & Follow-up:\nEarly initiation of disease-modifying therapy advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 66 years. IgG 520 mg/dL, Recurrent infections.",
+  "output": "Interpretation:\nLow IgG levels.\n\nClinical Significance:\nSuggests humoral immunodeficiency.\n\nPossible Causes:\nPrimary or secondary immunodeficiency.\n\nPotential Risks:\nIncreased susceptibility to infections.\n\nLifestyle & Follow-up:\nImmunology referral and immunoglobulin replacement consideration recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 30 years. ANA negative, Persistent fatigue.",
+  "output": "Interpretation:\nNegative autoimmune screening.\n\nClinical Significance:\nAutoimmune disease less likely.\n\nPossible Causes:\nNon-immunologic causes of fatigue.\n\nPotential Risks:\nNone specific.\n\nLifestyle & Follow-up:\nEvaluate for metabolic or lifestyle-related factors."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. CRP 12 mg/L, ESR 28 mm/hr, Known diabetes.",
+  "output": "Interpretation:\nModerately elevated inflammatory markers.\n\nClinical Significance:\nChronic low-grade inflammation.\n\nPossible Causes:\nMetabolic inflammation or infection.\n\nPotential Risks:\nWorsening metabolic control.\n\nLifestyle & Follow-up:\nOptimize glycemic control and evaluate for infection."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 43 years. IgA 62 mg/dL, Frequent sinus infections.",
+  "output": "Interpretation:\nLow IgA levels.\n\nClinical Significance:\nSuggests selective IgA deficiency.\n\nPossible Causes:\nPrimary immunodeficiency.\n\nPotential Risks:\nRecurrent mucosal infections.\n\nLifestyle & Follow-up:\nImmunology assessment and infection prevention strategies advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 36 years. HLA-B27 positive, Chronic back pain.",
+  "output": "Interpretation:\nHLA-B27 positivity.\n\nClinical Significance:\nAssociated with spondyloarthropathies.\n\nPossible Causes:\nAnkylosing spondylitis.\n\nPotential Risks:\nProgressive spinal stiffness.\n\nLifestyle & Follow-up:\nRheumatology evaluation and imaging recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. CRP 1.2 mg/L, ESR 10 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory markers.\n\nClinical Significance:\nNo active inflammatory or autoimmune process.\n\nPossible Causes:\nNormal immune function.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo intervention required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. IgM 42 mg/dL, Recurrent viral infections.",
+  "output": "Interpretation:\nLow IgM levels.\n\nClinical Significance:\nPossible immune response impairment.\n\nPossible Causes:\nSecondary immunodeficiency.\n\nPotential Risks:\nRecurrent infections.\n\nLifestyle & Follow-up:\nFurther immunologic evaluation advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 67 years. ANA positive (1:80), No symptoms.",
+  "output": "Interpretation:\nLow-titer ANA positivity.\n\nClinical Significance:\nMay be incidental finding.\n\nPossible Causes:\nAge-related autoantibody presence.\n\nPotential Risks:\nLow risk without clinical symptoms.\n\nLifestyle & Follow-up:\nClinical correlation and periodic monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. CRP 22 mg/L, ESR 55 mm/hr, Night sweats.",
+  "output": "Interpretation:\nMarkedly elevated inflammatory markers.\n\nClinical Significance:\nStrong indication of active inflammatory or infectious process.\n\nPossible Causes:\nSevere infection or inflammatory disease.\n\nPotential Risks:\nSystemic complications.\n\nLifestyle & Follow-up:\nUrgent diagnostic evaluation required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 35 years. Anti-TPO antibodies positive, TSH elevated.",
+  "output": "Interpretation:\nAutoimmune thyroid antibody positivity.\n\nClinical Significance:\nIndicates autoimmune thyroid disease.\n\nPossible Causes:\nHashimoto's thyroiditis.\n\nPotential Risks:\nProgressive hypothyroidism.\n\nLifestyle & Follow-up:\nEndocrinology follow-up and thyroid function monitoring recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 60 years. IgE 45 IU/mL, No allergic symptoms.",
+  "output": "Interpretation:\nNormal IgE level.\n\nClinical Significance:\nNo evidence of allergic sensitization.\n\nPossible Causes:\nNormal immune response.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo action needed."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 50 years. Complement C3 low, ANA positive.",
+  "output": "Interpretation:\nLow complement levels with autoantibody positivity.\n\nClinical Significance:\nSuggests active immune complex-mediated disease.\n\nPossible Causes:\nSystemic lupus erythematosus.\n\nPotential Risks:\nRenal and systemic complications.\n\nLifestyle & Follow-up:\nClose rheumatologic monitoring required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 54 years. CRP 9 mg/L, ESR 30 mm/hr, Obesity present.",
+  "output": "Interpretation:\nMild to moderate elevation of inflammatory markers.\n\nClinical Significance:\nChronic low-grade inflammation.\n\nPossible Causes:\nObesity-related inflammatory state.\n\nPotential Risks:\nIncreased cardiovascular risk.\n\nLifestyle & Follow-up:\nWeight management and metabolic optimization advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. ANA positive (1:320, homogeneous), Photosensitivity reported.",
+  "output": "Interpretation:\nHigh-titer ANA positivity.\n\nClinical Significance:\nStrongly suggests systemic autoimmune disease.\n\nPossible Causes:\nSystemic lupus erythematosus.\n\nPotential Risks:\nMulti-organ involvement.\n\nLifestyle & Follow-up:\nComprehensive autoimmune workup and rheumatology referral recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 62 years. IgG 1420 mg/dL, Normal clinical history.",
+  "output": "Interpretation:\nNormal IgG levels.\n\nClinical Significance:\nAdequate humoral immunity.\n\nPossible Causes:\nNormal immune function.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine health monitoring sufficient."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 46 years. Anti-ENA panel positive, Dry eyes reported.",
+  "output": "Interpretation:\nExtractable nuclear antigen antibody positivity.\n\nClinical Significance:\nSuggests autoimmune connective tissue disorder.\n\nPossible Causes:\nSjögren’s syndrome.\n\nPotential Risks:\nChronic mucosal dryness and systemic involvement.\n\nLifestyle & Follow-up:\nRheumatologic evaluation and symptomatic management advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 37 years. CRP 0.6 mg/L, ESR 5 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory markers.\n\nClinical Significance:\nNo active inflammation.\n\nPossible Causes:\nNormal immune status.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo intervention required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 59 years. IgE 680 IU/mL, Chronic eczema.",
+  "output": "Interpretation:\nMarkedly elevated IgE levels.\n\nClinical Significance:\nIndicates atopic immune response.\n\nPossible Causes:\nAtopic dermatitis.\n\nPotential Risks:\nPersistent allergic inflammation.\n\nLifestyle & Follow-up:\nDermatologic and allergy management recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 48 years. Rheumatoid factor negative, Anti-CCP negative, Joint pain present.",
+  "output": "Interpretation:\nNegative rheumatoid markers.\n\nClinical Significance:\nInflammatory arthritis less likely.\n\nPossible Causes:\nDegenerative or mechanical joint disease.\n\nPotential Risks:\nChronic pain.\n\nLifestyle & Follow-up:\nOrthopedic assessment and symptom management advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 33 years. IgM 180 mg/dL, Recent viral infection.",
+  "output": "Interpretation:\nElevated IgM levels.\n\nClinical Significance:\nRecent or ongoing immune response.\n\nPossible Causes:\nAcute viral infection.\n\nPotential Risks:\nNone significant.\n\nLifestyle & Follow-up:\nSupportive care and recovery monitoring recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 71 years. CRP 14 mg/L, ESR 48 mm/hr, Weight loss present.",
+  "output": "Interpretation:\nSignificantly elevated inflammatory markers.\n\nClinical Significance:\nSystemic inflammatory or malignant process possible.\n\nPossible Causes:\nChronic infection or malignancy.\n\nPotential Risks:\nProgressive systemic illness.\n\nLifestyle & Follow-up:\nUrgent comprehensive diagnostic evaluation required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 40 years. Anti-phospholipid antibodies positive, History of miscarriage.",
+  "output": "Interpretation:\nAntiphospholipid antibody positivity.\n\nClinical Significance:\nIndicates hypercoagulable autoimmune state.\n\nPossible Causes:\nAntiphospholipid syndrome.\n\nPotential Risks:\nThrombosis and pregnancy complications.\n\nLifestyle & Follow-up:\nHematology and rheumatology consultation advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 56 years. Complement C4 low, Recurrent vasculitic rash.",
+  "output": "Interpretation:\nLow complement levels.\n\nClinical Significance:\nSuggests immune complex-mediated inflammation.\n\nPossible Causes:\nSystemic vasculitis.\n\nPotential Risks:\nOrgan damage.\n\nLifestyle & Follow-up:\nSpecialist evaluation and immune suppression consideration required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 26 years. CRP 2.0 mg/L, Mild sore throat.",
+  "output": "Interpretation:\nSlightly elevated inflammatory marker.\n\nClinical Significance:\nMild acute inflammation.\n\nPossible Causes:\nUpper respiratory infection.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nSymptomatic treatment and rest advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 63 years. IgA 320 mg/dL, Normal clinical history.",
+  "output": "Interpretation:\nNormal IgA levels.\n\nClinical Significance:\nNormal mucosal immune function.\n\nPossible Causes:\nHealthy immune response.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine care only."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. ANA negative, Anti-dsDNA negative.",
+  "output": "Interpretation:\nNegative autoimmune serology.\n\nClinical Significance:\nSystemic autoimmune disease unlikely.\n\nPossible Causes:\nNormal immune profile.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo further autoimmune testing required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. CRP 16 mg/L, ESR 36 mm/hr, Chronic smoker.",
+  "output": "Interpretation:\nElevated inflammatory markers.\n\nClinical Significance:\nChronic systemic inflammation.\n\nPossible Causes:\nSmoking-related inflammatory response.\n\nPotential Risks:\nCardiovascular and pulmonary disease.\n\nLifestyle & Follow-up:\nSmoking cessation and risk factor modification advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 68 years. IgG 1820 mg/dL, Chronic liver disease.",
+  "output": "Interpretation:\nElevated IgG levels.\n\nClinical Significance:\nChronic immune activation.\n\nPossible Causes:\nChronic liver disease.\n\nPotential Risks:\nProgressive hepatic dysfunction.\n\nLifestyle & Follow-up:\nHepatology follow-up and immune monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 35 years. Anti-streptolysin O (ASO) titer elevated, Recent sore throat.",
+  "output": "Interpretation:\nElevated ASO titer.\n\nClinical Significance:\nRecent streptococcal infection.\n\nPossible Causes:\nPost-streptococcal immune response.\n\nPotential Risks:\nRheumatic complications.\n\nLifestyle & Follow-up:\nMonitor for post-infectious sequelae."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 51 years. CRP 4 mg/L, ESR 14 mm/hr.",
+  "output": "Interpretation:\nBorderline inflammatory markers.\n\nClinical Significance:\nMild inflammation.\n\nPossible Causes:\nEarly or resolving inflammatory process.\n\nPotential Risks:\nLow.\n\nLifestyle & Follow-up:\nClinical correlation and observation advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 69 years. IgE 780 IU/mL, Asthma history.",
+  "output": "Interpretation:\nVery high IgE levels.\n\nClinical Significance:\nSevere allergic or atopic condition.\n\nPossible Causes:\nAllergic asthma.\n\nPotential Risks:\nAsthma exacerbations.\n\nLifestyle & Follow-up:\nOptimize asthma and allergy management."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 42 years. Anti-mitochondrial antibodies positive, Elevated ALP.",
+  "output": "Interpretation:\nAutoimmune liver antibody positivity.\n\nClinical Significance:\nSuggests autoimmune cholestatic liver disease.\n\nPossible Causes:\nPrimary biliary cholangitis.\n\nPotential Risks:\nProgressive liver dysfunction.\n\nLifestyle & Follow-up:\nHepatology referral and monitoring recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 45 years. CRP 12 mg/L, ESR 28 mm/hr, Fever present.",
+  "output": "Interpretation:\nElevated inflammatory markers.\n\nClinical Significance:\nActive systemic inflammation.\n\nPossible Causes:\nAcute bacterial or inflammatory condition.\n\nPotential Risks:\nProgression to systemic infection.\n\nLifestyle & Follow-up:\nClinical evaluation and appropriate treatment advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 60 years. ANA positive (1:160 speckled), Arthralgia reported.",
+  "output": "Interpretation:\nModerate-titer ANA positivity.\n\nClinical Significance:\nSuggestive of autoimmune connective tissue disorder.\n\nPossible Causes:\nEarly systemic autoimmune disease.\n\nPotential Risks:\nChronic inflammatory symptoms.\n\nLifestyle & Follow-up:\nRheumatology referral and extended antibody testing advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 33 years. IgG 720 mg/dL, Recurrent infections.",
+  "output": "Interpretation:\nLow-normal IgG levels.\n\nClinical Significance:\nPossible impaired humoral immunity.\n\nPossible Causes:\nPrimary or secondary immunodeficiency.\n\nPotential Risks:\nRecurrent infections.\n\nLifestyle & Follow-up:\nImmunology evaluation recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 48 years. Anti-dsDNA positive, Renal symptoms present.",
+  "output": "Interpretation:\nAnti-dsDNA antibody positivity.\n\nClinical Significance:\nHigh specificity for systemic lupus erythematosus.\n\nPossible Causes:\nActive lupus flare.\n\nPotential Risks:\nRenal involvement.\n\nLifestyle & Follow-up:\nUrgent rheumatologic and renal assessment required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 57 years. CRP 1.1 mg/L, ESR 8 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory markers.\n\nClinical Significance:\nNo evidence of active inflammation.\n\nPossible Causes:\nNormal immune state.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine monitoring only."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 36 years. IgE 520 IU/mL, Seasonal allergic rhinitis.",
+  "output": "Interpretation:\nElevated IgE levels.\n\nClinical Significance:\nAllergic immune response.\n\nPossible Causes:\nSeasonal allergies.\n\nPotential Risks:\nChronic allergic symptoms.\n\nLifestyle & Follow-up:\nAllergen avoidance and medical management advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 66 years. Complement C3 low, Chronic hepatitis.",
+  "output": "Interpretation:\nReduced complement levels.\n\nClinical Significance:\nImmune consumption due to chronic inflammation.\n\nPossible Causes:\nChronic liver disease.\n\nPotential Risks:\nImpaired immune defense.\n\nLifestyle & Follow-up:\nMonitor liver disease and immune status."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 52 years. CRP 7 mg/L, ESR 22 mm/hr, Obesity present.",
+  "output": "Interpretation:\nMildly elevated inflammatory markers.\n\nClinical Significance:\nLow-grade chronic inflammation.\n\nPossible Causes:\nMetabolic inflammation.\n\nPotential Risks:\nCardiovascular disease.\n\nLifestyle & Follow-up:\nWeight management and lifestyle modification advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 41 years. Anti-CCP positive, Joint stiffness present.",
+  "output": "Interpretation:\nAnti-CCP antibody positivity.\n\nClinical Significance:\nHighly suggestive of rheumatoid arthritis.\n\nPossible Causes:\nAutoimmune inflammatory arthritis.\n\nPotential Risks:\nProgressive joint damage.\n\nLifestyle & Follow-up:\nEarly rheumatologic treatment recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 64 years. IgM 48 mg/dL, Recurrent infections.",
+  "output": "Interpretation:\nLow IgM levels.\n\nClinical Significance:\nPossible humoral immune deficiency.\n\nPossible Causes:\nAge-related immune decline or secondary immunodeficiency.\n\nPotential Risks:\nIncreased susceptibility to infections.\n\nLifestyle & Follow-up:\nFurther immunologic evaluation advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 29 years. CRP 18 mg/L, High fever and chills.",
+  "output": "Interpretation:\nMarked elevation of inflammatory marker.\n\nClinical Significance:\nSevere acute inflammation.\n\nPossible Causes:\nAcute bacterial infection.\n\nPotential Risks:\nSepsis if untreated.\n\nLifestyle & Follow-up:\nImmediate medical evaluation required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. ANA negative, Persistent fatigue.",
+  "output": "Interpretation:\nNegative autoimmune screening.\n\nClinical Significance:\nSystemic autoimmune disease unlikely.\n\nPossible Causes:\nNon-immune causes of fatigue.\n\nPotential Risks:\nNone specific.\n\nLifestyle & Follow-up:\nEvaluate metabolic and endocrine factors."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 72 years. IgG 1980 mg/dL, Chronic inflammation.",
+  "output": "Interpretation:\nElevated IgG levels.\n\nClinical Significance:\nChronic immune activation.\n\nPossible Causes:\nChronic inflammatory or infectious disease.\n\nPotential Risks:\nOrgan damage.\n\nLifestyle & Follow-up:\nOngoing monitoring and specialist care advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. Anti-histone antibodies positive, On long-term medication.",
+  "output": "Interpretation:\nAnti-histone antibody positivity.\n\nClinical Significance:\nSuggests drug-induced autoimmune reaction.\n\nPossible Causes:\nDrug-induced lupus.\n\nPotential Risks:\nSystemic symptoms.\n\nLifestyle & Follow-up:\nMedication review and rheumatology consultation advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 50 years. CRP 3 mg/L, ESR 12 mm/hr.",
+  "output": "Interpretation:\nNear-normal inflammatory markers.\n\nClinical Significance:\nNo significant systemic inflammation.\n\nPossible Causes:\nPhysiological variation.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine follow-up sufficient."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 67 years. IgA 410 mg/dL, Chronic liver disease.",
+  "output": "Interpretation:\nElevated IgA levels.\n\nClinical Significance:\nChronic immune stimulation.\n\nPossible Causes:\nAlcohol-related or chronic liver disease.\n\nPotential Risks:\nProgressive hepatic dysfunction.\n\nLifestyle & Follow-up:\nLiver disease management and monitoring recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. CRP 6 mg/L, Recent dental infection.",
+  "output": "Interpretation:\nMildly elevated inflammatory marker.\n\nClinical Significance:\nLocalized inflammatory response.\n\nPossible Causes:\nDental or oral infection.\n\nPotential Risks:\nSystemic spread if untreated.\n\nLifestyle & Follow-up:\nDental treatment and follow-up advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 55 years. Anti-smooth muscle antibodies positive, Elevated liver enzymes.",
+  "output": "Interpretation:\nAutoimmune liver antibody positivity.\n\nClinical Significance:\nSuggestive of autoimmune hepatitis.\n\nPossible Causes:\nImmune-mediated liver inflammation.\n\nPotential Risks:\nProgressive liver damage.\n\nLifestyle & Follow-up:\nHepatology referral and immune therapy consideration advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. IgE 95 IU/mL, No allergy history.",
+  "output": "Interpretation:\nNormal IgE levels.\n\nClinical Significance:\nNo evidence of allergic immune activation.\n\nPossible Causes:\nNormal immune profile.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo intervention required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 31 years. CRP 0.4 mg/L, ESR 4 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory markers.\n\nClinical Significance:\nNo active inflammation.\n\nPossible Causes:\nHealthy immune status.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine care only."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 54 years. CRP 9 mg/L, ESR 26 mm/hr, Type 2 diabetes present.",
+  "output": "Interpretation:\nModerately elevated inflammatory markers.\n\nClinical Significance:\nChronic low-grade inflammation.\n\nPossible Causes:\nMetabolic inflammation related to diabetes.\n\nPotential Risks:\nCardiovascular complications.\n\nLifestyle & Follow-up:\nOptimize glycemic control and adopt anti-inflammatory lifestyle measures."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 42 years. ANA positive (1:80 homogeneous), No clinical symptoms.",
+  "output": "Interpretation:\nLow-titer ANA positivity.\n\nClinical Significance:\nMay be incidental finding.\n\nPossible Causes:\nBenign autoantibody presence.\n\nPotential Risks:\nLow likelihood of autoimmune disease.\n\nLifestyle & Follow-up:\nClinical monitoring without immediate intervention advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 61 years. IgG 520 mg/dL, Chronic steroid therapy.",
+  "output": "Interpretation:\nReduced IgG levels.\n\nClinical Significance:\nSecondary immunosuppression.\n\nPossible Causes:\nLong-term corticosteroid use.\n\nPotential Risks:\nIncreased infection susceptibility.\n\nLifestyle & Follow-up:\nInfection monitoring and immunology consultation recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 37 years. Anti-TPO antibodies elevated, Fatigue present.",
+  "output": "Interpretation:\nAutoimmune thyroid antibody positivity.\n\nClinical Significance:\nSuggestive of autoimmune thyroiditis.\n\nPossible Causes:\nHashimoto’s thyroiditis.\n\nPotential Risks:\nProgression to hypothyroidism.\n\nLifestyle & Follow-up:\nThyroid function monitoring and endocrinology follow-up advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 48 years. CRP 14 mg/L, Productive cough and fever.",
+  "output": "Interpretation:\nSignificantly elevated CRP.\n\nClinical Significance:\nAcute inflammatory response.\n\nPossible Causes:\nLower respiratory tract infection.\n\nPotential Risks:\nPneumonia-related complications.\n\nLifestyle & Follow-up:\nPrompt medical evaluation and treatment required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 65 years. IgM 32 mg/dL, History of recurrent urinary infections.",
+  "output": "Interpretation:\nLow IgM concentration.\n\nClinical Significance:\nImpaired early immune response.\n\nPossible Causes:\nAge-related immune decline.\n\nPotential Risks:\nRecurrent bacterial infections.\n\nLifestyle & Follow-up:\nFurther immune assessment and preventive strategies advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 35 years. CRP 2 mg/L, ESR 10 mm/hr, Regular physical activity.",
+  "output": "Interpretation:\nNear-normal inflammatory markers.\n\nClinical Significance:\nHealthy immune-inflammatory balance.\n\nPossible Causes:\nPhysiological variation.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nMaintain current healthy lifestyle."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 58 years. Anti-mitochondrial antibodies positive, Pruritus reported.",
+  "output": "Interpretation:\nAutoimmune liver antibody positivity.\n\nClinical Significance:\nSuggestive of primary biliary cholangitis.\n\nPossible Causes:\nAutoimmune bile duct injury.\n\nPotential Risks:\nProgressive cholestatic liver disease.\n\nLifestyle & Follow-up:\nHepatology referral and liver function monitoring recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 44 years. IgE 680 IU/mL, Chronic asthma.",
+  "output": "Interpretation:\nMarkedly elevated IgE levels.\n\nClinical Significance:\nAllergic immune dysregulation.\n\nPossible Causes:\nAtopic asthma.\n\nPotential Risks:\nFrequent asthma exacerbations.\n\nLifestyle & Follow-up:\nAllergen control and optimized asthma management advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 70 years. CRP 11 mg/L, ESR 40 mm/hr, Weight loss reported.",
+  "output": "Interpretation:\nSignificantly elevated inflammatory markers.\n\nClinical Significance:\nPossible serious underlying pathology.\n\nPossible Causes:\nChronic infection or malignancy.\n\nPotential Risks:\nDelayed diagnosis.\n\nLifestyle & Follow-up:\nComprehensive clinical evaluation urgently recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 52 years. Complement C4 low, Facial rash present.",
+  "output": "Interpretation:\nReduced complement levels.\n\nClinical Significance:\nImmune complex-mediated disease.\n\nPossible Causes:\nSystemic lupus erythematosus.\n\nPotential Risks:\nMulti-organ involvement.\n\nLifestyle & Follow-up:\nAutoimmune workup and rheumatology referral advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 28 years. CRP 0.6 mg/L, ESR 5 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory profile.\n\nClinical Significance:\nNo evidence of active inflammation.\n\nPossible Causes:\nNormal immune function.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo action required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 63 years. IgA 430 mg/dL, Chronic alcohol use.",
+  "output": "Interpretation:\nElevated IgA levels.\n\nClinical Significance:\nChronic immune stimulation.\n\nPossible Causes:\nAlcohol-related liver disease.\n\nPotential Risks:\nHepatic complications.\n\nLifestyle & Follow-up:\nAlcohol cessation and liver monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 47 years. Anti-Ro antibodies positive, Dry eyes reported.",
+  "output": "Interpretation:\nAnti-Ro antibody positivity.\n\nClinical Significance:\nSuggestive of Sjögren’s syndrome.\n\nPossible Causes:\nAutoimmune exocrine gland dysfunction.\n\nPotential Risks:\nChronic dryness and systemic involvement.\n\nLifestyle & Follow-up:\nRheumatology evaluation and symptomatic management recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 39 years. CRP 4 mg/L, Recent viral illness.",
+  "output": "Interpretation:\nMild elevation of inflammatory marker.\n\nClinical Significance:\nResolving inflammatory response.\n\nPossible Causes:\nRecent viral infection.\n\nPotential Risks:\nMinimal.\n\nLifestyle & Follow-up:\nRest and hydration advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 56 years. IgG 1650 mg/dL, Chronic inflammatory arthritis.",
+  "output": "Interpretation:\nElevated IgG levels.\n\nClinical Significance:\nChronic immune activation.\n\nPossible Causes:\nAutoimmune inflammatory disease.\n\nPotential Risks:\nProgressive joint damage.\n\nLifestyle & Follow-up:\nContinue disease-modifying therapy and monitoring."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 71 years. CRP 5 mg/L, ESR 18 mm/hr.",
+  "output": "Interpretation:\nMild inflammatory marker elevation.\n\nClinical Significance:\nLow-grade inflammation.\n\nPossible Causes:\nAge-related inflammatory changes.\n\nPotential Risks:\nCardiovascular disease.\n\nLifestyle & Follow-up:\nHealthy diet and routine monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. IgM 120 mg/dL, No infection history.",
+  "output": "Interpretation:\nNormal IgM levels.\n\nClinical Significance:\nAdequate primary immune response.\n\nPossible Causes:\nNormal immune status.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo intervention needed."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 46 years. CRP 16 mg/L, Severe abdominal pain.",
+  "output": "Interpretation:\nMarked elevation of CRP.\n\nClinical Significance:\nSignificant acute inflammation.\n\nPossible Causes:\nIntra-abdominal infection or inflammation.\n\nPotential Risks:\nSepsis if untreated.\n\nLifestyle & Follow-up:\nImmediate diagnostic evaluation required."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 62 years. ANA negative, CRP 0.8 mg/L.",
+  "output": "Interpretation:\nNormal immune and inflammatory markers.\n\nClinical Significance:\nAutoimmune disease unlikely.\n\nPossible Causes:\nHealthy immune function.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine care advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 58 years. CRP 6 mg/L, ESR 20 mm/hr, Hypertension present.",
+  "output": "Interpretation:\nMild elevation of inflammatory markers.\n\nClinical Significance:\nLow-grade systemic inflammation.\n\nPossible Causes:\nCardiometabolic inflammation.\n\nPotential Risks:\nIncreased cardiovascular risk.\n\nLifestyle & Follow-up:\nBlood pressure control, exercise, and anti-inflammatory diet advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 41 years. IgG 640 mg/dL, Frequent upper respiratory infections.",
+  "output": "Interpretation:\nBorderline low IgG levels.\n\nClinical Significance:\nPossible mild humoral immune deficiency.\n\nPossible Causes:\nSecondary immune suppression or nutritional deficiency.\n\nPotential Risks:\nRecurrent infections.\n\nLifestyle & Follow-up:\nImmune evaluation and nutritional optimization recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 67 years. Anti-CCP negative, Rheumatoid factor positive, Joint pain present.",
+  "output": "Interpretation:\nRheumatoid factor positivity.\n\nClinical Significance:\nPossible inflammatory arthritis.\n\nPossible Causes:\nSeronegative or early rheumatoid arthritis.\n\nPotential Risks:\nJoint degeneration.\n\nLifestyle & Follow-up:\nRheumatology assessment and imaging advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 29 years. CRP 1.8 mg/L, Recent viral fever resolved.",
+  "output": "Interpretation:\nNear-normal inflammatory marker.\n\nClinical Significance:\nResolving immune response.\n\nPossible Causes:\nRecent viral infection.\n\nPotential Risks:\nNone significant.\n\nLifestyle & Follow-up:\nRest and hydration sufficient."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 73 years. IgA 460 mg/dL, Chronic kidney disease.",
+  "output": "Interpretation:\nElevated IgA levels.\n\nClinical Significance:\nChronic immune stimulation.\n\nPossible Causes:\nChronic kidney disease-associated inflammation.\n\nPotential Risks:\nProgressive renal dysfunction.\n\nLifestyle & Follow-up:\nNephrology follow-up and inflammation control advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 52 years. Anti-dsDNA negative, ANA positive, Photosensitivity present.",
+  "output": "Interpretation:\nANA positivity without dsDNA antibodies.\n\nClinical Significance:\nPossible early autoimmune connective tissue disorder.\n\nPossible Causes:\nUndifferentiated autoimmune disease.\n\nPotential Risks:\nProgression to defined autoimmune condition.\n\nLifestyle & Follow-up:\nRegular monitoring and sun protection advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 36 years. CRP 0.9 mg/L, ESR 6 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory markers.\n\nClinical Significance:\nNo active immune or inflammatory process.\n\nPossible Causes:\nHealthy immune status.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine care only."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 61 years. IgM 40 mg/dL, On chemotherapy.",
+  "output": "Interpretation:\nReduced IgM levels.\n\nClinical Significance:\nChemotherapy-induced immunosuppression.\n\nPossible Causes:\nBone marrow suppression.\n\nPotential Risks:\nIncreased infection risk.\n\nLifestyle & Follow-up:\nStrict infection prevention and medical monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 49 years. CRP 8 mg/L, Obesity and sedentary lifestyle.",
+  "output": "Interpretation:\nModerately elevated CRP.\n\nClinical Significance:\nChronic low-grade inflammation.\n\nPossible Causes:\nAdipose tissue-related inflammation.\n\nPotential Risks:\nMetabolic and cardiovascular disease.\n\nLifestyle & Follow-up:\nWeight reduction and increased physical activity recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 34 years. Anti-centromere antibodies positive, Raynaud phenomenon.",
+  "output": "Interpretation:\nAutoantibody positivity.\n\nClinical Significance:\nSuggestive of limited systemic sclerosis.\n\nPossible Causes:\nAutoimmune connective tissue disease.\n\nPotential Risks:\nVascular complications.\n\nLifestyle & Follow-up:\nRheumatology referral and vascular monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 56 years. IgG 1800 mg/dL, Chronic inflammatory bowel disease.",
+  "output": "Interpretation:\nElevated IgG levels.\n\nClinical Significance:\nPersistent immune activation.\n\nPossible Causes:\nChronic autoimmune inflammation.\n\nPotential Risks:\nDisease flare-ups.\n\nLifestyle & Follow-up:\nContinue maintenance therapy and monitoring."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 69 years. CRP 10 mg/L, ESR 35 mm/hr, Anemia present.",
+  "output": "Interpretation:\nSignificantly elevated inflammatory markers.\n\nClinical Significance:\nChronic inflammatory state.\n\nPossible Causes:\nInflammatory or malignant process.\n\nPotential Risks:\nProgressive systemic illness.\n\nLifestyle & Follow-up:\nComprehensive diagnostic workup recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 31 years. IgE 220 IU/mL, Mild eczema.",
+  "output": "Interpretation:\nMild elevation of IgE.\n\nClinical Significance:\nAtopic immune response.\n\nPossible Causes:\nAllergic skin disease.\n\nPotential Risks:\nChronic skin inflammation.\n\nLifestyle & Follow-up:\nSkin care optimization and allergen avoidance advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 46 years. ANA negative, Anti-CCP negative, Joint pain present.",
+  "output": "Interpretation:\nNegative autoimmune markers.\n\nClinical Significance:\nInflammatory arthritis unlikely.\n\nPossible Causes:\nDegenerative joint disease.\n\nPotential Risks:\nChronic pain.\n\nLifestyle & Follow-up:\nOrthopedic evaluation and physiotherapy advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 64 years. CRP 2.5 mg/L, ESR 14 mm/hr.",
+  "output": "Interpretation:\nLow-normal inflammatory markers.\n\nClinical Significance:\nNo significant systemic inflammation.\n\nPossible Causes:\nPhysiological variation.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nRoutine follow-up sufficient."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 57 years. IgA 380 mg/dL, Chronic sinusitis.",
+  "output": "Interpretation:\nHigh-normal IgA levels.\n\nClinical Significance:\nChronic mucosal immune activation.\n\nPossible Causes:\nRecurrent sinus infections.\n\nPotential Risks:\nPersistent inflammation.\n\nLifestyle & Follow-up:\nENT evaluation and infection control advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 43 years. CRP 5 mg/L, Recent intense physical exertion.",
+  "output": "Interpretation:\nMildly elevated CRP.\n\nClinical Significance:\nTransient inflammatory response.\n\nPossible Causes:\nStrenuous physical activity.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nAdequate rest and recovery advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 72 years. IgM 50 mg/dL, History of recurrent pneumonia.",
+  "output": "Interpretation:\nLow-normal IgM levels.\n\nClinical Significance:\nPossible age-related immune decline.\n\nPossible Causes:\nImmunosenescence.\n\nPotential Risks:\nSevere respiratory infections.\n\nLifestyle & Follow-up:\nVaccination and immune monitoring advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 38 years. CRP 12 mg/L, Acute skin infection.",
+  "output": "Interpretation:\nElevated inflammatory marker.\n\nClinical Significance:\nActive acute infection.\n\nPossible Causes:\nBacterial skin infection.\n\nPotential Risks:\nSystemic spread.\n\nLifestyle & Follow-up:\nPrompt antimicrobial therapy recommended."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Female, 59 years. ANA positive (1:320), Multi-joint pain.",
+  "output": "Interpretation:\nHigh-titer ANA positivity.\n\nClinical Significance:\nStrong evidence of autoimmune disease.\n\nPossible Causes:\nSystemic autoimmune connective tissue disorder.\n\nPotential Risks:\nMulti-organ involvement.\n\nLifestyle & Follow-up:\nUrgent rheumatology consultation advised."
+}
+{
+  "instruction": "Interpret the following immunology profile for an adult patient using standard medical reference ranges.",
+  "input": "Patient: Male, 47 years. CRP 0.7 mg/L, ESR 5 mm/hr.",
+  "output": "Interpretation:\nNormal inflammatory profile.\n\nClinical Significance:\nNo active immune pathology.\n\nPossible Causes:\nNormal immune function.\n\nPotential Risks:\nNone.\n\nLifestyle & Follow-up:\nNo medical intervention required."
+}
